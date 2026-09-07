@@ -712,9 +712,9 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78137
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78138
 #EXTINF:-1  tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 3
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 2 FRENCH 
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 2 FRENCH 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211444
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",BEIN SPORTS 1 FRENCH 
+#EXTINF:-1  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 1 FRENCH 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211446
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",,BEIN SPORTS 1 ENGLISH
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986985
@@ -725,7 +725,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418596
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73357
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 6 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73358
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BEIN SPORTS 5(C1 Châu Á)
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 5(C1 Châu Á)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73359
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",BEIN SPORTS 4(Ligue 1)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73360
@@ -757,7 +757,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980407
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311556
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",TNT SPORTS Premium
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
-
 
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,Sky Sports Football 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
