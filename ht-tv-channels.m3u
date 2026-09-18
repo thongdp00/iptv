@@ -1145,7 +1145,8 @@ https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260901/EHFkQ2Wy/3500kb/hls/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/09/11/henemngaynhatthucmeetmeattheeclipse20261920x1080s_1789101634921.jpg" group-title="Phim truyện", Hẹn Em Ngày Nhật Thực
 https://v7.kkphimplayer7.com/20260910/Y3IBebUU/index.m3u8
-
+#EXTINF:-1  tvg-logo="https://media.vov.vn/sites/default/files/styles/large/public/2026-07/conan-2.jpg" group-title="Phim truyện", Conan Movie 29: Thiên thần sa ngã trên sa lộ (Vietsub)
+https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
 
