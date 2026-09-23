@@ -688,12 +688,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=39455
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833700&extension=ts&play_token=DIbbtqyNmq
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg" group-title="Thể thao quốc tế", Asian Games CH-01
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
 #EXTINF:-1 tvg-id="ch-bedaznppv1" tvg-name="┃BE┃ DAZN PPV 1 |" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="Thể thao quốc tế",DAZN 1 NL
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1241086&extension=ts&play_token=O2MbAJ16aM
 #EXTINF:-1 tvg-id="ch-bedaznppv2" tvg-name="┃BE┃ DAZN PPV 2 |" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="Thể thao quốc tế",DAZN 2 NL
@@ -712,6 +707,12 @@ https://livesport.io.vn/ok/vip1.php?id=tsn3
 https://livesport.io.vn/ok/vip1.php?id=tsn4
 #EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
 https://livesport.io.vn/ok/vip1.php?id=tsn5
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg" group-title="Thể thao quốc tế", Asian Games CH-01
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh02.jpg"group-title="Thể thao quốc tế", Asian Games CH02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -737,6 +738,11 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH07.jpg"group-title="Thể thao quốc tế", Asian Games CH07
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
+https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
