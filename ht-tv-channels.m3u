@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epg.blaosolar.vn/schedule/epg.xml"
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", ViuTV Six
+https://cdn.qd.je/163189/viu6
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260923/2026092323/Q7uO3MlXbK-sang1.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Luồng 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260923/2026092323/sBAk40oAZZ-sang2.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Luồng 2
