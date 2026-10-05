@@ -852,7 +852,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
-
+#EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Quốc Tế", Filmbox
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1084668&extension=ts&play_token=onuPSPIV6o
 #EXTINF:-1 tvg-id="axn" tvg-logo="https://freem3u.xyz/static/images/global/axn.png" group-title="Quốc Tế",AXN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
