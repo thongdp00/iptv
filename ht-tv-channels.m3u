@@ -827,7 +827,8 @@ https://livesport.io.vn/ok/vip1.php?id=tsn3
 https://livesport.io.vn/ok/vip1.php?id=tsn4
 #EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
 https://livesport.io.vn/ok/vip1.php?id=tsn5
-
+#EXTINF:-1 tvg-id="babytvhd"  tvg-logo="https://cdn-images.vtv.vn/zoom/700_390/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc Tế", BabyTV
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=960054&extension=ts&play_token=qpvBSWKfyz
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
