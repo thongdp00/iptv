@@ -507,7 +507,7 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=da-nang-1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=da-nang-2
 
-#EXTINF:-1 tvg-id="daklak" group-title="Địa Phương" tvg-logo="ttps://freem3u.xyz/static/images/diaphuong/daklak.png", Đắk Lắk
+#EXTINF:-1 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/daklak.png", Đắk Lắk
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=dak-lak
 
