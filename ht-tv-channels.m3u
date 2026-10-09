@@ -323,11 +323,7 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=11&expires=1791559502&token=f21bf2d7
 https://tv.vietanhtv.top/tv360/tv360.php?id=12&expires=1791559502&token=39619e6f66836f715a7be95966d240be
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv1.png", SCTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sctv/cleankey.php?id=sctv1
-https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
+https://vmttv.dpdns.org/VTVGo/?sctv1
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -350,11 +346,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv8.png", SCTV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sctv/cleankey.php?id=sctv8
-https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
+https://vmttv.dpdns.org/VTVGo/?sctv8
 
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png", SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -407,11 +399,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv21.png", SCTV21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sctv/cleankey.php?id=sctv21
-https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
+https://vmttv.dpdns.org/VTVGo/?sctv21
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv22.png", SCTV22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
