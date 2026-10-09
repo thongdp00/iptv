@@ -636,7 +636,7 @@ https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/hitv.png", HiTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1791592012&token=c2c0d54f2c6d709d60da02a125a3d8f1
+https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png", YouTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
