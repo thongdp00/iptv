@@ -790,8 +790,7 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
 #EXTINF:-1 tvg-id="kix"  tvg-logo="https://freem3u.xyz/static/images/global/kix.png" group-title="Quốc Tế", Kix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="tvb-vietnam" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" group-title="Quốc Tế",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
@@ -856,7 +855,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=109
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png" group-title="Quốc Tế", France 24
 #EXTVLCOPT:http-user-agent=dovietsy
 https://freem3u.xyz/api/live/play.m3u8?vid=96
-
 #EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/654179-KBS.png" group-title="Quốc Tế", KBS World
 #EXTVLCOPT:http-user-agent=dovietsy
 https://freem3u.xyz/api/live/play.m3u8?vid=213
