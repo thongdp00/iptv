@@ -107,7 +107,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5-hd-tnb" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TNB.png" group-title="VTV",VTV5 TÂY NAM BỘ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5-hd-tn" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TN.png" group-title="VTV",VTV5 TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
@@ -233,7 +233,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=190
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv2.png", HTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/r/bdyayrdr
+https://livecdn-vthcm-bp.vieon.vn/12e2cf97d31a8d0e76147bd6d0b4efe5/1791732945000/livetv/group-04/84e39f2158e950a0d63d783260f7ea75/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png", HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=192
@@ -1056,7 +1056,7 @@ https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/3500kb/hls/index.m3u8
 https://a.kvp726.com/20260919/pV94M4PR/3500kb/hls/index.m3u8
 #EXTINF:-1  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/16/15/1789548094949/f99e2210649c_640_360.jpg" group-title="Phim truyện", Ma Xó
 https://rumble.com/hls-vod/lDgA-kgokls/playlist.m3u8
-#EXTINF:-1  tvg-logo=" https://images.fptplay53.net/media/OTT_ECS/2026/09/30/phadamsinhnhatmerebirthday20251920x1080_1790760696285.jpg" group-title="Phim truyện", Phá Đám: Sinh Nhật Mẹ
+#EXTINF:-1  tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/09/30/phadamsinhnhatmerebirthday20251920x1080_1790760696285.jpg" group-title="Phim truyện", Phá Đám: Sinh Nhật Mẹ
 https://rumble.com/hls-vod/I43eXt8DNJE/playlist.m3u8
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
