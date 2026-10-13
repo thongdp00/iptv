@@ -1351,7 +1351,6 @@ https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
 
 #EXTINF:-1 tvg-id="n54ql7tp01znrvy" tvg-name="Toronto Raptors vs New York Knicks" tvg-logo="" group-title="Gà Vàng TV",[National Basketball Association] [06:00 14/10] [NS] Toronto Raptors vs New York Knicks (Link 2 (Alibaba))
 https://playback.livetl004.com/live/69d37c3a4da3e15776b6db56.m3u8
-#EXTM3U
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:45-13/10: Newcastle Jets - Gamba Osaka (ACL Elite) - TẠ BIÊN GIỚI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
