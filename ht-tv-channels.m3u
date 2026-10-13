@@ -2783,3 +2783,40 @@ https://tv.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=122591
+#EXTINF:-1 group-title="⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Kiêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Nhí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Péo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Quỷ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Gáy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="⚽ XÔI CHÈ TV" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Xôi Xoài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub3/index.m3u8
+#EXTINF:-1 group-title="⚽ XÔI CHÈ TV" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Khô Chè
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub5/index.m3u8
+#EXTINF:-1 group-title="⚽ XÔI CHÈ TV" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Tam Mao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub8/index.m3u8
+#EXTINF:-1 group-title="⚽ XÔI CHÈ TV" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Tày
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.khoga.space/live/livehub10/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Nhí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Quỷ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Gáy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/294335.m3u8
+
