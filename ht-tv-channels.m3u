@@ -119,7 +119,7 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png" group-title="VTV",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv8-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/8.png" group-title="VTV",VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
