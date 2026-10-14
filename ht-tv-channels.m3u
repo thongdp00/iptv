@@ -678,8 +678,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=10915
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png"group-title="Thể thao quốc tế",TNT Sports 4 
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="┃UK┃ SKY SPORTS FOOTBALL FHD" tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="Thể thao quốc tế",SKY SPORTS FOOTBALL
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=394555&extension=ts&play_token=S9sxBpSjx8
 #EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2
@@ -689,34 +687,23 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=83370
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1241086&extension=ts&play_token=O2MbAJ16aM
 #EXTINF:-1 tvg-id="ch-bedaznppv2" tvg-name="┃BE┃ DAZN PPV 2 |" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="Thể thao quốc tế",DAZN 2 NL
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1241087&extension=ts&play_token=oq3PTkNUMp
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS MAIN EVENTS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577997&extension=ts&play_token=LVvfKbOefG
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS PL UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577996&extension=ts&play_token=eEJPpYEb0E
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS FOOTBALL UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577995&extension=ts&play_token=LeP2SXOvX3
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS NEWS UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577994&extension=ts&play_token=pMt9JNiRn8
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS CRICKET UHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577991&extension=ts&play_token=y2o6GyaOuF
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="3840x2160" gau-bitrate="Không rõ",SKY SPORTS MAIN EVENT FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577978&extension=ts&play_token=JCujxj0RE7
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS PL FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577977&extension=ts&play_token=4ZIVWC1Gy0
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS DARTS FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577972&extension=ts&play_token=dP42AJxl2E
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS GOLF FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577971&extension=ts&play_token=ckhdw2Cb4m
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS MIX FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577970&extension=ts&play_token=8cXoQ9cDys
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS NEWS FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577969&extension=ts&play_token=VD1LuAE5Wf
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS RACING FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577968&extension=ts&play_token=3svkuTdXHG
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS F1 FHD
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134459&extension=ts&play_token=QzLzBdEDMK
-#EXTINF:-1 group-title="Thể thao quốc tế" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS ARENA
+EXTINF:-1 tvg-id="ch-ukskysportsarena" tvg-name="UK: Sky Sports Arena" tvg-logo="https://s.imgexpress.net/d7cb0eef9703a1fa61db26fa29fe65d00e381c87e0f5cb3bac5f18cca17dc403.png" group-title="Thể thao quốc tế",Sky Sports Arena
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577944&extension=ts&play_token=zRxRIxHC3V
+#EXTINF:-1 tvg-id="ch-ukskysportsf1fhd50fps51" tvg-name="UK: Sky Sports F1 FHD " tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="Thể thao quốc tế",Sky Sports F1 FHD 
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134459&extension=ts&play_token=QzLzBdEDMK
+#EXTINF:-1 tvg-id="ch-ukskysportsfootballfhd50fps51" tvg-name="UK: Sky Sports Football FHD " tvg-logo="https://s.imgexpress.net/a338edc9b09ea4aecd5a614c8aef4b75d98093db559d641d93dc50063a635360.png" group-title="Thể thao quốc tế",Sky Sports Football FHD 
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577995&extension=ts&play_token=LeP2SXOvX3
+#EXTINF:-1 tvg-id="ch-ukskysportsgolffhd" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="https://s.imgexpress.net/de71abef5451e8f95de5a2dd4403c76a08a8372ac3dba9874f0584d003448bb4.png" group-title="Thể thao quốc tế",Sky Sports Golf FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577971&extension=ts&play_token=ckhdw2Cb4m
+#EXTINF:-1 tvg-id="ch-ukskysportsmaineventfhd" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="https://s.imgexpress.net/79abf3692e004ad19fd067926b0ce783cee374387b057dcf375dd9a7f027d60d.png" group-title="Thể thao quốc tế",Sky Sports Main Event FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577978&extension=ts&play_token=JCujxj0RE7
+#EXTINF:-1 tvg-id="ch-ukskysportsmixfhd50fps51" tvg-name="UK: Sky Sports Mix FHD " tvg-logo="https://s.imgexpress.net/4b98b381c3faf1d27f64686c1289e7ced231ec646bf28f3f79c2b27540e0e923.png" group-title="Thể thao quốc tế",Sky Sports Mix FHD 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17284
+#EXTINF:-1 tvg-id="ch-ukskysportspremierleaguefhd50fps51" tvg-name="UK: Sky Sports Premier League FHD " tvg-logo="https://s.imgexpress.net/88589b6f7b2112c7dcaeb58a545a0264446dafa32416c6817d23e40653bc0185.png" group-title="Thể thao quốc tế",Sky Sports Premier League FHD 
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577996&extension=ts&play_token=eEJPpYEb0E
+#EXTINF:-1 tvg-id="ch-ukskysportstennisfhd" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://s.imgexpress.net/61e4e03d8bf9f9a36270989ac2e186b0c5492c164ab78ac5ac585eb456dafee4.png" group-title="Thể thao quốc tế",Sky Sports Tennis FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664451
+
 #EXTINF:-1 tvg-id="babytvhd"  tvg-logo="https://cdn-images.vtv.vn/zoom/700_390/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc Tế", BabyTV
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=960054&extension=ts&play_token=qpvBSWKfyz
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
