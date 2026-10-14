@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="https://epg.blaosolar.vn/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="fptplayttgt" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/fill-bg-logo-410x230_1790071429252.jpg", FPT PLAY CHUỖI THỂ THAO - GIẢI TRÍ
-https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
+https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600_eng=20001.m3u8
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
