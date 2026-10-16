@@ -181,44 +181,56 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
  
 #EXTINF:-1 tvg-id="vtv1-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title="VTV",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=2
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv2-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/2.png" group-title="VTV",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv2
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv3-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/3.png" group-title="VTV",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv3
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv4-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/4.png" group-title="VTV",VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=108
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv5-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5.png" group-title="VTV",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=110
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv6-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/6.png" group-title="VTV",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv6
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv7-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png" group-title="VTV",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv7
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv8-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/8.png" group-title="VTV",VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv9-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/9.png" group-title="VTV",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv9
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv10-hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/10.png" group-title="VTV",VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv10
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="vtv5-hd-tnb" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TNB.png" group-title="VTV",VTV5 TÂY NAM BỘ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="vtv5-hd-tn" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TN.png" group-title="VTV",VTV5 TÂY NGUYÊN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vietnam-today" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/VNTD.png" group-title="VTV",VietNam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vietnam-today-hd
-#EXTINF:-1 tvg-id="vtv5-hd-tnb" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TNB.png" group-title="VTV",VTV5 TÂY NAM BỘ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5-hd-tn" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TN.png" group-title="VTV",VTV5 TÂY NGUYÊN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
+
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
