@@ -347,7 +347,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=194
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvthethao.png", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+https://livecdn-vthcm-bp.vieon.vn/3ddbb1fdfc4f3b7d45787596b6575792/1792575245000/livetv/group-05/d3d81ce359479433b1ccf8d14c1d6578/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcthuanviet.png", HTVC Thuần Việt 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=13
@@ -566,7 +566,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=81
 
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_2.png", Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://livesv1.onnamx.io.vn/hls/quangngai2/index.m3u8
+https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png", Quảng Trị
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=83
