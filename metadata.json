@@ -1,0 +1,10 @@
+{
+  "name": "Remix HT-TV",
+  "description": "Ứng dụng truyền hình HT TV tối ưu cho Android TV, Android TV Box và Mobile hỗ trợ HLS, MPD, Widevine \u0026 ClearKey DRM.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
