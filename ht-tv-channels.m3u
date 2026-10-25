@@ -664,6 +664,10 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 
 #EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Thể thao quốc tế",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Thể thao quốc tế", Eurosport 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Thể thao quốc tế", Eurosport 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
 #EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Thể thao quốc tế",Eurosport 
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Thể thao quốc tế",TyC Sports
@@ -876,10 +880,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211446
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986985
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png"  group-title="Thể thao quốc tế",,NOW SPORTS 1
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Thể thao quốc tế", Eurosport 1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Thể thao quốc tế", Eurosport 2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
+
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png"  group-title="Thể thao quốc tế",BEIN SPORTS 8(Tennis)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418596
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png"  group-title="Thể thao quốc tế",BEIN SPORTS 7(Tennis)
