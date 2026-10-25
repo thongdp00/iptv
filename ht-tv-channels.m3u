@@ -709,10 +709,6 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsNews.au@SD" tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="Thể thao quốc tế",Fox Sports News 
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
-#EXTINF:-1 tvg-id="ch-uknowhknowsports4k617" tvg-name="UK - NOW HK NOW SPORTS 4K 617" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1301200
-#EXTINF:-1 tvg-id="ch-uknowhknowsports4k616" tvg-name="UK - NOW HK NOW SPORTS 4K 616" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 4K 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1313247&extension=ts&play_token=815D3UXYEZ
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Thể thao quốc tế",Star Sports Select 1
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
@@ -863,7 +859,25 @@ https://livesport.io.vn/ott/viptv.php?id=dazn3es
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
 #EXTINF:-1 tvg-name="DAZN F1"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Thể thao quốc tế", DAZN F1
 https://livesport.io.vn/ott/viptv.php?id=daznf1
-
+#EXTINF:-1 tvg-name="BUNDESLIGA 1" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/bun.png", BUNDESLIGA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
+#EXTINF:-1 tvg-name="BUNDESLIGA 2" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/bun.png", BUNDESLIGA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://shahid-sports-2-enc.edgenextcdn.net/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+#EXTINF:-1 tvg-name="BUNDESLIGA 3" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/bun.png", BUNDESLIGA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd
+#EXTINF:-1 tvg-name="BUNDESLIGA 4" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/bun.png", BUNDESLIGA 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
+#EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://i.postimg.cc/fT1dwWC5/sportdigital.png" group-title="Thể thao quốc tế",SPORTDIGITAL FUSSBALL
+#EXTVLCOPT:https://www.primevideo.com/AivAndroidPlayer/1.0 (AndroidDevice)
+https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 tvg-id="babytvhd"  tvg-logo="https://cdn-images.vtv.vn/zoom/700_390/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc Tế", BabyTV
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=960054&extension=ts&play_token=qpvBSWKfyz
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" group-title="Quốc Tế" , Music Box
