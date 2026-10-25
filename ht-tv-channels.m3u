@@ -671,18 +671,18 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Thể thao quốc tế",ESPN 2 
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Thể thao quốc tế",ESPN 3 Latin America
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Thể thao quốc tế",ESPN 3 
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Thể thao quốc tế",ESPN 4 Latin America
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Thể thao quốc tế",ESPN 4 
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 5 Latin America 
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 5
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 
-#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 6 Latin America 
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 6
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 
-#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 7 Latin America 
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 7
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN (Brazil)
@@ -862,6 +862,39 @@ https://livesport.io.vn/ott/viptv.php?id=dazn3es
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
 #EXTINF:-1 tvg-name="DAZN F1"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Thể thao quốc tế", DAZN F1
 https://livesport.io.vn/ott/viptv.php?id=daznf1
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" group-title="Thể thao quốc tế",BEIN SPORTS 1
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78137
+#EXTINF:-1 tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png"  group-title="Thể thao quốc tế", BEIN SPORTS 2(TNK)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78138
+#EXTINF:-1  tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" group-title="Thể thao quốc tế",BEIN SPORTS 3
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="Thể thao quốc tế",BEIN SPORTS 2 FRENCH 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211444
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png"  group-title="Thể thao quốc tế",BEIN SPORTS 1 FRENCH 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211446
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png"  group-title="Thể thao quốc tế",,BEIN SPORTS 1 ENGLISH
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986985
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png"  group-title="Thể thao quốc tế",,NOW SPORTS 1
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Thể thao quốc tế", Eurosport 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Thể thao quốc tế", Eurosport 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png"  group-title="Thể thao quốc tế",BEIN SPORTS 8(Tennis)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418596
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png"  group-title="Thể thao quốc tế",BEIN SPORTS 7(Tennis)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73357
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png"  group-title="Thể thao quốc tế",BEIN SPORTS 6 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73358
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png"  group-title="Thể thao quốc tế",BEIN SPORTS 5(C1 Châu Á)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73359
+#EXTINF:-1 " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png"  group-title="Thể thao quốc tế",BEIN SPORTS 4(Ligue 1)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73360
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png"  group-title="Thể thao quốc tế",BEIN SPORTS 3( Laliga)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83133
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png"  group-title="Thể thao quốc tế",BEIN SPORTS 2
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83132
+
 #EXTINF:-1 tvg-id="babytvhd"  tvg-logo="https://cdn-images.vtv.vn/zoom/700_390/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc Tế", BabyTV
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=960054&extension=ts&play_token=qpvBSWKfyz
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" group-title="Quốc Tế" , Music Box
