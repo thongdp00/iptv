@@ -875,6 +875,18 @@ https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe363615
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
+#EXTINF:-1 tvg-name="SPORTV 1" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/sport/spo1br.png", SPORTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#EXTINF:-1 tvg-name="SPORTV 2" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/sport/spo2br.png", SPORTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1 tvg-name="SPORTV 3" group-title="Thể Thao Quốc Tế" tvg-logo="https://livesport.io.vn/logo/sport/spo3br.png", SPORTV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://i.postimg.cc/fT1dwWC5/sportdigital.png" group-title="Thể thao quốc tế",SPORTDIGITAL FUSSBALL
 #EXTVLCOPT:https://www.primevideo.com/AivAndroidPlayer/1.0 (AndroidDevice)
 https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
