@@ -773,10 +773,6 @@ https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
-#EXTINF:-1 tvg-name="BUNDESLIGA 5"  tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế", BUNDESLIGA 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
-https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
 #EXTINF:-1 tvg-name="SPORTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1br.png" group-title="Thể thao quốc tế", SPORTV 1(Đức)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
