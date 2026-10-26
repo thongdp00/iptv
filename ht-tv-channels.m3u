@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="PREMIERE" tvg-logo="https://livesport.io.vn/logo/sport/spo3br.png" group-title="Thể thao quốc tế", PREMIERE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={\"keys\":[{\"kty\":\"oct\",\"kid\":\"ncQEYMkwh66oTWMV8I7LZA\",\"k\":\"9pyNRiT93/TKib0LMb3Epw\"}],\"type\":\"temporary\"}
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1(C1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
