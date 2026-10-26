@@ -785,7 +785,14 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/63
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-
+#EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="https://livesport.io.vn/logo/sport/sk1.png" group-title="Thể thao quốc tế", SPORT KLUB 1
+https://livesport.io.vn/ott/apo.php?id=sk1
+#EXTINF:-1 tvg-name="SPORT KLUB 2"  tvg-logo="https://livesport.io.vn/logo/sport/sk2.png" group-title="Thể thao quốc tế", SPORT KLUB 2
+https://livesport.io.vn/ott/apo.php?id=sk2
+#EXTINF:-1 tvg-name="SPORT KLUB 3"  tvg-logo="https://livesport.io.vn/logo/sport/sk3.png" group-title="Thể thao quốc tế", SPORT KLUB 3
+https://livesport.io.vn/ott/apo.php?id=sk3
+#EXTINF:-1 tvg-name="SPORT KLUB 4"  tvg-logo="https://livesport.io.vn/logo/sport/sk4.png" group-title="Thể thao quốc tế", SPORT KLUB 4
+https://livesport.io.vn/ott/apo.php?id=sk4
 #EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Thể thao quốc tế",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Thể thao quốc tế", Eurosport 1
