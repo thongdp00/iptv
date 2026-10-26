@@ -624,18 +624,18 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=94141
 #EXTINF:-1 tvg-id="ch-frligue11fhd" tvg-name="┃FR┃ LIGUE 1+ 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="Thể thao quốc tế",  LIGUE 1+ 1(Pháp)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1258813&extension=ts&play_token=0QHoYvUl3g
 
-#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202610268e3779ef58ebc82b7d305b67d4ff570e.jpg" group-title="Thể thao quốc tế",Canal+ Sport( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102689bbb7129a95b6fa480d6780c39c0074.jpg" group-title="Thể thao quốc tế",Canal+ Sport( Ngoại Hạng Anh)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202610263635a7da4db46d99d167590d3da40099.jpg"group-title="Thể thao quốc tế",Canal+ Sport 2
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026f372c00c59f807ba22e8fbd2a8412c04.jpg" group-title="Thể thao quốc tế",Canal+ Sport 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026a281c162430f0aa0bf202fe224d57c9e.jpg" group-title="Thể thao quốc tế",Canal+ Sport 3
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102668c3dfb2197e7826d39a2ee60add8d78.jpg" group-title="Thể thao quốc tế",Canal+ Sport 3
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026d8dc773b746f8412e26bfaf8d887a8f9.jpg" group-title="Thể thao quốc tế",Canal+ Sport 4( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026dcd04faed053f18a9164526276af2c97.jpg" group-title="Thể thao quốc tế",Canal+ Sport 4( Ngoại Hạng Anh)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202610265bd53d657c25bace8de928cf988ab384.jpg" group-title="Thể thao quốc tế",Canal+ Sport 5( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026634524cc991a3c4a7de409a176fbc134.jpg" group-title="Thể thao quốc tế",Canal+ Sport 5( Ngoại Hạng Anh)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202610269095f5e9223f369d1a0d2ac55af4c9e6.jpg" group-title="Thể thao quốc tế",Canal+ Sport 6( Ngoại Hạng Anh)
