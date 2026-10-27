@@ -688,7 +688,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11494
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149433&extension=ts&play_token=7zlfAJdtLy
 #EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="┃DE┃ SKY SPORT TOP EVENT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TOP EVENT.png" group-title="Thể thao quốc tế", SKY SPORT TOP EVENT
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149434&extension=ts&play_token=sOj3UyFeHN
-#EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1
+#EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1(TBN)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833700&extension=ts&play_token=DIbbtqyNmq
@@ -716,6 +716,8 @@ https://livesport.io.vn/ott/viptv.php?id=dazn3es
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
 #EXTINF:-1 tvg-name="DAZN F1"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Thể thao quốc tế", DAZN F1
 https://livesport.io.vn/ott/viptv.php?id=daznf1
+#EXTINF:-1 tvg-id="Match4.hu@SD" tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Thể thao quốc tế", Match4 (Đức)
+http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTINF:-1 tvg-name="BUNDESLIGA 1"  tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế", BUNDESLIGA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
