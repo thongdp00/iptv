@@ -800,16 +800,14 @@ http://stream.mcquack.net/235/index.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Thể thao quốc tế",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
-#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Thể thao quốc tế",Eurosport 4K
-http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Thể thao quốc tế",Eurosport 
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Thể thao quốc tế", Eurosport 1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Thể thao quốc tế", Eurosport 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Thể thao quốc tế",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Thể thao quốc tế",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97542_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 1
