@@ -118,12 +118,10 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 #EXTINF:-1 tvg-id="vtv5-hd-tn" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/5TN.png" group-title="VTV",VTV5 TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/master.m3u8
-
 #EXTINF:-1 tvg-id="vietnam-today" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/VNTD.png" group-title="VTV",VietNam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
