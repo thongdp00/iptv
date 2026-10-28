@@ -628,11 +628,11 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Thể thao quốc tế",Star Sports Select 2 ( Ngoại Hạng Anh)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404533
-#EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="https://livesport.io.vn/logo/sport/hubpre1.png" group-title="Thể thao quốc tế",HUB PREMIER 1( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế",HUB PREMIER 1( Ngoại Hạng Anh)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314077&extension=ts&play_token=LgvQok74q6
-#EXTINF:-1 tvg-id="ch-ukhubpremier2fhd" tvg-name="┃UK┃ HUB PREMIER 2 FHD" tvg-logo="https://livesport.io.vn/logo/sport/hubpre2.png" group-title="Thể thao quốc tế",HUB PREMIER 2( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="ch-ukhubpremier2fhd" tvg-name="┃UK┃ HUB PREMIER 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="Thể thao quốc tế",HUB PREMIER 2( Ngoại Hạng Anh)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314078&extension=ts&play_token=Zc0jE8Sq8h
-#EXTINF:-1 tvg-id="ch-ukhubpremier3fhd" tvg-name="┃UK┃ HUB PREMIER 3 FHD" tvg-logo="https://livesport.io.vn/logo/sport/hubpre3.png" group-title="Thể thao quốc tế", HUB PREMIER 3( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="ch-ukhubpremier3fhd" tvg-name="┃UK┃ HUB PREMIER 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="Thể thao quốc tế", HUB PREMIER 3( Ngoại Hạng Anh)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314079&extension=ts&play_token=meYFPnbeqz
 #EXTINF:-1 tvg-id="ch-ukhubpremier4fhd" tvg-name="┃UK┃ HUB PREMIER 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="Thể thao quốc tế", HUB PREMIER 4( Ngoại Hạng Anh)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314080&extension=ts&play_token=CkoE9cxZle
