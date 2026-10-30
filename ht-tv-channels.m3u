@@ -1030,8 +1030,11 @@ https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 #EXTINF:-1  tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_640_360.png" group-title="Phim truyện", 360 Thiếu Nhi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
+#EXTINF:-1 tvg-id="360mrbean"  tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_640_360.png" group-title="Phim truyện", 360 Mr.bean
+https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/12/baytienthefataldealz20261920x10801_1791800464791.jpg" group-title="Phim truyện", Bẫy Tiền: Cú Lừa Tiền Tỉ
 https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/con-ke-ba-nghe.jpg" group-title="Phim truyện", Con Kể Ba Nghe
 https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg" group-title="Phim truyện", Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (Vietsub)
@@ -1123,6 +1126,8 @@ https://rumble.com/hls-vod/lDgA-kgokls/playlist.m3u8
 https://rumble.com/hls-vod/I43eXt8DNJE/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/23/quy-bat-hon20261920x1080s_1792750378911.jpg" group-title="Phim truyện", Quỷ Bắt Hồn
 https://a.kvp726.com/20261026/2clev3ZX/3500kb/hls/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/23/duoidayhothelake20251920x1080s_1792750430617.jpg" group-title="Phim truyện", Dưới Đáy Hồ
+https://a.kvp726.com/20261030/PhvUF3XB/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
 
