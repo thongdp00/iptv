@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD" tvg-logo="https://i.imgur.com/Yq3Jf19.png" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1(C1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
