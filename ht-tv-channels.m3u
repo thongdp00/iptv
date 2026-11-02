@@ -611,7 +611,7 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Thể thao quốc tế",ESPN Premium
 http://158.172.155.130:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine" tvg-logo="https://i.imgur.com/8P8N2Ov.png" group-title="Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Thể thao quốc tế",ESPN Extra
+#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine" tvg-logo="https://i.imgur.com/8P8N2Ov.png"  group-title="Thể thao quốc tế",ESPN Extra
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 tvg-chno="56" tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPN Deportes
 http://154.12.107.98:8000/play/a08s
