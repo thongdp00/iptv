@@ -710,19 +710,19 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=93300
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97542_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTMxMDA2MDczNDQ6Y2RubGl2ZXR2LnR2OmRiNmJiYzg3YzJiZjE0N2IuMWJmNDViNWQ5ZmY4YjJlNWVkZTRhNDc2MmNhYTY3ODEyMDFmYWY1NjMzZDg4MzVmZTVmYmNhYjVhZDIyY2Y2OQ
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
 
 #EXTINF:-1 tvg-chno="141" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTMxMDA2MDc1NDY6Y2RubGl2ZXR2LnR2OjExMTMzNzA4NGUxOTg2ZmMuZGNhNmM2Yjk4NGMyYzIxNzgwMTg2ZGMyODFhNDI2NWNlMGZiNmRhY2Y3YmNmY2FkM2ViZDY3OWE4ZjFjNmZiNA
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1091517&extension=ts&play_token=zKzxFKTNmb
 
 #EXTINF:-1 tvg-chno="142" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117230_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTMxMDA2MDc2OTM6Y2RubGl2ZXR2LnR2OjI1YWJiYTRlNDQ1MDgyMTAuMzJkZjNkZGY4YjhjYWNiMDc0ZDk0NDZmZjI0NGMzOWQyNjRkYjJkNzE5ODEzNTBmYjFjZWQ5NGI4MTgzMDNhZQ
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY
 
 #EXTINF:-1 tvg-chno="143" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46594_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTMxMDA2MDc4NDY6Y2RubGl2ZXR2LnR2OjQ0NTM1NjQyN2IxZDNiN2YuMWIzODAxMGI2MTU0ZjYzOTRjMzY4MjY2MjIxY2I4YTkwMzdmYzE5OGYzZWZmYzE2NTYxY2RlZWI2MDgzNTZjYw
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
 #EXTINF:-1 tvg-id="ch-argtntsportshd" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ ◉" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" group-title="Thể thao quốc tế",TNT SPORTS PREMIUM
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 #EXTINF:-1 tvg-name="DSPORTS 1"  tvg-logo="https://livesport.io.vn/logo/sport/dd1.png" group-title="Thể thao quốc tế", DSPORTS 1
