@@ -607,9 +607,9 @@ https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 #EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 6 
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 7
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261102b1f60c6b1f930673c57a83620521c769.jpg" group-title="Thể thao quốc tế",ESPN 7
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN Latin America
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261102b1f60c6b1f930673c57a83620521c769.jpg" group-title="Thể thao quốc tế",ESPN Latin America
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPNEWS
 http://41.205.93.154/ESPNNEWS/index.m3u8
