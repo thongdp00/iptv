@@ -647,6 +647,8 @@ https://livesport.io.vn/ott/viptv.php?id=dazn3es
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
 #EXTINF:-1 tvg-name="DAZN F1"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Thể thao quốc tế", DAZN F1
 https://livesport.io.vn/ott/viptv.php?id=daznf1
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png"  group-title="Thể thao quốc tế",M4 Sport
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="Match4.hu@SD" tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Thể thao quốc tế", Match4 
 http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTINF:-1 tvg-name="BUNDESLIGA 1"  tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế", BUNDESLIGA 1 (Đức)
@@ -783,10 +785,6 @@ https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-chno="118" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="Thể thao quốc tế",NBC Sports Philadelphia
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png"  group-title="Thể thao quốc tế",M4 Sport
-http://88.212.7.14/live/uatlmvixrr/index.m3u8
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Thể thao quốc tế",Match! Ultra
-http://31.148.5.241/kanal_3/index.m3u8
 
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Hoạt hình",Kartoon Channel!
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
@@ -884,7 +882,13 @@ https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Hoạt hình", The LEGO Channel
 https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Hoạt hình",Disney Jr
+https://tvsen5.aynaott.com/disney/index.m3u8
 
+#EXTINF:-1 tvg-chno="79" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Quốc Tế",Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="Quốc Tế",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png" group-title="Quốc Tế",America's Got Talent
 https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png" group-title="Quốc Tế",American Idol
@@ -1018,10 +1022,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=96
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nhkworld.png" group-title="Quốc Tế", NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id="nhk_premium" tvg-logo="https://raw.githubusercontent.com/mihaiphongvn-hub/logos/master/nhk_premium.png"  group-title="Quốc Tế", NHK Premium
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=6-mp4a_380800_jpn=28.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Quốc Tế", Filmbox
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1084668&extension=ts&play_token=onuPSPIV6o
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="Quốc Tế", Al Jazeera English
@@ -1074,6 +1074,10 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-chno="34" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Quốc Tế",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Quốc Tế",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png" group-title="Phim truyện", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
