@@ -1210,6 +1210,8 @@ https://rumble.com/hls-vod/rYCXyz8f0fw/playlist.m3u8
 https://rumble.com/hls-vod/6AwEiNEKeWM/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261103/2026110305/6eba0c00-652f-40b2-9f8e-2e0be0ab6e89-3-2560x1440.jpg&width=1080" group-title="Phim truyện", Kế Hoạch CM12 - Tập 3
 https://rumble.com/hls-vod/aZ6ODFgg1L8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261104/2026110403/d40511a2-d26c-432b-9b57-bfe94b9203f0-4-1--2560x1440.jpg&width=1080" group-title="Phim truyện", Kế Hoạch CM12 - Tập 4
+https://rumble.com/hls-vod/qlkfAggBdjU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
