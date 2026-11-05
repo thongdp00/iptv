@@ -645,6 +645,65 @@ https://livesport.io.vn/ott/viptv.php?id=dazn2es
 https://livesport.io.vn/ott/viptv.php?id=dazn3es
 #EXTINF:-1 tvg-name="DAZN LALIGA"  tvg-logo="https://livesport.io.vn/logo/sport/daznlaliga.png" group-title="Thể thao quốc tế", DAZN LALIGA (TBN)
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr1.png" group-title="Thể thao quốc tế",BEIN SPORTS 1
+https://livesport.io.vn/ott/vstb.php?id=be1fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr2.png" group-title="Thể thao quốc tế",BEIN SPORTS 2
+https://livesport.io.vn/ott/vstb.php?id=be2fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr3.png" group-title="Thể thao quốc tế",BEIN SPORTS 3
+https://livesport.io.vn/ott/vstb.php?id=be3fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m4.png" group-title="Thể thao quốc tế",BEIN SPORTS 4 MAX
+https://livesport.io.vn/ott/vstb.php?id=be4fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m5.png" group-title="Thể thao quốc tế",BEIN SPORTS 5 MAX
+https://livesport.io.vn/ott/vstb.php?id=be5fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m6.png" group-title="Thể thao quốc tế",BEIN SPORTS 6 MAX
+https://livesport.io.vn/ott/vstb.php?id=be6fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m7.png" group-title="Thể thao quốc tế",BEIN SPORTS 7 MAX
+https://livesport.io.vn/ott/vstb.php?id=be7fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m8.png" group-title="Thể thao quốc tế",BEIN SPORTS 8 MAX
+https://livesport.io.vn/ott/vstb.php?id=be8fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m9.png" group-title="Thể thao quốc tế",BEIN SPORTS 9 MAX
+https://livesport.io.vn/ott/vstb.php?id=be9fr
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m10.png" group-title="Thể thao quốc tế",BEIN SPORTS 10 MAX
+https://livesport.io.vn/ott/vstb.php?id=sky8nz&fresh=1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1
+https://livesport.io.vn/ott/viptv.php?id=ele1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2
+https://livesport.io.vn/ott/viptv.php?id=ele2
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3
+https://livesport.io.vn/ott/viptv.php?id=ele3
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4
+https://livesport.io.vn/ott/viptv.php?id=ele4
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5
+https://livesport.io.vn/ott/viptv.php?id=ele5
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-bundesliga-1-1804.png" group-title="Thể thao quốc tế",BUNGDESLIGA 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=bun1
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/dazn1de.png" group-title="Thể thao quốc tế",DAZN1 DE
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=dazn1
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/dazn2de.png" group-title="Thể thao quốc tế",DAZN2 DE
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=dazn2
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-1-563.png" group-title="Thể thao quốc tế",NOVA SPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-2-564.png" group-title="Thể thao quốc tế",NOVA SPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 #EXTINF:-1 tvg-name="DAZN F1"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Thể thao quốc tế", DAZN F1
 https://livesport.io.vn/ott/viptv.php?id=daznf1
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png"  group-title="Thể thao quốc tế",M4 Sport
