@@ -1182,6 +1182,16 @@ https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
 https://rumble.com/hls-vod/74h9mw/playlist.m3u8
 #EXTINF:-1 tvg-id="phim-tu-chien-tren-khong" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg" group-title="Phim truyện",Tử Chiến Trên Không
 https://rumble.com/hls-vod/72x1ns/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg" group-title="Phim truyện", Mưa Đỏ
+https://s6.kkphimplayer6.com/20251118/obSmOjv7/3500kb/hls/index.m3u8
+#EXTINF:-1  tvg-logo="https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg" group-title="Phim truyện", Mang Mẹ Đi Bỏ
+https://s6.kkphimplayer6.com/20251214/2ASHLy8K/3500kb/hls/index.m3u8
+#EXTINF:-1  tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/2025/092025/14/13/in_social/tay-anh-giu-mot-vi-sao-payoff-poster-social-khoi-chieu-0310202520250914134014.jpg" group-title="Phim truyện", Tay Anh Giữ Một Vì Sao
+https://s6.kkphimplayer6.com/20260101/CqU7YVpt/3500kb/hls/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/03/13/ut-lan-oan-linh-giu-cua-fpt-play-1773395168032_Background_origin.jpg" group-title="Phim truyện", Út Lan: Oán Linh Giữ Của
+https://s6.kkphimplayer6.com/20260320/I7klQsjJ/3500kb/hls/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg" group-title="Phim truyện", Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn
+https://s6.kkphimplayer6.com/20260101/4Hxke0cC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/quy-nhap-trang-2.jpg" group-title="Phim truyện", Quỷ Nhập Tràng 2
 https://v7.kkphimplayer7.com/20260820/QT327Pkh/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/anh-hung.jpg" group-title="Phim truyện", Anh Hùng
