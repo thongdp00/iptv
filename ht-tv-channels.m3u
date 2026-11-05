@@ -549,7 +549,10 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="┃UK┃ MUTV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="Thể thao quốc tế",MUTV 
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd
 #EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Thể thao quốc tế",Milan TV
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV
@@ -840,7 +843,51 @@ https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="Thể thao quốc tế",NBC Sports Philadelphia
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap1.png" group-title="Thể thao quốc tế",ARENA PREMIUM 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=apre1
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap2.png" group-title="Thể thao quốc tế",ARENA PREMIUM 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=apre2
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap3.png" group-title="Thể thao quốc tế",ARENA PREMIUM 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=apre3
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a1.png" group-title="Thể thao quốc tế",ARENA SPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are1
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a2.png" group-title="Thể thao quốc tế",ARENA SPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are2
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a3.png" group-title="Thể thao quốc tế",ARENA SPORT 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are3
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a4.png" group-title="Thể thao quốc tế",ARENA SPORT 4
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are4
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a5.png" group-title="Thể thao quốc tế",ARENA SPORT 5
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are5
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a6.png" group-title="Thể thao quốc tế",ARENA SPORT 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are6
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a7.png" group-title="Thể thao quốc tế",ARENA SPORT 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are7
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a8.png" group-title="Thể thao quốc tế",ARENA SPORT 8
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=are8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="LIVE FOOTBALL",20:00 Indian League Division 1 Samaleshwari SC 1-2 Dempo
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6Mxk43A3my3LJewDsV
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="LIVE FOOTBALL",20:30 Uzbekistan Super League Bunyodkor 1-2 Xorazm Urganch
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MvVdGZPdCCksnDwx3
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/29b8fc02e3045c8026cfc8f3fb6a36dd.png" group-title="LIVE FOOTBALL",21:15 Qatar League 2 Al Markhiya 0-0 Al Waab SC
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxjKLiK6PYnoNxviT
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="LIVE FOOTBALL",21:00 Indian Super League Mohun Bagan Super Giant 0-0 Odisha FC
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxjK4UHe1AX3SN9cT
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Hoạt hình",Kartoon Channel!
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Hoạt hình",ZooMoo
