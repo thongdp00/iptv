@@ -1374,41 +1374,44 @@ https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
 #EXTINF:-1 tvg-id="zing-radio-11" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png" group-title="Nghe nhạc",ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL",05:15 Argentine Division 1 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL",Argentine Division 1 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/event.php?id=sd-6MwdLb7121NzWczzQF
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/a6350b03022c4e5344c808657c3282bb.png" group-title="LIVE FOOTBALL",06:00 Mexico Liga MX Femenil 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MwarmBzqLCW1puBEP
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/4c12fa77781f4ede0f0ca465a109addf.png" group-title="LIVE FOOTBALL",06:00 Bolivian Copa 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/4c12fa77781f4ede0f0ca465a109addf.png" group-title="LIVE FOOTBALL",Bolivian Copa 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/event.php?id=sd-6MxjK1DHidUbTjUVQ3
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png" group-title="LIVE FOOTBALL",07:00 Colombian Torneo BetPlay 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png" group-title="LIVE FOOTBALL",Colombian Torneo BetPlay 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/event.php?id=sd-6Mxk4CzixKSf1RbLbH
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png" group-title="LIVE FOOTBALL",08:00 Mexico Ascenso MX 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk4GHveW6CYjfeNT
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",08:00 Hangzhou "Qianchao Cup" 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVgv24mXrutH5
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",08:00 Hangzhou "Qianchao Cup"
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVguwfonuG3yH
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL",05:30 Brazilian Serie B 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL",Brazilian Serie B 
 https://livesport.io.vn/ott/event.php?id=sd-6MvVNfQxTzAQJzKNmM
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",10:50 Hangzhou "Qianchao Cup" 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",Hangzhou "Qianchao Cup" 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVgv8fD9JPdjm
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",10:50 Hangzhou "Qianchao Cup" 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="LIVE FOOTBALL",Vietnam National First Class League 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVgjs1zHHWHAo
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",13:40 Hangzhou "Qianchao Cup" 
+https://livesport.io.vn/ott/event.php?id=sd-6MxipX8VSYVnX4WHFV
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png" group-title="LIVE FOOTBALL",Mexico Ascenso MX Alacranes
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVhFJpMY4RMMR
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",13:40 Hangzhou "Qianchao Cup" 
+https://livesport.io.vn/ott/event.php?id=sd-6Mxk4GHveYHgRDVZXM
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/39f070fc09edd28842e8d7552711e26b.png" group-title="LIVE FOOTBALL",RUS M-League 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVhFGcsfabSCX
+https://livesport.io.vn/ott/event.php?id=sd-6Mwd5vbfZJWYpFyJjR
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/16e09c13832d48afbb8a542a8628ed1c.png" group-title="LIVE FOOTBALL",Australia W-League 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6Mxj4gFuug2xU3Xzrs
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/a6350b03022c4e5344c808657c3282bb.png" group-title="LIVE FOOTBALL",Mexico Liga MX Femenil 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MwarmBzqQbTknZ1YB
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/24c4935c711f8829dafcea8715df5702.png" group-title="LIVE FOOTBALL", Aus Champ 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxjJwvpLnccQdYBzw
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/19b47bf476e44b459df2e22bd0fd7b86.png" group-title="LIVE FOOTBALL",Futsal International Tournament Yinchuan Women 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6Mxk4CyydU3AiTtMNw
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/a84499fb6fbf42729271d6b70d22492d.png" group-title="LIVE FOOTBALL", Australia A-League 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MwarNNHTMQBFwh6KR
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -1417,27 +1420,27 @@ https://tv.vietanhtv.top/socolive/get.php?id=621887
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=626841
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",08:00-06/11: BLV YONE
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV YONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=372746
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",08:00-06/11: BLV VIP
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",10:00-06/11:  BLV COCA
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV COCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",10:00-06/11:  BLV ENZO
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",  BLV ENZO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",10:00-06/11: BLV CR Bưởi
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV CR Bưởi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",10:00-06/11: BLV CACAO
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV CACAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=620661
@@ -1457,7 +1460,7 @@ https://tv.vietanhtv.top/socolive/get.php?id=147801
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive" BLV ĐỐM
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV ĐỐM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=434982
@@ -1645,10 +1648,6 @@ https://tv.vietanhtv.top/socolive/get.php?id=552832
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=620084
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive", BLV VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=491873
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV A TINH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
