@@ -1854,6 +1854,12 @@ https://pzhgifbkllliv.vcdn.cloud/1793929841_hd/1793929841_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/KNcsFnh3.jpg" group-title="Giờ Vàng TV",BLV Ben
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://pzhgifbkllliv.vcdn.cloud/1793930650_hd/1793930650_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/KNcsFnh3.jpg" group-title="Giờ Vàng TV",BLV Mù
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://pzhgifbkllliv.vcdn.cloud/1793951817_hd/1793951817_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/KNcsFnh3.jpg" group-title="Giờ Vàng TV",BLV Riko
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://pzhgifbkllliv.vcdn.cloud/1793952063_hd/1793952063_hd@720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp"  group-title="Gà Vàng 24h TV", BLV SÚP LƠ
 https://playback.livetl004.com/live/6a9a5525864ea536c2577392.flv
@@ -2017,7 +2023,16 @@ https://live2.jorvakstreamcache.com/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/9MbrSbtz.jpg" group-title="Xôi Lạc Z TV",BLV MARTY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel30.flv
-
-
-
+https://live2.jorvakstreamcache.com/live/channel30.flv
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/9MbrSbtz.jpg" group-title="Xôi Lạc Z TV",BLV TONI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel9.flv
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/9MbrSbtz.jpg" group-title="Xôi Lạc Z TV",BLV XMEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel13.flv
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/9MbrSbtz.jpg" group-title="Xôi Lạc Z TV",BLV NEMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel17.flv
