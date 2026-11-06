@@ -1374,10 +1374,13 @@ https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
 #EXTINF:-1 tvg-id="zing-radio-11" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png" group-title="Nghe nhạc",ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL",Argentine Division 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MwdLb7121NzWczzQF
 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="LIVE FOOTBALL",Vietnam National Champion League 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxipEp4Qc6mTSQUCF
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="LIVE FOOTBALL",Vietnam National Champion League 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxipEp4QihD4stDew
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -1470,10 +1473,6 @@ https://tv.vietanhtv.top/socolive/get.php?id=599634
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV BOSS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=620504
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV ALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -1658,7 +1657,7 @@ https://tv.vietanhtv.top/socolive/get.php?id=617313
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=621843
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLVXUÂN SON
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV XUÂN SON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=501412
