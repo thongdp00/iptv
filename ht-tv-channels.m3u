@@ -593,8 +593,7 @@ http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports F1
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTINF:-1 tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg" group-title="Thể thao quốc tế",Sky Sport Tennis
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8
-#EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1(TBN)
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTM5ODYyMDQ1NDU6Y2RubGl2ZXR2LnR2Ojk2MjAxYWZiMjE5OThiN2YuNzc1Mjg5OTI3YTVkMjIxMWY1YTNiMGExZTFiY2RiMjlmYjIxMjBkNjU4OWI0MGFmY2JkN2QxNzI0YmE5NjFjMA#EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1(TBN)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2 (TBN)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833700&extension=ts&play_token=DIbbtqyNmq
@@ -1382,40 +1381,6 @@ https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a5
 #EXTINF:-1 tvg-id="zing-radio-11" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png" group-title="Nghe nhạc",ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="LIVE FOOTBALL",Anh 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mwdq5CWcVVeBwvyQ3
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="LIVE FOOTBALL",Vietnam National Champion League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxipEp4Qc6mTSQUCF
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="LIVE FOOTBALL",Vietnam National Champion League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxipEp4QihD4stDew
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="LIVE FOOTBALL",Liga 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxiKavp5TcRFBujZR_md
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/39f070fc09edd28842e8d7552711e26b.png" group-title="LIVE FOOTBALL",RUS M-League
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mwd5vbfZGK4wn9PaX
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png" group-title="LIVE FOOTBALL",United Arab Emirates Division 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxjJwwZKpVnWgAszP
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png" group-title="LIVE FOOTBALL",United Arab Emirates Division 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxjJwwZKrhGP9zo9H
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png" group-title="LIVE FOOTBALL",United Arab Emirates Division 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxjJwwZKw6E87edT5
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="LIVE FOOTBALL",Indian League Division 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk43A3cZxATg3wq9
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b09e3c1876cd675af62b2b1c6f47a1d5.png" group-title="LIVE FOOTBALL",Croatian First Football League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxj4TAGLF9L5QuXKd
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="LIVE FOOTBALL",Thai League 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MwarK9UpZCtERWLPq
-
 #EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/uVV6V69Y.jpg" group-title="Socolive",BLV CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -1688,10 +1653,6 @@ https://tv.vietanhtv.top/socolive/get.php?id=627318
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=617313
-#EXTINF:-1 tvg-logo="hhttps://cdn.upanhlaylink.com/i/uVV6V69Y.jpg" group-title="Socolive", BLV BẢY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=621843
 #EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/uVV6V69Y.jpg" group-title="Socolive",BLV XUÂN SON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
