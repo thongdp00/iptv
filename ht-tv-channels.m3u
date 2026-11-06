@@ -1397,6 +1397,25 @@ https://livesport.io.vn/ott/event.php?id=sd-6MxiKavp5TcRFBujZR_md
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/39f070fc09edd28842e8d7552711e26b.png" group-title="LIVE FOOTBALL",RUS M-League
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/event.php?id=sd-6Mwd5vbfZGK4wn9PaX
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png" group-title="LIVE FOOTBALL",United Arab Emirates Division 1 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxjJwwZKpVnWgAszP
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png" group-title="LIVE FOOTBALL",United Arab Emirates Division 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxjJwwZKrhGP9zo9H
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png" group-title="LIVE FOOTBALL",United Arab Emirates Division 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MxjJwwZKw6E87edT5
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="LIVE FOOTBALL",Indian League Division 1 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6Mxk43A3cZxATg3wq9
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b09e3c1876cd675af62b2b1c6f47a1d5.png" group-title="LIVE FOOTBALL",Croatian First Football League 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6Mxj4TAGLF9L5QuXKd
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="LIVE FOOTBALL",Thai League 1 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/event.php?id=sd-6MwarK9UpZCtERWLPq
+
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
