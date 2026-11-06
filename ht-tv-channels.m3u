@@ -571,7 +571,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11493
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=skyf1
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="┃DE┃ SKY SPORT GOLF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png" group-title="Thể thao quốc tế", SKY SPORT GOLF
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149429&extension=ts&play_token=zB4UlUk4Mp
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY0OjE3OTM5NjgyMDQ0MDQ6Y2RubGl2ZXR2LnR2OjEwYmFmNTEwYzUyYzgwNjkuZWJhZWZhNDg0YzM2OTE0NjE5OTU3OWNiYmFkNWQxNmZmMzk5Mzc0NzBlYmM5ZTAxZjcxZjI2ZDk0ODZiNDhkYQ
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="┃DE┃ SKY SPORT MIX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="Thể thao quốc tế", SKY SPORT MIX
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=skymix
@@ -1377,41 +1377,7 @@ https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512af
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL",Argentine Division 1 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/event.php?id=sd-6MwdLb7121NzWczzQF
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/4c12fa77781f4ede0f0ca465a109addf.png" group-title="LIVE FOOTBALL",Bolivian Copa 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxjK1DHidUbTjUVQ3
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png" group-title="LIVE FOOTBALL",Colombian Torneo BetPlay 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk4CzixKSf1RbLbH
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL",Brazilian Serie B 
-https://livesport.io.vn/ott/event.php?id=sd-6MvVNfQxTzAQJzKNmM
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL",Hangzhou "Qianchao Cup" 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk3sVgv8fD9JPdjm
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="LIVE FOOTBALL",Vietnam National First Class League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxipX8VSYVnX4WHFV
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png" group-title="LIVE FOOTBALL",Mexico Ascenso MX Alacranes
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk4GHveYHgRDVZXM
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/39f070fc09edd28842e8d7552711e26b.png" group-title="LIVE FOOTBALL",RUS M-League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mwd5vbfZJWYpFyJjR
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/16e09c13832d48afbb8a542a8628ed1c.png" group-title="LIVE FOOTBALL",Australia W-League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxj4gFuug2xU3Xzrs
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/a6350b03022c4e5344c808657c3282bb.png" group-title="LIVE FOOTBALL",Mexico Liga MX Femenil 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MwarmBzqQbTknZ1YB
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/24c4935c711f8829dafcea8715df5702.png" group-title="LIVE FOOTBALL", Aus Champ 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MxjJwvpLnccQdYBzw
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/19b47bf476e44b459df2e22bd0fd7b86.png" group-title="LIVE FOOTBALL",Futsal International Tournament Yinchuan Women 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6Mxk4CyydU3AiTtMNw
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/a84499fb6fbf42729271d6b70d22492d.png" group-title="LIVE FOOTBALL", Australia A-League 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/event.php?id=sd-6MwarNNHTMQBFwh6KR
+
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592" group-title="Socolive",BLV CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
