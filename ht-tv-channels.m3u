@@ -1633,7 +1633,7 @@ https://tv.vietanhtv.top/socolive/get.php?id=532081
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=622241
-#EXTINF:-1 tvg-logo="hhttps://cdn.upanhlaylink.com/i/uVV6V69Y.jpg" group-title="Socolive",21:30-07/11: 1. FSV Mainz 05 - FC Bayern Munich (GER D1) - NGƯỜI CÁ
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/uVV6V69Y.jpg" group-title="Socolive",21:30-07/11: 1. FSV Mainz 05 - FC Bayern Munich (GER D1) - NGƯỜI CÁ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=595335
@@ -5349,35 +5349,3 @@ https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/basketball/team/6f313b682482799762cf60dbc30dbfae.png" group-title="Gà Vàng 24h TV",05:00 08/11 🏀 Indiana Pacers vs Denver Nuggets (Wem By) [flv]
 https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small" group-title="Phá Làng TV",🟢 17:00 07/11 ⚽ Hoàng Anh Gia Lai vs Hà Nội FC (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/47db5a44610efeadd90e3bc02d8be3b7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small" group-title="Phá Làng TV",🟢 18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/f41a93aeb7a1ed24288f59335607f60c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small" group-title="Phá Làng TV",🟢 18:00 07/11 ⚽ XM Hải Phòng FC vs Sông Lam Nghệ An (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/11830b9bd55d68fd7c9dee3a58154220/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small" group-title="Phá Làng TV",19:15 07/11 ⚽ Công An Hà Nội vs Hồ Chí Minh (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/ffe5c0a53b1e02f77374edb63287b37f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="Phá Làng TV",19:30 07/11 ⚽ Leeds United vs Tottenham (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/7879eceab7fee53dd12e8d160d41e82d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small" group-title="Phá Làng TV",21:00 07/11 ⚽ Cagliari vs Frosinone (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/66cd2f25dc14ffaeabf5d6a48b42dd16/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whl2kryox/image/small" group-title="Phá Làng TV",21:30 07/11 ⚽ Mainz 05 vs Bayern Munich (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/bcb5fd815f732354c482932b4b4fbc1c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small" group-title="Phá Làng TV",21:30 07/11 ⚽ Dortmund vs Elversberg (Nhà đài)
-#EXTVLCOPT:http-referrer=https://phalang.live/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://lilive1.eu.cc/live/9cf16a56479637400784ef8b8d06bd24/playlist.m3u8
