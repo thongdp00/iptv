@@ -574,7 +574,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11493
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=skyf1
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="┃DE┃ SKY SPORT GOLF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png" group-title="Thể thao quốc tế", SKY SPORT GOLF
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY0OjE3OTQxMzIwMDY0MjY6Y2RubGl2ZXR2LnR2Ojk4MjczOTEyOTQ3MDAzNWIuZTQ2NjVjMjE0OTJjMDYwOGM2MjY4ZmM2MzU0ZDY0MDY4NDNjYWE2YjMwNGU5ZWEyMjViMTc5MzAyZmU2ZTJkYw
+https://livesport.io.vn/ok/vip1.php?id=skygolf
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="┃DE┃ SKY SPORT MIX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="Thể thao quốc tế", SKY SPORT MIX
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=skymix
@@ -594,8 +594,6 @@ https://livesport.io.vn/ott/viptv.php?id=skyfoot
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports F1
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-#EXTINF:-1 tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg" group-title="Thể thao quốc tế",Sky Sport Tennis
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTQxMzIwMDcyNDQ6Y2RubGl2ZXR2LnR2OmM4NjQyMzhjODg4NTBkZjguZjE1ODVjZDczOGUwNGY4NmFiYmM3ODVmODE0ZjE0N2E4OWU0OTMxMWJkZjExMjY2NTMwODM4YzEwYWQyMDhhZQ
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1 (TBN)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2 (TBN)
@@ -847,16 +845,16 @@ https://cache1.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd
 https://cache1.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 #EXTINF:-1 tvg-chno="140" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97542_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
+https://livesport.io.vn/ok/vip1.php?id=tnt1
 #EXTINF:-1 tvg-chno="141" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1091517&extension=ts&play_token=zKzxFKTNmb
+https://livesport.io.vn/ok/vip1.php?id=tnt2
 #EXTINF:-1 tvg-chno="142" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117230_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY
+https://livesport.io.vn/ok/vip1.php?id=tnt3
 #EXTINF:-1 tvg-chno="143" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46594_dark_360w_270h.png" group-title="Thể thao quốc tế",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
+https://livesport.io.vn/ok/vip1.php?id=tnt4
 #EXTINF:-1 tvg-id="ch-argtntsportshd" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ ◉" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" group-title="Thể thao quốc tế",TNT SPORTS PREMIUM
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 #EXTINF:-1 tvg-name="DSPORTS 1"  tvg-logo="https://livesport.io.vn/logo/sport/dd1.png" group-title="Thể thao quốc tế", DSPORTS 1
