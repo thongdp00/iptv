@@ -792,6 +792,10 @@ https://livesport.io.vn/ott/viptv.php?id=dazn1es
 https://livesport.io.vn/ott/viptv.php?id=dazn2es
 #EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3" tvg-logo="https://livesport.io.vn/logo/sport/dazn3es.png" group-title="Thể thao quốc tế", DAZN 3 (Ngoại Hạng Anh)
 https://livesport.io.vn/ott/viptv.php?id=dazn3es
+#EXTINF:-1 tvg-id="ch-dedaznligue11" tvg-name="┃DE┃ DAZN LIGUE 1 | 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="Thể thao quốc tế", DAZN LIGUE 1 | 1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1025559&extension=ts&play_token=CgZ0PtivLK
+#EXTINF:-1 tvg-id="ch-dedaznligue12" tvg-name="┃DE┃ DAZN LIGUE 1 | 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="Thể thao quốc tế", DAZN LIGUE 1 | 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1025558&extension=ts&play_token=I04x2oEl0n
 #EXTINF:-1 tvg-name="DAZN LALIGA"  tvg-logo="https://livesport.io.vn/logo/sport/daznlaliga.png" group-title="Thể thao quốc tế", DAZN LALIGA (TBN)
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/dazn1de.png" group-title="Thể thao quốc tế",DAZN1 DE
