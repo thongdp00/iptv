@@ -1393,6 +1393,7 @@ https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTINF:-1 tvg-id="360doraemon"  tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png" group-title="Phim truyện", 360 Doraemon
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
 #EXTINF:-1 tvg-id="360songkhoe" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png" group-title="Phim truyện", 360 Sống Khỏe
+https://vmttv.dpdns.org/tv360/?id=360-song-khoe
 
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/12/baytienthefataldealz20261920x10801_1791800464791.jpg" group-title="Phim truyện", Bẫy Tiền: Cú Lừa Tiền Tỉ
@@ -1494,6 +1495,8 @@ https://rumble.com/hls-vod/5PO3pzUXLOQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261104/2026110403/d40511a2-d26c-432b-9b57-bfe94b9203f0-4-1--2560x1440.jpg&width=1080" group-title="Phim truyện", Kế Hoạch CM12 - Tập 7
 https://rumble.com/hls-vod/W2OYTbQygag/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261104/2026110403/d40511a2-d26c-432b-9b57-bfe94b9203f0-4-1--2560x1440.jpg&width=1080" group-title="Phim truyện", Kế Hoạch CM12 - Tập 8
+https://rumble.com/hls-vod/sCHY3k5K0LI/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261104/2026110403/d40511a2-d26c-432b-9b57-bfe94b9203f0-4-1--2560x1440.jpg&width=1080" group-title="Phim truyện", Kế Hoạch CM12 - Tập 9
 
 
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
