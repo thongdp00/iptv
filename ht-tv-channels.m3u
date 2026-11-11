@@ -784,8 +784,6 @@ https://livesport.io.vn/ott/vstb.php?id=sky8nz&fresh=1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1241086&extension=ts&play_token=O2MbAJ16aM
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="┃DE┃ DAZN BAR 1 RAW" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="Thể thao quốc tế", DAZN BAR 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149329&extension=ts&play_token=oGXPXfDsnm
-
-
 #EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1"  tvg-logo="https://livesport.io.vn/logo/sport/dazn1es.png" group-title="Thể thao quốc tế", DAZN 1 (Ngoại hạng Anh)
 https://livesport.io.vn/ott/viptv.php?id=dazn1es
 #EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2"  tvg-logo="https://livesport.io.vn/logo/sport/dazn2es.png" group-title="Thể thao quốc tế", DAZN 2 (Ngoại Hạng Anh)
@@ -848,8 +846,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vgkshf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
-
-
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png"  group-title="Thể thao quốc tế",M4 Sport
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="Match4.hu@SD" tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Thể thao quốc tế", Match4 
@@ -860,7 +856,6 @@ https://livesport.io.vn/ott/viptv.php?id=mcam1
 https://livesport.io.vn/ott/viptv.php?id=mdeportes
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="Thể thao quốc tế",MOVISTA GOLF
 https://livesport.io.vn/ott/viptv.php?id=mgolf
-
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1
 https://livesport.io.vn/ott/viptv.php?id=spo1
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 (Ý)
@@ -905,6 +900,8 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" group-title="FIFA",Caze TV
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1047,7 +1044,7 @@ https://c.mjh.nz/abc-kids.m3u8
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="Hoạt hình",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
-#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" group-title="Hoạt hình",Hop! (1080p)
+#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" group-title="Hoạt hình",Hop!
 http://stream.mcquack.net/44/index.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Hoạt hình",Kartoon Channel!
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
