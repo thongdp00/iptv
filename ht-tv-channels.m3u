@@ -695,7 +695,8 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320904
 #EXTINF:-1 tvg-id="ch-aradsportspremium3uhd" tvg-name="STARZPLAY SPORTS 3" tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 3
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320905
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="┃DE┃ SKY SPORT BUNDESLIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="Thể thao quốc tế", SKY SPORT BUNDESLIGA(Đức)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149303&extension=ts&play_token=OLGEoAl7pm
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livesport.io.vn/ott/apo.php?id=bun1
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="┃DE┃ SKY SPORT F1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT F1.png" group-title="Thể thao quốc tế", SKY SPORT F1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=skyf1
