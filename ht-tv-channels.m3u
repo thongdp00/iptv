@@ -817,16 +817,6 @@ https://livesport.io.vn/ott/vstb.php?id=sky8nz&fresh=1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1241086&extension=ts&play_token=O2MbAJ16aM
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="┃DE┃ DAZN BAR 1 RAW" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="Thể thao quốc tế", DAZN BAR 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149329&extension=ts&play_token=oGXPXfDsnm
-#EXTINF:-1 tvg-id="ch-dedaznligue11" tvg-name="┃DE┃ DAZN LIGUE 1 | 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="Thể thao quốc tế", DAZN LIGUE 1 | 1
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1025559&extension=ts&play_token=CgZ0PtivLK
-#EXTINF:-1 tvg-id="ch-dedaznligue12" tvg-name="┃DE┃ DAZN LIGUE 1 | 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="Thể thao quốc tế", DAZN LIGUE 1 | 2
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1025558&extension=ts&play_token=I04x2oEl0n
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/dazn1de.png" group-title="Thể thao quốc tế",DAZN1 DE
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=dazn1
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/dazn2de.png" group-title="Thể thao quốc tế",DAZN2 DE
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=dazn2
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1
 https://livesport.io.vn/ott/viptv.php?id=ele1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2
