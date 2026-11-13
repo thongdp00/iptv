@@ -1,0 +1,157 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="SKY SPORT 4K" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ",|4K| SKY SPORTS UHD [EVENT]
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284558&extension=ts&play_token=MPQzgSfdk1
+#EXTINF:-1 group-title="SKY SPORT 4K" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ",|4K| SKY SPORTS 1 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284557&extension=ts&play_token=D9C6C3Ovig
+#EXTINF:-1 group-title="SKY SPORT 4K" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="3840x2160" gau-bitrate="Không rõ",|4K| SKY SPORTS 2 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284556&extension=ts&play_token=uj6UCSet9J
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",|4K| SKY SPORTS F1 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284555&extension=ts&play_token=fUl319g17I
+#EXTINF:-1 group-title="SKY SPORT 4K" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ",|4K| SKY SPORTS DARTS UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1284554&extension=ts&play_token=4jTWwFwM4O
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - DISNEY+ 1 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=584384&extension=ts&play_token=arlB9vyfyN
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",OSN - DISNEY CHANNEL UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=724269&extension=ts&play_token=hIO3MPJCoP
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT HEVC
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=845395&extension=ts&play_token=aOHURngP2l
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT 360 HEVC
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=845394&extension=ts&play_token=OgCbKcbs7A
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ HEVC
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=845369&extension=ts&play_token=1eclIP71kI
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ GRAND ECRAN UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=690986&extension=ts&play_token=zgAFAzWrQF
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ 360 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=770797&extension=ts&play_token=UBai35zkSl
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT 360 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=807391&extension=ts&play_token=9TQBlmnPyc
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=554013&extension=ts&play_token=Y85sJPEwaJ
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=543383&extension=ts&play_token=BVdqdAKd7p
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=543382&extension=ts&play_token=0FJUhJf3ck
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - DAZN 1 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1141407&extension=ts&play_token=N5hvcmvEcS
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - DAZN 1 SD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1141409&extension=ts&play_token=ckKEi28Num
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ LIVE 2
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1150879&extension=ts&play_token=88UoD9lcGj
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ LIVE 11
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1150870&extension=ts&play_token=T4ea2Moy5K
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ LIVE 19
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1150862&extension=ts&play_token=AgnoJOglvI
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ BOX OFFICE FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=960977&extension=ts&play_token=x1VKk03T7e
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=543470&extension=ts&play_token=RuKkRCXUp0
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ DOCS
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=609330&extension=ts&play_token=72vrjdGSed
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - BEST DISNEY SERIES 2021
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=656386&extension=ts&play_token=Ls5HNsWUlW
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+SPORT360 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1389177&extension=ts&play_token=Gsm4Uw8pk2
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ SPORT 4K
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=553681&extension=ts&play_token=ZKpVYInz6L
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ CINEMA 4K
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=553687&extension=ts&play_token=kD1SDnTagD
+#EXTINF:-1 group-title="CANAL+" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FR - CANAL+ 360 4K
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=553688&extension=ts&play_token=pwtEfg0SSp
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BE - DAZN 1
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1370691&extension=ts&play_token=4lPxiixWmp
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BE - DAZN 2
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1370690&extension=ts&play_token=dpvq9RPz9N
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - DISNEY CHANNEL HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1207525&extension=ts&play_token=4AwiZtXi4y
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - DAZN 5
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=612268&extension=ts&play_token=HtYVY6NnPF
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - M. DISNEY+
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=612303&extension=ts&play_token=ApYcqnlw3b
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - DAZN BAR 1 FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1108482&extension=ts&play_token=J65nCCdMwn
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - DAZN BAR 1 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1108483&extension=ts&play_token=pPWJmQQk5z
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - DAZN MOTOGP FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1366413&extension=ts&play_token=yhQT4SJJF6
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - DAZN 5 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=505669&extension=ts&play_token=HAl3n05xl5
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",DAZN EVENTO 01 | Copa del Rey: Valencia Basket x Real Madrid 17:50 h
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1327705&extension=ts&play_token=Byfz90KCdC
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",DAZN EVENTO 03 | LEB Oro: HLA Alicante x Hestia Menorca 18:50 h
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1327703&extension=ts&play_token=5i0JtBCIrJ
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ES - M. DISNEY+
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=505696&extension=ts&play_token=MzLMX3hXS9
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",IT - DISNEY TOPOLINO PAPERINO E PIPPO HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=602049&extension=ts&play_token=nId2Kf02LW
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",IT - DISNEY PLUS FILM 2 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=602030&extension=ts&play_token=3pvqiNi6zI
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",IT - SKY DAZN WEB 2 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=601790&extension=ts&play_token=WxDkk64LFQ
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",NL - VERONICA HD /DISNEY XD ◉
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=891252&extension=ts&play_token=4E9PLM6jIq
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",NL - DISNEY CHANNEL HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=891354&extension=ts&play_token=iM9MjkkZsi
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",NL - DISNEY CHANNEL 4K
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=891503&extension=ts&play_token=b09YB9HtNe
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT - DAZN 1 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=250642&extension=ts&play_token=h3Bncnh2xa
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT -  DAZN 2 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=812993&extension=ts&play_token=UIAvYSMe3r
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT - DAZN 2 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=250641&extension=ts&play_token=MNFVzeLcgc
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT -  DAZN 4 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=812995&extension=ts&play_token=gMXNoNa2Rg
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT - DAZN 4 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=250639&extension=ts&play_token=b5iIDl82y6
+#EXTINF:-1 group-title="DAZN" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT - DAZN 5 UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=250638&extension=ts&play_token=lvOzPWpmrD
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS MAIN EVENTS UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577997&extension=ts&play_token=LVvfKbOefG
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS PL UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577996&extension=ts&play_token=eEJPpYEb0E
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS FOOTBALL UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577995&extension=ts&play_token=LeP2SXOvX3
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS NEWS UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577994&extension=ts&play_token=pMt9JNiRn8
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="3.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS CRICKET UHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577991&extension=ts&play_token=y2o6GyaOuF
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="3840x2160" gau-bitrate="Không rõ",UK - SKY SPORTS MAIN EVENT FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577978&extension=ts&play_token=JCujxj0RE7
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS PL FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577977&extension=ts&play_token=4ZIVWC1Gy0
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS DARTS FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577972&extension=ts&play_token=dP42AJxl2E
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS GOLF FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577971&extension=ts&play_token=ckhdw2Cb4m
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS MIX FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577970&extension=ts&play_token=8cXoQ9cDys
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS NEWS FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577969&extension=ts&play_token=VD1LuAE5Wf
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS RACING FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577968&extension=ts&play_token=3svkuTdXHG
+#EXTINF:-1 group-title="TNT SPORT" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 2 FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577966&extension=ts&play_token=RH9hEtwew9
+#EXTINF:-1 group-title="TNT SPORT" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 3 FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577965&extension=ts&play_token=uh02NNfpnd
+#EXTINF:-1 group-title="TNT SPORT" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS ESPN FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577964&extension=ts&play_token=1y9tJMKDLQ
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS ARENA
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577944&extension=ts&play_token=zRxRIxHC3V
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS FOOTBALL
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577941&extension=ts&play_token=3nimIGoNPf
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS MIX
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=577939&extension=ts&play_token=idpqv7sgND
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="4.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SBO 3: SKY SPORTS BOX OFFICE SD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=677309&extension=ts&play_token=tZBDCJzMDQ
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ",F1 - SKY SPORTS F1
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134458&extension=ts&play_token=VkoVflhsUg
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",F1 - SKY SPORTS F1 FHD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134459&extension=ts&play_token=QzLzBdEDMK
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",F1 - SKY SPORTS F1 HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134460&extension=ts&play_token=BBFfW0vcv3
+#EXTINF:-1 group-title="SKY SPORT F1 FHD" tvg-expire="18/02/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",F1 - SKY SPORTS FORMULA 1 HD IT
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1134462&extension=ts&play_token=QDPh4r7ogD
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",CA - DISNEY CANADA HD
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=626959&extension=ts&play_token=Jb8kRmlJaw
+#EXTINF:-1 group-title="DISNEY" tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",CAFR -  LA CHAINE DISNEY
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=626298&extension=ts&play_token=CVg256yJ1M
