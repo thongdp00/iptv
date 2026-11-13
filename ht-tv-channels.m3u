@@ -220,7 +220,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/6.png" group-title="VTV",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png" group-title="VTV",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #KODIPROP:inputstream.adaptive.manifest_type=hls
