@@ -1103,8 +1103,6 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/521106
-#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Thể thao quốc tế",CBS Sports HQ
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi" group-title="Thể thao quốc tế", CCTV5+
 https://cdn.qd.je/163189/cctv5p
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest?cb=20211107032828" group-title="Thể thao quốc tế", CCTV16
