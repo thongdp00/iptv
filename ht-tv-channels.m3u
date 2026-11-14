@@ -1098,15 +1098,15 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo1
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo2
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo3
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORTTV 4"  tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="Thể thao quốc tế", SPORTTV 4
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORTTV 4"  tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="Thể thao quốc tế", SPORTTV 4 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo4
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo5
 #EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="https://livesport.io.vn/logo/sport/sk1.png" group-title="Thể thao quốc tế", SPORT KLUB 1
 https://livesport.io.vn/ott/apo.php?id=sk1
@@ -1297,7 +1297,7 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Thể thao quốc tế",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://i.ibb.co.com/vL0VSmb/ctsport.png" group-title="Thể thao quốc tế",CT Sport 🇸🇰
+#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://i.ibb.co.com/vL0VSmb/ctsport.png" group-title="Thể thao quốc tế",CT Sport 🇨🇿 
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="Thể thao quốc tế", TUDN 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1306,11 +1306,11 @@ http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 #EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Thể thao quốc tế",SuperTennis 🇮🇹
 http://57.128.225.206/stream/7/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Thể thao quốc tế",Golf Channel 
+#EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Thể thao quốc tế",Golf Channel 🇨🇿 
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Thể thao quốc tế",Golf + 
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.HD.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Thể thao quốc tế",Sportitalia
+#EXTINF:-1 tvg-id="Sportitalia.HD.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Thể thao quốc tế",Sportitalia 🇮🇹
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Thể thao quốc tế",DiviSport
 http://stream.mcquack.net/457/index.m3u8
