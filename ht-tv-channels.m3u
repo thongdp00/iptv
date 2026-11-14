@@ -1095,7 +1095,7 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK
+#EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://go4.pw/USA/cbssports.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/521106
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi" group-title="Thể thao quốc tế", CCTV5+
 https://cdn.qd.je/163189/cctv5p
