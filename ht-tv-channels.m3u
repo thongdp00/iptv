@@ -602,12 +602,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
-#EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Thể thao quốc tế",SPOTV
+#EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Thể thao quốc tế",SPOTV  🇮🇳 🏍🏎️
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
-#EXTINF:-1  tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv2.png" group-title="Thể thao quốc tế" ,SPOTV2
+#EXTINF:-1  tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv2.png" group-title="Thể thao quốc tế" ,SPOTV2  🇮🇳 🏍🏎️
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
@@ -737,22 +737,22 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11494
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149434&extension=ts&play_token=sOj3UyFeHN
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="┃DE┃ SKY SPORT MIX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="Thể thao quốc tế", SKY SPORT MIX 🇩🇪
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149430&extension=ts&play_token=fXPa0MS6uo
-#EXTINF:-1 tvg-chno="118" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Football 
+#EXTINF:-1 tvg-chno="118" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Football 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://livesport.io.vn/ott/m4.php?channel=skyfoot&format=redirect
-#EXTINF:-1 tvg-chno="122" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Premier League
+#EXTINF:-1 tvg-chno="122" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Premier League 🇬🇧
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-#EXTINF:-1 tvg-chno="117" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports F1
+#EXTINF:-1 tvg-chno="117" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports F1 🇬🇧
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Golf
+#EXTINF:-1 tvg-chno="129" tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Golf 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://livesport.io.vn/ott/m4.php?channel=skygolf&format=redirect
-#EXTINF:-1 tvg-chno="134" tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Tennis
+#EXTINF:-1 tvg-chno="134" tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664451
-#EXTINF:-1  tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="Thể thao quốc tế",SKY SPORTS ARENA
+#EXTINF:-1  tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="Thể thao quốc tế",SKY SPORTS ARENA 🇬🇧
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980426
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png" group-title="Thể thao quốc tế",SKY SPORTS 1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png" group-title="Thể thao quốc tế",SKY SPORTS 1 
 https://livesport.io.vn/ott/vstb.php?id=sky1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-2-459.png" group-title="Thể thao quốc tế",SKY SPORTS 2
 https://livesport.io.vn/ott/vstb.php?id=sky2
@@ -852,11 +852,11 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73357
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418596
 #EXTINF:-1  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="Thể thao quốc tế",BEIN SPORTS 9
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/418597
-#EXTINF:-1  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="Thể thao quốc tế",BEIN SPORTS 1 ENGLISH
+#EXTINF:-1  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="Thể thao quốc tế",BEIN SPORTS 1 🇬🇧
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986985
-#EXTINF:-1  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="Thể thao quốc tế",BEIN SPORTS 2 ENGLISH
+#EXTINF:-1  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="Thể thao quốc tế",BEIN SPORTS 2 🇬🇧
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986986
-#EXTINF:-1  tvg-logo="https://go4.pw/germany/ESPORT.png" group-title="Thể thao quốc tế",ESPORTS 1
+#EXTINF:-1  tvg-logo="https://go4.pw/germany/ESPORT.png" group-title="Thể thao quốc tế",ESPORTS 1 🇩🇪
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/762832
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr1.png" group-title="Thể thao quốc tế",Bein Sports 1 🇫🇷⚽️🏉🏀
 https://livesport.io.vn/ott/vstb.php?id=be1fr
@@ -891,12 +891,6 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-chno="" cuid="1814" tvg-name="Bein Sports 2" tvg-id="beINSports2.au" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 2 🇦🇺
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;La Liga⚽️;Serie A⚽️;Fifa Competition⚽️
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78138
-#EXTINF:-1 tvg-chno="" cuid="1816" tvg-name="Bein Sports 3" tvg-id="beINSports3.au" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 3 🇦🇺
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Serie A⚽️;Fifa Competition⚽️
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
 #EXTINF:-1 tvg-chno="" cuid="1818" tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 1 🇹🇷
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Champions league⚽️
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
