@@ -1,42 +1,6 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/Y7180vYJ/sprotlive.png" group-title="SPORTS🏅",  SPORTLIVE 🇩🇰
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"99a4b11ecd0def97aca1ecef9ee15420":"8399d4f59726f514b7665bb5ff66a9e1","99a4b11ecd0def97aca1ecef9ee15410":"5593fc645a7432cb88954bae345b9b03"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_sportlive_dk_live/sm_sportlive_dk_live.isml/playlist.mpd
-#EXTINF:-1 tvg-id="Spotv Hd.ph" group-title="SPORTS🏅" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png",SPOTV 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-#EXTINF:-1 tvg-id="Spotv Hd2.ph" group-title="SPORTS🏅" tvg-logo="https://i.ibb.co.com/ZM8qx15/spotv2.png",SPOTV 2 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://i.ibb.co.com/MfLxms6/tennisch.png" group-title="SPORTS🏅;TENNIS🎾", Tennis Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59F50679C9E60963BD0CB6640992AAAA:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://i.ibb.co.com/MfLxms6/tennisch.png" group-title="SPORTS🏅;TENNIS🎾", Tennis Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
-https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
-
-#EXTINF:-1 channel-id="GBBA33000529G" tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://i.ibb.co.com/MfLxms6/tennisch.png" group-title="SPORTS🏅", Tennis Channel
-https://jmp2.uk/stvp-ATBA2200008XN
-
-#EXTINF:-1 channel-id="GBBA33000529G" tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://i.ibb.co.com/MfLxms6/tennisch.png" group-title="SPORTS🏅", Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yQ9x6Jj/t2tennisch.png" group-title="SPORTS🏅",T2 Tennis Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yQ9x6Jj/t2tennisch.png" group-title="SPORTS🏅",T2 Tennis Channel
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-
-
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1396,7 +1360,9 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="TennisChannel2.us@SD" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Thể thao quốc tế",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Thể thao quốc tế",Tennis Channel 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
+https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
 #EXTINF:-1 tvg-chno="190" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Thể thao quốc tế",USA Network
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 cuid="1776" tvg-name="DAZN Ringside 🇺🇸 [ᴛυʙɪ]" tvg-id="GBBD30000038U" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dazn_ringside.png" group-title="Thể thao quốc tế",☆ DAZN Ringside 🇺🇸
