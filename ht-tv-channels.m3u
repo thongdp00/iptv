@@ -1266,15 +1266,15 @@ https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/166_HTTP/__op
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/229_HTTP/__op/dash-widevine/__f/manifest.mpd
-#EXTINF:-1 tvg-name="DSPORTS 1"  tvg-logo="https://livesport.io.vn/logo/sport/dd1.png" group-title="Thể thao quốc tế", DSPORTS 1 🇬🇹
+#EXTINF:-1 tvg-name="DSPORTS 1"  tvg-logo="https://livesport.io.vn/logo/sport/dd1.png" group-title="Thể thao quốc tế", DSPORTS 1 🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd
-#EXTINF:-1 tvg-name="DSPORTS 2"  tvg-logo="https://livesport.io.vn/logo/sport/dd2.png" group-title="Thể thao quốc tế", DSPORTS 2 🇬🇹
+#EXTINF:-1 tvg-name="DSPORTS 2"  tvg-logo="https://livesport.io.vn/logo/sport/dd2.png" group-title="Thể thao quốc tế", DSPORTS 2 🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-name="DSPORTS PLUS"  tvg-logo="https://livesport.io.vn/logo/sport/dplus.png" group-title="Thể thao quốc tế", DSPORTS PLUS 🇬🇹
+#EXTINF:-1 tvg-name="DSPORTS PLUS"  tvg-logo="https://livesport.io.vn/logo/sport/dplus.png" group-title="Thể thao quốc tế", DSPORTS PLUS 🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
