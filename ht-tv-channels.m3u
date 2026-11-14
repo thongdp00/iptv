@@ -1049,13 +1049,13 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1
 https://livesport.io.vn/ott/viptv.php?id=spo1
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 (Ý)
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 
 https://livesport.io.vn/ott/viptv.php?id=spo2
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 (Golf)
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 
 https://livesport.io.vn/ott/viptv.php?id=spo3
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORTTV 4"  tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="Thể thao quốc tế", SPORTTV 4
 https://livesport.io.vn/ott/viptv.php?id=spo4
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 (Tennis)
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 
 https://livesport.io.vn/ott/viptv.php?id=spo5
 #EXTINF:-1 tvg-name="SPORTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1br.png" group-title="Thể thao quốc tế", SPORTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1065,7 +1065,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
-#EXTINF:-1 tvg-name="SPORTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3br.png" group-title="Thể thao quốc tế", SPORTV 3 (F1)
+#EXTINF:-1 tvg-name="SPORTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3br.png" group-title="Thể thao quốc tế", SPORTV 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
@@ -1101,7 +1101,7 @@ https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="TNT SPORT 2"  tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="Thể thao quốc tế", TNT SPORT 2 (MOTO GP)
+#EXTINF:-1 tvg-name="TNT SPORT 2"  tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="Thể thao quốc tế", TNT SPORT 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
@@ -1180,18 +1180,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="Match4.hu@SD" tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Thể thao quốc tế", Match4 
 http://141.94.193.53:80/Match4_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mcampeones.png" group-title="Thể thao quốc tế",MOVISTA CAMPEONES
-https://livesport.io.vn/ott/viptv.php?id=mcam1
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mcampeones.png" group-title="Thể thao quốc tế",MOVISTA DEPORTES
-https://livesport.io.vn/ott/viptv.php?id=mdeportes
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="Thể thao quốc tế",MOVISTA GOLF
-https://livesport.io.vn/ott/viptv.php?id=mgolf
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="Thể thao quốc tế",Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Thể thao quốc tế",Setanta Sports 2 
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="Thể thao quốc tế",Setanta Sports 2 
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="Thể thao quốc tế",Setanta Sports+ Georgia
-http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr@SD" tvg-logo="https://i.imgur.com/t35zhM9.png"  group-title="Thể thao quốc tế",L'Equipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Thể thao quốc tế",Fast&FunBox
@@ -1210,26 +1202,6 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Thể thao quốc tế",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPN
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPN2
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Thể thao quốc tế",ESPN 3 
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Thể thao quốc tế",ESPN 4 
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 5 
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 6 
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261102b1f60c6b1f930673c57a83620521c769.jpg" group-title="Thể thao quốc tế",ESPN 7
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261102b1f60c6b1f930673c57a83620521c769.jpg" group-title="Thể thao quốc tế",ESPN Latin America
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPNEWS
-http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Thể thao quốc tế",ESPNU
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://go4.pw/USA/cbssports.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/521106
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi" group-title="Thể thao quốc tế", CCTV5+
