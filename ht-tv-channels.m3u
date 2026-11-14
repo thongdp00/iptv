@@ -4,7 +4,6 @@
 #EXTINF:-1 tvg-chno="" cuid="1539" tvg-id="Star.Sports.Select.2.in"tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Star Sports Select 2 🇮🇳
 #EXTGRP:All Sports 🌎;Premier League⚽️
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
