@@ -1673,6 +1673,10 @@ https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8
+#EXTINF:-1 tvg-id="vov4tn" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/LakYBTaD.png", VOV4 Tây Nguyên
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist_w762538826.m3u8
+#EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/1Ut1Xzq4.png", VOV5
+https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/rf5Lp7dA.jpg", VOV Giao thông Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/rf5Lp7dA.jpg", VOV Giao thông Hồ Chí Minh
@@ -1694,7 +1698,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10036
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
-#EXTINF:-1 tvg-id="camauradio" group-title="Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
+#EXTINF:-1 tvg-id="camauradio" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/fbJ8nb3T.webp", Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="canthoradio1" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/9b7858d5-ff44-43b3-94ab-e4d66a54f1bd.png", Cần Thơ Radio 1
 https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
@@ -1711,7 +1715,7 @@ https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_96mhz--3-01-111727.jpg?w=450&h=270", Hà Nội FM 96
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
-#EXTINF:-1 tvg-id="hatinhradio" group-title="Radio" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", Hà Tĩnh
+#EXTINF:-1 tvg-id="hatinhradio" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/hEf8TEMh.webp", Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
