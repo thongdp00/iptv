@@ -1124,7 +1124,7 @@ https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Hoạt hình",ABC Kids
+#EXTINF:-1 tvg-id="ABC Kids" tvg-logo="https://cdn.upanhlaylink.com/i/Q8K4VHjb.png" group-title="Hoạt hình",ABC Kids
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
