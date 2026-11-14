@@ -680,13 +680,13 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 #EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2( Ngoại Hạng Anh)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
-#EXTINF:-1 tvg-id="ch-grcytavisionsports1hd" tvg-name="GR - CYTAVISION SPORTS 1 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 1
+#EXTINF:-1 tvg-id="ch-grcytavisionsports1hd" tvg-name="GR - CYTAVISION SPORTS 1 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324974
-#EXTINF:-1 tvg-id="ch-grcytavisionsports2hd" tvg-name="GR - CYTAVISION SPORTS 2 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 2
+#EXTINF:-1 tvg-id="ch-grcytavisionsports2hd" tvg-name="GR - CYTAVISION SPORTS 2 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 2 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324973
-#EXTINF:-1 tvg-id="ch-grcytavisionsports3hd" tvg-name="GR - CYTAVISION SPORTS 3 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 3
+#EXTINF:-1 tvg-id="ch-grcytavisionsports3hd" tvg-name="GR - CYTAVISION SPORTS 3 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 3 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324972
-#EXTINF:-1 tvg-id="ch-grcytavisionsports4hd" tvg-name="GR - CYTAVISION SPORTS 4 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",Liverpool TV
+#EXTINF:-1 tvg-id="ch-grcytavisionsports4hd" tvg-name="GR - CYTAVISION SPORTS 4 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",Liverpool TV 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="┃UK┃ MUTV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="Thể thao quốc tế",MUTV 
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
@@ -699,29 +699,28 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+ Spain
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+ Spain 🇪🇸
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Thể thao quốc tế",Milan TV
 http://team-tv.co:81/milan/index.m3u8
-#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV 🇪🇸
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
-
 #EXTINF:-1 cuid="1511" tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]" tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",☆ DAZN tv
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 cuid="1495" tvg-name="INTER 24/7" tvg-id="ES31000013F" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Thể thao quốc tế",☆ INTER 24/7 🇮🇹
 https://jmp2.uk/stvp-ES31000013F
 #EXTINF:-1 cuid="1494" tvg-name="UEFA Champions League 🇺🇸" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues.png" group-title="Thể thao quốc tế",☆ CBS UEFA Champions League 🇺🇸
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-#EXTINF:-1 cuid="1486" tvg-name="" tvg-id="67a52c8397782f00081879aa" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png" group-title="Thể thao quốc tế",☆ Top Barça² 🇪🇸🇺🇸
+#EXTINF:-1 cuid="1486" tvg-name="" tvg-id="67a52c8397782f00081879aa" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png" group-title="Thể thao quốc tế",☆ Top Barça² 🇪🇸
 https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-id="ch-carrushsports2fhd" tvg-name="CAR - RUSH SPORTS 2 FHD" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSHSPORTS2.png" group-title="Thể thao quốc tế",RUSH SPORTS 2 (Tây ban Nha)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/933436
-#EXTINF:-1 tvg-id="ch-aradsportspremium1fhd" tvg-name="STARZPLAY SPORTS 1" tvg-logo="https://cdn.upanhlaylink.com/i/k6qu6uVa.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 1 (Ý)
+#EXTINF:-1 tvg-id="ch-aradsportspremium1fhd" tvg-name="STARZPLAY SPORTS 1" tvg-logo="https://cdn.upanhlaylink.com/i/k6qu6uVa.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 1 🇸🇦
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/992043
-#EXTINF:-1 tvg-id="ch-aradsportspremium2uhd" tvg-name="STARZPLAY SPORTS 2" tvg-logo="https://cdn.upanhlaylink.com/i/yrPTRZdG.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 2 (Ý)
+#EXTINF:-1 tvg-id="ch-aradsportspremium2uhd" tvg-name="STARZPLAY SPORTS 2" tvg-logo="https://cdn.upanhlaylink.com/i/yrPTRZdG.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 2 🇸🇦
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320904
-#EXTINF:-1 tvg-id="ch-aradsportspremium3uhd" tvg-name="STARZPLAY SPORTS 3" tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 3
+#EXTINF:-1 tvg-id="ch-aradsportspremium3uhd" tvg-name="STARZPLAY SPORTS 3" tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 3 🇸🇦
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320905
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="┃DE┃ SKY SPORT BUNDESLIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="Thể thao quốc tế", SKY SPORT BUNDESLIGA 🇩🇪
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149303&extension=ts&play_token=OLGEoAl7pm
@@ -915,15 +914,15 @@ https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1241086&extension=ts&play_token=O2MbAJ16aM
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="┃DE┃ DAZN BAR 1 RAW" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="Thể thao quốc tế", DAZN BAR 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149329&extension=ts&play_token=oGXPXfDsnm
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=ele1
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=ele2
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=ele3
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=ele4
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=ele5
 #EXTINF:-1 tvg-name="MBC SHAHID SPORTS 1"  tvg-logo="https://cdn.upanhlaylink.com/i/xKUMWIB8.jpg" group-title="Thể thao quốc tế", MBC SHAHID SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1318,43 +1317,43 @@ https://jmp2.uk/plu-65b14aae0cb1a100087a216e.m3u8
 #EXTINF:-1 cuid="1803" tvg-name="Kozoom 🇺🇸" tvg-logo="https://tv.kozoom.com/favicon.ico" group-title="Thể thao quốc tế",☆ Kozoom 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
 
-#EXTINF:-1  tvg-id="ABC Cartoons" tvg-logo="https://cdn.upanhlaylink.com/i/SrctDAQd.png" group-title="Hoạt hình",ABC Cartoons
+#EXTINF:-1  tvg-id="ABC Cartoons" tvg-logo="https://cdn.upanhlaylink.com/i/SrctDAQd.png" group-title="Hoạt hình",ABC Cartoons 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Kids" tvg-logo="https://cdn.upanhlaylink.com/i/Q8K4VHjb.png" group-title="Hoạt hình",ABC Kids
+#EXTINF:-1 tvg-id="ABC Kids" tvg-logo="https://cdn.upanhlaylink.com/i/Q8K4VHjb.png" group-title="Hoạt hình",ABC Kids 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/98quIUwF.png" group-title="Hoạt hình",ABC Kids All Aussie
+#EXTINF:-1 tvg-id="ABC Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/98quIUwF.png" group-title="Hoạt hình",ABC Kids All Aussie 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Big Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/6hRUOWNi.png" group-title="Hoạt hình",ABC Big Kids All Aussie
+#EXTINF:-1 tvg-id="ABC Big Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/6hRUOWNi.png" group-title="Hoạt hình",ABC Big Kids All Aussie 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Kids Play School" tvg-logo="https://cdn.upanhlaylink.com/i/U7WgeLQJ.png" group-title="Hoạt hình",ABC Kids Play School
+#EXTINF:-1 tvg-id="ABC Kids Play School" tvg-logo="https://cdn.upanhlaylink.com/i/U7WgeLQJ.png" group-title="Hoạt hình",ABC Kids Play School 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Kids Play Music" tvg-logo="https://cdn.upanhlaylink.com/i/TiypYObX.png" group-title="Hoạt hình",ABC Kids Play Music
+#EXTINF:-1 tvg-id="ABC Kids Play Music" tvg-logo="https://cdn.upanhlaylink.com/i/TiypYObX.png" group-title="Hoạt hình",ABC Kids Play Music 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
-#EXTINF:-1 tvg-id="ABC Big Kids" tvg-logo="https://cdn.upanhlaylink.com/i/lTBrycfL.jpg" group-title="Hoạt hình",ABC Big Kids
+#EXTINF:-1 tvg-id="ABC Big Kids" tvg-logo="https://cdn.upanhlaylink.com/i/lTBrycfL.jpg" group-title="Hoạt hình",ABC Big Kids 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
