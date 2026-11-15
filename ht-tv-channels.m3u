@@ -1229,6 +1229,10 @@ https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD/DASH_5_CPIX/Setanta_Sports_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c
 https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="Thể thao quốc tế",Setanta Sports 2 🇬🇪
+http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Thể thao quốc tế",Sky Sports 1 🇲🇽
+http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1888" tvg-id="SPORT1.de" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/germany/sport1-de.png" group-title="Thể thao quốc tế",Sports 1 🇩🇪
 #EXTGRP:All Sports 🌎;Women's Sports⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
