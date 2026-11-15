@@ -1313,7 +1313,7 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Thể thao quốc tế",DD Sports  🇮🇳
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
-#EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://go4.pw/USA/cbssports.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK 🇺🇸
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS SPORT GONZALO" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
