@@ -1,13 +1,6 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
-#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports 🇺🇸
-#EXTGRP:All Sports 🌎;Serie A⚽️;Champions league⚽️;Europa League⚽️;Women's Sports⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
