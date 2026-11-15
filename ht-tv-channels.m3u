@@ -1,6 +1,19 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+#EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="Claro.Sports.1.mx" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
+#EXTGRP:Liga Betclic⚽️;All Sports 🌎
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2e5f5d42771121d0dc5f6c9f74ac30:60460fa43257c537ba19a7f735d8177c
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4eia4ypjxr/out/v1/2c628105d22c47dcb532e26968706a83/cenc.mpd
+#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports 🇺🇸
+#EXTGRP:All Sports 🌎;Serie A⚽️;Champions league⚽️;Europa League⚽️;Women's Sports⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -612,27 +625,27 @@ https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="┃FR┃ CANAL+ FOOT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="Thể thao quốc tế", CANAL+ FOOT 🇫🇷 ( Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="┃FR┃ CANAL+ FOOT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="Thể thao quốc tế", CANAL+ FOOT 🇫🇷 ( NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941405&extension=ts&play_token=afLtoZxXZB
-#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="┃FR┃ CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="Thể thao quốc tế", CANAL+ PREMIER LEAGUE 🇫🇷 (Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="┃FR┃ CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="Thể thao quốc tế", CANAL+ PREMIER LEAGUE 🇫🇷 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941414&extension=ts&play_token=x4Fu12bAjm
 #EXTINF:-1 tvg-id="ch-frligue11fhd" tvg-name="┃FR┃ LIGUE 1+ 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="Thể thao quốc tế",  LIGUE 1+ 1 🇫🇷
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1258813&extension=ts&play_token=0QHoYvUl3g
-#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102689bbb7129a95b6fa480d6780c39c0074.jpg" group-title="Thể thao quốc tế",Canal+ Sport( Ngoại Hạng Anh) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102689bbb7129a95b6fa480d6780c39c0074.jpg" group-title="Thể thao quốc tế",Canal+ Sport 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026f372c00c59f807ba22e8fbd2a8412c04.jpg" group-title="Thể thao quốc tế",Canal+ Sport 2 (Tennis) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026f372c00c59f807ba22e8fbd2a8412c04.jpg" group-title="Thể thao quốc tế",Canal+ Sport 2 🇸🇰 (Tennis)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102668c3dfb2197e7826d39a2ee60add8d78.jpg" group-title="Thể thao quốc tế",Canal+ Sport 3 (Tennis) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102668c3dfb2197e7826d39a2ee60add8d78.jpg" group-title="Thể thao quốc tế",Canal+ Sport 3 🇸🇰 (Tennis)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026dcd04faed053f18a9164526276af2c97.jpg" group-title="Thể thao quốc tế",Canal+ Sport 4( Ngoại Hạng Anh) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026dcd04faed053f18a9164526276af2c97.jpg" group-title="Thể thao quốc tế",Canal+ Sport 4 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026634524cc991a3c4a7de409a176fbc134.jpg" group-title="Thể thao quốc tế",Canal+ Sport 5( Ngoại Hạng Anh) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026634524cc991a3c4a7de409a176fbc134.jpg" group-title="Thể thao quốc tế",Canal+ Sport 5 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202610269095f5e9223f369d1a0d2ac55af4c9e6.jpg" group-title="Thể thao quốc tế",Canal+ Sport 6( Ngoại Hạng Anh) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202610269095f5e9223f369d1a0d2ac55af4c9e6.jpg" group-title="Thể thao quốc tế",Canal+ Sport 6 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026db772139f63bf266300876dc459c32b6.jpg" group-title="Thể thao quốc tế",Canal+ Sport 7( Ngoại Hạng Anh) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026db772139f63bf266300876dc459c32b6.jpg" group-title="Thể thao quốc tế",Canal+ Sport 7 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026d4f9d6b95735b0a990a409f372b8db23.jpg" group-title="Thể thao quốc tế",Canal+ Sport 8( Ngoại Hạng Anh) 🇸🇰
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026d4f9d6b95735b0a990a409f372b8db23.jpg" group-title="Thể thao quốc tế",Canal+ Sport 8 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="┃FR┃ CANAL + SPORT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="Thể thao quốc tế", CANAL + SPORT 🇫🇷
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941408&extension=ts&play_token=qqcdGMh7SG
@@ -646,9 +659,9 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084610&extension=ts&play_token=eYcnWCjMSE
 #EXTINF:-1 tvg-id="espn4.nl" tvg-name="┃CANAL+┃ ESPN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 4.png" group-title="Thể thao quốc tế", CANAL+ ESPN 4 🇳🇱
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084611&extension=ts&play_token=z9g0RCPM0y
-#EXTINF:-1 tvg-id="ch-canalziggosport1hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 1 🇳🇱 (TBN)
+#EXTINF:-1 tvg-id="ch-canalziggosport1hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 1 🇳🇱 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 (Ý)
+#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
@@ -656,25 +669,25 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302028.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Thể thao quốc tế",Star Sports Select 2  🇮🇳
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
-#EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế",HUB PREMIER 1( Ngoại Hạng Anh) 🇬🇧
+#EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế",HUB PREMIER 1 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314077&extension=ts&play_token=LgvQok74q6
-#EXTINF:-1 tvg-id="ch-ukhubpremier2fhd" tvg-name="┃UK┃ HUB PREMIER 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="Thể thao quốc tế",HUB PREMIER 2( Ngoại Hạng Anh) 🇬🇧
+#EXTINF:-1 tvg-id="ch-ukhubpremier2fhd" tvg-name="┃UK┃ HUB PREMIER 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="Thể thao quốc tế",HUB PREMIER 2 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314078&extension=ts&play_token=Zc0jE8Sq8h
-#EXTINF:-1 tvg-id="ch-ukhubpremier3fhd" tvg-name="┃UK┃ HUB PREMIER 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="Thể thao quốc tế", HUB PREMIER 3( Ngoại Hạng Anh) 🇬🇧
+#EXTINF:-1 tvg-id="ch-ukhubpremier3fhd" tvg-name="┃UK┃ HUB PREMIER 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="Thể thao quốc tế",HUB PREMIER 3 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314079&extension=ts&play_token=meYFPnbeqz
-#EXTINF:-1 tvg-id="ch-ukhubpremier4fhd" tvg-name="┃UK┃ HUB PREMIER 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="Thể thao quốc tế", HUB PREMIER 4( Ngoại Hạng Anh) 🇬🇧
+#EXTINF:-1 tvg-id="ch-ukhubpremier4fhd" tvg-name="┃UK┃ HUB PREMIER 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="Thể thao quốc tế",HUB PREMIER 4 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314080&extension=ts&play_token=CkoE9cxZle
-#EXTINF:-1 tvg-id="ch-ukhubpremier5fhd" tvg-name="┃UK┃ HUB PREMIER 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png" group-title="Thể thao quốc tế", HUB PREMIER 5( Ngoại Hạng Anh) 🇬🇧
+#EXTINF:-1 tvg-id="ch-ukhubpremier5fhd" tvg-name="┃UK┃ HUB PREMIER 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png" group-title="Thể thao quốc tế",HUB PREMIER 5 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314081&extension=ts&play_token=p6oFd3cn4T
-#EXTINF:-1 tvg-id="ch-ukhubpremier6fhd" tvg-name="┃UK┃ HUB PREMIER 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png" group-title="Thể thao quốc tế", HUB PREMIER 6( Ngoại Hạng Anh) 🇬🇧
+#EXTINF:-1 tvg-id="ch-ukhubpremier6fhd" tvg-name="┃UK┃ HUB PREMIER 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png" group-title="Thể thao quốc tế",HUB PREMIER 6 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314082&extension=ts&play_token=2NLuBXA4Xs
-#EXTINF:-1 tvg-chno="" cuid="1515" tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="Thể thao quốc tế",Fubo Sports Network 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="1515" tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="Thể thao quốc tế",Fubo Sports Network 🇺🇸 (NHA)
 #EXTGRP:All Sports 🌎;Serie A⚽️;Ligue 1⚽️;Premier League⚽️;Fifa Competition⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-#EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2 🇧🇪 (Ngoại Hạng Anh)
+#EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2 🇧🇪 (NHA)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
 #EXTINF:-1 tvg-id="ch-grcytavisionsports1hd" tvg-name="GR - CYTAVISION SPORTS 1 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 1 🇬🇷
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324974
@@ -701,13 +714,13 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV 🇪🇸
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
-#EXTINF:-1 cuid="1511" tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]" tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",☆ DAZN tv
+#EXTINF:-1 cuid="1511" tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]" tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",DAZN tv
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
-#EXTINF:-1 cuid="1495" tvg-name="INTER 24/7" tvg-id="ES31000013F" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Thể thao quốc tế",☆ INTER 24/7 🇮🇹
+#EXTINF:-1 cuid="1495" tvg-name="INTER 24/7" tvg-id="ES31000013F" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Thể thao quốc tế",INTER 24/7 🇮🇹
 https://jmp2.uk/stvp-ES31000013F
-#EXTINF:-1 cuid="1494" tvg-name="UEFA Champions League 🇺🇸" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues.png" group-title="Thể thao quốc tế",☆ CBS UEFA Champions League 🇺🇸
+#EXTINF:-1 cuid="1494" tvg-name="UEFA Champions League 🇺🇸" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues.png" group-title="Thể thao quốc tế",CBS UEFA Champions League 🇺🇸
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-#EXTINF:-1 cuid="1486" tvg-name="" tvg-id="67a52c8397782f00081879aa" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png" group-title="Thể thao quốc tế",☆ Top Barça² 🇪🇸
+#EXTINF:-1 cuid="1486" tvg-name="" tvg-id="67a52c8397782f00081879aa" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png" group-title="Thể thao quốc tế",Top Barça² 🇪🇸
 https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-id="ch-carrushsports2fhd" tvg-name="CAR - RUSH SPORTS 2 FHD" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSHSPORTS2.png" group-title="Thể thao quốc tế",RUSH SPORTS 2 🇨🇦
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/933436
@@ -873,7 +886,7 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c6
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png" group-title="Thể thao quốc tế" , BEIN SPORTS XTRA 🇺🇸
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="Thể thao quốc tế" , BEIN SPORTS XTRA En Español 🇺🇸
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="Thể thao quốc tế" , BEIN SPORTS XTRA ñ 🇺🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 2" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 2 🇹🇷
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Champions league⚽️
@@ -1097,12 +1110,12 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 1 🇧🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 2
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",CAZETV 2 🇧🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
@@ -1284,7 +1297,7 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Thể thao quốc tế",DD Sports  🇮🇳
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS SPORT GONZALO" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK 🇺🇸
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS SPORT GONZALO" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="Thể thao quốc tế",CBS SPORT NETWORK 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -1295,9 +1308,9 @@ https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
 https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
-#EXTINF:-1 tvg-chno="190" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Thể thao quốc tế",USA Network
+#EXTINF:-1 tvg-chno="190" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Thể thao quốc tế",USA Network 🇺🇸
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 cuid="1803" tvg-name="Kozoom 🇺🇸" tvg-logo="https://tv.kozoom.com/favicon.ico" group-title="Thể thao quốc tế",☆ Kozoom 🇺🇸
+#EXTINF:-1 cuid="1803" tvg-name="Kozoom 🇺🇸" tvg-logo="https://tv.kozoom.com/favicon.ico" group-title="Thể thao quốc tế",Kozoom 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Thể thao quốc tế",A Spor 🇹🇷
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -1306,10 +1319,14 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d1a36f394fb8e6bd462a866173b50b:def989972f28b35f41a37e50863b69b8
 https://video.beeline.tv/live/d/channel173.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="The Golf Channel.us" tvg-logo="https://i.ibb.co.com/Rykhd2s/nbcgolf.png" group-title="Thể thao quốc tế",  NBC GOLF CHANNEL 🇺🇸
+#EXTINF:-1 tvg-id="The Golf Channel.us" tvg-logo="https://i.ibb.co.com/Rykhd2s/nbcgolf.png" group-title="Thể thao quốc tế", NBC GOLF CHANNEL 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:3f9a6a4b15d8e0eba9f6733ce7c066e5
 https://lott-web-opus.cdn.avp.telus.net/232006003169/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://cdn.upanhlaylink.com/i/R9YzRZqR.webp" group-title="Thể thao quốc tế", FOX SPORTS 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=482d41282412c2a36faae9c15d42b462:88e6ef62e9cfb3dd7f28686844b7cee2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oy1wyr3hpk/out/v1/c6a515550e614592a13028f49bfc5dbd/cenc.mpd
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Thể thao quốc tế", FS1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1320,10 +1337,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://cdn.upanhlaylink.com/i/R9YzRZqR.webp" group-title="Thể thao quốc tế", FOX SPORTS 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=482d41282412c2a36faae9c15d42b462:88e6ef62e9cfb3dd7f28686844b7cee2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oy1wyr3hpk/out/v1/c6a515550e614592a13028f49bfc5dbd/cenc.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="Thể thao quốc tế", FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
@@ -1352,7 +1365,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G467bjBD/willowsp.png" group-title="Thể thao quốc tế", WILLOW SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G467bjBD/willowsp.png" group-title="Thể thao quốc tế", WILLOW SPORTS 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
