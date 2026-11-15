@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KK8qXqf/cgtn.png" group-title="NEWS📰", CGTN ENGLISH 🇨🇳
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1798,7 +1801,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=215
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-id="cnbc"  tvg-logo="https://i.ibb.co.com/hRm12vY1/cnbcasia.png" group-title="Quốc Tế", CNBC
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
-#EXTINF:-1 tvg-id="historyhd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png" group-title="Quốc Tế", History
+#EXTINF:-1 tvg-id="historyhd"  tvg-logo="https://i.ibb.co.com/B3YLxSh/history.png" group-title="Quốc Tế", History
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="Discovery Channel.id" tvg-logo="https://i.ibb.co.com/nnf5htr/discoch.png" group-title="Quốc Tế", DISCOVERY 🇺🇸 🇻🇳
