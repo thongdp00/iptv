@@ -634,27 +634,9 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?o
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026d4f9d6b95735b0a990a409f372b8db23.jpg" group-title="Thể thao quốc tế",Canal+ Sport 8 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="┃FR┃ CANAL + SPORT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="Thể thao quốc tế", CANAL + SPORT 🇫🇷
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941408&extension=ts&play_token=qqcdGMh7SG
-#EXTINF:-1 tvg-id="ch-frcanalchampionsleaguefhd" tvg-name="┃FR┃ CANAl+ CHAMPIONS LEAGUE FHD" tvg-logo="https://cdn.upanhlaylink.com/i/P6RPZyZO.webp" group-title="Thể thao quốc tế", CANAl+ CHAMPIONS LEAGUE 🇫🇷
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941625&extension=ts&play_token=RdtK83ADA2
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="┃CANAL+┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN.png" group-title="Thể thao quốc tế", CANAL+ ESPN 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084608&extension=ts&play_token=T0AsgMiLCj
-#EXTINF:-1 tvg-id="espn2.nl" tvg-name="┃CANAL+┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="Thể thao quốc tế", CANAL+ ESPN 2 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084609&extension=ts&play_token=XOFwHrrq4w
-#EXTINF:-1 tvg-id="espn3.nl" tvg-name="┃CANAL+┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 3.png" group-title="Thể thao quốc tế", CANAL+ ESPN 3 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084610&extension=ts&play_token=eYcnWCjMSE
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="┃CANAL+┃ ESPN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 4.png" group-title="Thể thao quốc tế", CANAL+ ESPN 4 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084611&extension=ts&play_token=z9g0RCPM0y
-#EXTINF:-1 tvg-id="ch-canalziggosport1hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 1 🇳🇱 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
-#EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Thể thao quốc tế",Star Sports Select 1 🇮🇳
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Thể thao quốc tế",Star Sports Select 1 🇮🇳 (NHA)
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302028.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Thể thao quốc tế",Star Sports Select 2  🇮🇳
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Thể thao quốc tế",Star Sports Select 2  🇮🇳 (NHA)
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
 #EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế",HUB PREMIER 1 🇬🇧 (NHA)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314077&extension=ts&play_token=LgvQok74q6
@@ -684,11 +666,29 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324972
 #EXTINF:-1 tvg-id="ch-grcytavisionsports4hd" tvg-name="GR - CYTAVISION SPORTS 4 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",Liverpool TV 🇬🇷
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="┃UK┃ MUTV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="Thể thao quốc tế",MUTV 🇬🇧
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="ch-uknowhknowsports4k617" tvg-name="UK - NOW HK NOW SPORTS 4K 617" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 617 🇭🇰
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
 #EXTINF:-1 tvg-id="ch-uknowhknowsports4k616" tvg-name="UK - NOW HK NOW SPORTS 4K 616" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 616 🇭🇰
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="┃FR┃ CANAL + SPORT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="Thể thao quốc tế", CANAL + SPORT 🇫🇷
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941408&extension=ts&play_token=qqcdGMh7SG
+#EXTINF:-1 tvg-id="ch-frcanalchampionsleaguefhd" tvg-name="┃FR┃ CANAl+ CHAMPIONS LEAGUE FHD" tvg-logo="https://cdn.upanhlaylink.com/i/P6RPZyZO.webp" group-title="Thể thao quốc tế", CANAl+ CHAMPIONS LEAGUE 🇫🇷
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941625&extension=ts&play_token=RdtK83ADA2
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="┃CANAL+┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN.png" group-title="Thể thao quốc tế", CANAL+ ESPN 🇳🇱
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084608&extension=ts&play_token=T0AsgMiLCj
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="┃CANAL+┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="Thể thao quốc tế", CANAL+ ESPN 2 🇳🇱
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084609&extension=ts&play_token=XOFwHrrq4w
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="┃CANAL+┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 3.png" group-title="Thể thao quốc tế", CANAL+ ESPN 3 🇳🇱
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084610&extension=ts&play_token=eYcnWCjMSE
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="┃CANAL+┃ ESPN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 4.png" group-title="Thể thao quốc tế", CANAL+ ESPN 4 🇳🇱
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084611&extension=ts&play_token=z9g0RCPM0y
+#EXTINF:-1 tvg-id="ch-canalziggosport1hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 1 🇳🇱 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
+#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
+#EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -763,11 +763,11 @@ https://livesport.io.vn/ott/vstb.php?id=sky7
 https://livesport.io.vn/ott/vstb.php?id=sky8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-9-nz-1827.png" group-title="Thể thao quốc tế",SKY SPORTS 9 🇳🇿
 https://livesport.io.vn/ott/vstb.php?id=sky9
-#EXTINF:-1 tvg-chno="" cuid="1524" tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://iili.io/KWnBoiB.png" group-title="Thể thao quốc tế",PremierSports 1 🇮🇪
+#EXTINF:-1 tvg-chno="" cuid="1524" tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://iili.io/KWnBoiB.png" group-title="Thể thao quốc tế",PremierSports 1 🇮🇪 (LALIGA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-chno="" cuid="1527" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://iili.io/KWnCF1I.png" group-title="Thể thao quốc tế",PremierSports 2 🇮🇪
+#EXTINF:-1 tvg-chno="" cuid="1527" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://iili.io/KWnCF1I.png" group-title="Thể thao quốc tế",PremierSports 2 🇮🇪 (LALIGA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
@@ -787,18 +787,26 @@ https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6136af0960e4fb8b535dd6b1dd307c8:7e73113b6fbcc167612a0b2e58715bd8
 https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Thể thao quốc tế",SuperTennis 🇮🇹
+http://57.128.225.206/stream/7/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel2.us@SD" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Thể thao quốc tế",Tennis Channel 2 🇺🇸
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Thể thao quốc tế",Tennis Channel 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
+https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
 #EXTINF:-1 tvg-id="Arenasport Tennis.ba" tvg-logo="https://i.ibb.co.com/qJFQ5GQ/arena.png" group-title="Thể thao quốc tế", ARENA SPORT TENNIS 🇧🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls14/arena_tenis.mpd?n=browsernull-cdn.sam.net
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap1.png" group-title="Thể thao quốc tế",ARENA PREMIUM 1 🇧🇦
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap1.png" group-title="Thể thao quốc tế",ARENA PREMIUM 1 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=apre1
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap2.png" group-title="Thể thao quốc tế",ARENA PREMIUM 2 🇧🇦
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap2.png" group-title="Thể thao quốc tế",ARENA PREMIUM 2 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=apre2
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap3.png" group-title="Thể thao quốc tế",ARENA PREMIUM 3 🇧🇦
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap3.png" group-title="Thể thao quốc tế",ARENA PREMIUM 3 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livesport.io.vn/ott/apo.php?id=apre3
 #EXTINF:-1 tvg-id="Arena Sport 4 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Thể thao quốc tế", ARENA SPORT 4 PREMIUM 🇧🇦
@@ -1006,11 +1014,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-chno="" cuid="1201" tvg-name="W-Sport" tvg-id="W-Sport.pt" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/60962050390d4bcbfd85ab4f303594934b1ae89d/misc/custom/W-%20Sport.png" group-title="Thể thao quốc tế",W-Sport 🇸🇬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
-https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 #EXTINF:-1 tvg-chno="" cuid="1408" tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="Laliga TV" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png" group-title="Thể thao quốc tế",laliga hypermotion 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
@@ -1025,16 +1028,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ufc-ppv-stream-822.png" group-title="Thể thao quốc tế",UFC 🇺🇸
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-us-nba-tv-75.png" group-title="Thể thao quốc tế",NBA 🇺🇸
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vgkshf22lc/out/v1/9dbd7e519cf34fe2a53a85ee85bc407f/cenc.mpd
 #EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Thể thao quốc tế",Sport 1 🇭🇺
 http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.hu@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Thể thao quốc tế",Sport 2 🇭🇺
@@ -1131,14 +1124,6 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dev1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:-1 tvg-name="MOTO GP"  tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2359.png" group-title="Thể thao quốc tế", MOTO GP 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1 tvg-name="F1 TV"  tvg-logo="https://livesport.io.vn/logo/sport/f1tv.png" group-title="Thể thao quốc tế", F1 TV 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n2io7mcgsm/out/v1/0977333c6f6b42aeb8df18de08f5586f/cenc.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/9c6LmLW/eurosp.png" group-title="Thể thao quốc tế",Eurosport 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30cceb96616646fcb9d0d4337d6b1d67:636003cec1d74b159b599f8dd7260e97
@@ -1195,7 +1180,7 @@ http://stream.mcquack.net/234/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="Thể thao quốc tế",Setanta Sports 2 🇬🇪
 http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Thể thao quốc tế",Sky Sports 1 🇲🇽
+#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Thể thao quốc tế",Sky Sports 1 🇲🇽 (LALIGA)
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1888" tvg-id="SPORT1.de" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/germany/sport1-de.png" group-title="Thể thao quốc tế",Sports 1 🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
@@ -1226,8 +1211,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k58vbwnfxd/out/v1/9d17735364d64fe9ad310d6c9648c975/cenc.mpd
-#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Thể thao quốc tế",SuperTennis 🇮🇹
-http://57.128.225.206/stream/7/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Thể thao quốc tế",Golf Channel 🇨🇿 
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Thể thao quốc tế",Golf + 🇫🇷
@@ -1245,12 +1228,6 @@ https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="TennisChannel2.us@SD" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Thể thao quốc tế",Tennis Channel 2 🇺🇸
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Thể thao quốc tế",Tennis Channel 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab
-https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.mpd
 #EXTINF:-1 tvg-chno="190" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Thể thao quốc tế",USA Network 🇺🇸
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Thể thao quốc tế",A Spor 🇹🇷
@@ -1261,9 +1238,9 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-logo="https://cdn.upanhlaylink.com/i/Mdfqt4gA.png" group-title="Thể thao quốc tế",TRACE Sport Stars 🇸🇬
 https://tglmp01.akamaized.net/out/v1/7b64773a43184fbc9c4c1f83193db178/manifest.mpd
-#EXTINF:-1 cuid="1803" tvg-name="Kozoom 🇺🇸" tvg-logo="https://tv.kozoom.com/favicon.ico" group-title="Thể thao quốc tế",Kozoom 🇺🇸
+#EXTINF:-1 cuid="1803" tvg-name="Kozoom 🇺🇸" tvg-logo="https://tv.kozoom.com/favicon.ico" group-title="Thể thao quốc tế",Kozoom 🇺🇸 (BIDA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
-#EXTINF:-1 tvg-id="Viju+ Sport.ru" tvg-logo="https://i.ibb.co.com/jf7QwkY/vijuplusport.png" group-title="Thể thao quốc tế", Viju+ Sport 🇷🇺
+#EXTINF:-1 tvg-id="Viju+ Sport.ru" tvg-logo="https://i.ibb.co.com/jf7QwkY/vijuplusport.png" group-title="Thể thao quốc tế", Viju+ Sport 🇷🇺 (BIDA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d1a36f394fb8e6bd462a866173b50b:def989972f28b35f41a37e50863b69b8
@@ -1329,6 +1306,29 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kkfdbi2d1c/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ufc-ppv-stream-822.png" group-title="Thể thao quốc tế",UFC 🇺🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-us-nba-tv-75.png" group-title="Thể thao quốc tế",NBA 🇺🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vgkshf22lc/out/v1/9dbd7e519cf34fe2a53a85ee85bc407f/cenc.mpd
+#EXTINF:-1 tvg-name="MOTO GP"  tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2359.png" group-title="Thể thao quốc tế", MOTO GP 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-name="F1 TV"  tvg-logo="https://livesport.io.vn/logo/sport/f1tv.png" group-title="Thể thao quốc tế", F1 TV 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n2io7mcgsm/out/v1/0977333c6f6b42aeb8df18de08f5586f/cenc.mpd
+#EXTINF:-1 tvg-chno="" cuid="1201" tvg-name="W-Sport" tvg-id="W-Sport.pt" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/60962050390d4bcbfd85ab4f303594934b1ae89d/misc/custom/W-%20Sport.png" group-title="Thể thao quốc tế",W-Sport 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 
 #EXTINF:-1  tvg-id="ABC Cartoons" tvg-logo="https://cdn.upanhlaylink.com/i/SrctDAQd.png" group-title="Hoạt hình",ABC Cartoons 🇦🇺
 #KODIPROP:inputstream.adaptive.manifest_type=dash
