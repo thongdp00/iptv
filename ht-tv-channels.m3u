@@ -1,22 +1,11 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
-#EXTINF:-1 tvg-id="Setanta Sports 1.lt" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="SPORTS🏅", SETANTA SPORT 1 🇱🇻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5f3213807cfb5887b12faf17892530ba":"a0289eb8fb1508a81f1cf84acff2e44e","229c33cfd61455a8bb8a4aedf77d72b4":"5ddfb6e78ea93db5ffb855599667f2ad","57329e961d4a50ac88f4f2fb15ef5323":"bea93ea08795787dfe1b842848775c97"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-widevine/__f/manifest.mpd
+
 #EXTINF:-1 tvg-id="The Golf Channel.us" tvg-logo="https://i.ibb.co.com/Rykhd2s/nbcgolf.png" group-title="SPORTS🏅" ,  NBC GOLF CHANNEL 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:3f9a6a4b15d8e0eba9f6733ce7c066e5
 https://lott-web-opus.cdn.avp.telus.net/232006003169/vxfmt=dp/manifest.mpd?device_profile=dashvmx
-#EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://i.ibb.co.com/JzfHXNp/motorvision.png" group-title="SPORTS🏅", MOTORVISION 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-motorvisiontv-dazn/9fc71168-a0be-4dc0-a9bd-330ccf976c8d/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/svK2qmG5/genericsports.png" group-title="SPORTS🏅",  Max Sports
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="SPORTS🏅", FS1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,32 +43,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/58HXy9T/foxdeportes.png" group-title="SPORTS🏅", FOX DEPORTES 🇲🇽 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rGqsVS5S/BEST4-SPORT.png" group-title="SPORTS🏅", BEST4SPORT TV 🇱🇻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c8d5bae519e75748b308159a417aa491":"e59d55a9cd600a71c426929c45ca0a4b","ecafae1261995201833e09a3c73910cd":"39f3623ff46e4257ae8eeb886ba7c36b","894dd6a9814d593db9967db81dba0692":"b2167ca5b0d08ae3ee6bae31490450ca"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/185_HTTP/__op/dash-widevine/__f/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDLM7syj/BEST4-SPORT2.png" group-title="SPORTS🏅", BEST4SPORT TV 2 🇱🇻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"219cc55327835fbfab687ad9eb5f3f19":"f02eae834c27e797a54cda4c7dbc7c2e","1eb3ffd4516d5e14bd13e37aaef0110d":"b22527ccb5120b067a1af99c7bd440fa","6cb59a4b88bd5b069d274ecbfc8f8277":"265956c16b0e23d8b7139a76a369df24"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/231_HTTP/__op/dash-widevine/__f/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYSJtPwQ/tvxtra.png" group-title="SPORTS🏅", TV EXTRA 🇱🇻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5bd42aa9742958ceba2b91fdc4f36245":"c1a05ad47b31300d3176785ff0d5ff47","229a5ba55fbb58229b20abe2bba823a6":"72ec455ee28fbbdded54d9a53d82b705"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/104_HTTP/__op/dash-widevine/__f/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="SPORTS🏅", FOX SPORTS 4K 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G467bjBD/willowsp.png" group-title="SPORTS🏅", WILLOW SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -88,16 +52,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-#EXTINF:-1 tvg-id="Setanta Sports 1.lt" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="SPORTS🏅", SETANTA SPORT 1 🇱🇻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5f3213807cfb5887b12faf17892530ba":"a0289eb8fb1508a81f1cf84acff2e44e","229c33cfd61455a8bb8a4aedf77d72b4":"5ddfb6e78ea93db5ffb855599667f2ad","57329e961d4a50ac88f4f2fb15ef5323":"bea93ea08795787dfe1b842848775c97"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-widevine/__f/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bFYHxJf/dazngolf.png" group-title="SPORTS🏅", PGA Tour
 https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/R7km87W/psjtv.png" group-title="SPORTS🏅" , PSJ TV
-#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
