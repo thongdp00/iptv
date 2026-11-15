@@ -1,6 +1,20 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+#EXTINF:-1 tvg-id="Discovery Channel.id" tvg-logo="https://i.ibb.co.com/nnf5htr/discoch.png" group-title="KNOWLEDGE⏳", DISCOVERY 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="History HD.sk" tvg-logo="https://i.ibb.co.com/B3YLxSh/history.png" group-title="KNOWLEDGE⏳", HISTORY 🇺🇸 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_history/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-logo="https://i.ibb.co.com/gj5J7vb/discoasia.png" group-title="KNOWLEDGE⏳", DISCOVERY ASIA 🇺🇸 🇻🇳 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="https://i.ibb.co.com/Q31HkByM/knowledgeall.png" group-title="KNOWLEDGE⏳",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
