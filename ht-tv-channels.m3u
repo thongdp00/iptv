@@ -1563,8 +1563,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=96
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nhkworld.png" group-title="Quốc Tế", NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="Quốc Tế", Al Jazeera English
-https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png" group-title="Quốc Tế", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="animalhd"  tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-title="Quốc Tế", Animal Planet
