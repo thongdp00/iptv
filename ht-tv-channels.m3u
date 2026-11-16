@@ -1,6 +1,11 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HxMRx9Z/sn.png" group-title="SPORTS🏅", Sportsnet 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
 #EXTINF:-1  tvg-id="Sat.1.de" tvg-logo="https://i.ibb.co.com/k9cBqnw/sat1.png" group-title="SPORTS🏅", Sat.1 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
