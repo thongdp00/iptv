@@ -1,6 +1,1042 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ HT SPOR 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1245942&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=709&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR YILDIZ 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=18644&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT 3 SPOR 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615829&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ A SPOR 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=710&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TAY TV 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=18646&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TJK TV 8K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=18648&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",☰☰☰☰ ┃TR┃ PAKET SPOR 4K ☰☰☰☰ 
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=705&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ HT SPOR 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1245940&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=701&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR YILDIZ 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=18645&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ A SPOR 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=702&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",☰☰☰☰ ┃TR┃ PAKET SPOR HD ☰☰☰☰
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615825&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ HT SPOR HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1245941&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615826&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR YILDIZ HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615827&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ A SPOR HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615828&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ FENERBACHE TV HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=695&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ GALATASARAY TV HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=696&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TAY TV HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=18647&extension=ts
+#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ SPORTS TV
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=694&extension=ts
+
+#EXTINF:-1 group-title="BE | SPORT",✦●✦●      SP⚽RT      ✦●✦●
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=180813&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303723&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303724&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | VOO SPORT WORLD 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130469&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | VOO SPORT WORLD 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130468&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",BE | VOO SPORT WORLD 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=341241&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130319&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813758&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 5
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813757&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 6
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813756&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 7
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813755&extension=ts
+
+#EXTINF:-1 group-title="CZ • SPORT",GOLF CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105610&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",EUROSPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105609&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",NOVA SPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105608&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",ARENA SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105607&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",ČT SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105606&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",ARENA SPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105605&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",SPORTY TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105604&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",NOVA SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105603&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",AUTO MOTOR SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105602&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",EUROSPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105601&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",SPORT1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105600&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",SPORT2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105599&extension=ts
+
+#EXTINF:-1 group-title="ES | SPORT",4K | F1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=997598&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893480&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893479&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 2 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893478&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 3 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893477&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 4 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893476&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 5 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893475&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 6 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893474&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 7 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893473&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",✦●✦●      SP⚽RT      ✦●✦●
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=180858&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 1 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120793&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 2 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120794&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 3 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120795&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 4 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120796&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115266&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115442&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115443&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA 3 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115444&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ DEPORTES 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ DEPORTES 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120801&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ DEPORTES 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120802&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ MULTIDEPORTE
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120808&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",ES | M+ LaLiga hypermotion
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=776740&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | EURO SPORT 1 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18585&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | EURO SPORT 2 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18586&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | BARCA TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115430&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | REAL MADRID TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18588&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ GOLF
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ VAMOS 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115441&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120788&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | SEVILLA FC TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=186809&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | BEIN SPORTS XTRA EN ESPANOL
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=190204&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | EDGE SPORT
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=205853&extension=ts
+
+#EXTINF:-1 group-title="ES • DEPORTES",★☆★ DEPORTES ★☆★
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314600&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",REAL MADRID TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314602&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",REAL MADRID TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314632&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",GOL TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314625&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",GOL TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314626&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",LALIGA HYPERMOTION 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314603&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",LALIGA HYPERMOTION 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314605&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",LALIGA HYPERMOTION 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314604&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN F1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314606&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN F1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314607&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314608&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314609&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314610&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314611&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314612&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314613&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 4 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314614&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 4 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314615&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR FORMULA 1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314616&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR FORMULA 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314617&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR GOLF HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314618&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR GOLF FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314619&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314620&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314621&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314622&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314623&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314624&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314627&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314628&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314629&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314630&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | TELEDEPORTE HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314631&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314635&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314638&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314639&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314640&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314641&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314642&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314643&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR MULTIDEPORTE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314644&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | TELEDEPORTE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314645&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR  FUTBOL HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314646&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314647&extension=ts
+
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT 24 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102565&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT 24 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102564&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT UNO 4K
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102563&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT UNO FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102562&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT UNO HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102561&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MAX FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102560&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MAX HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102559&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT ARENA FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102558&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT ARENA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102557&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT TENNIS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102556&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT TENNIS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102555&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT F1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102554&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT F1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102553&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MOTOGP FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102552&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MOTOGP HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102551&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT GOLF FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102550&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT GOLF HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102549&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT BASKET FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102548&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT BASKET HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102547&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MIX HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102546&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT LEGEND HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102545&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY ACI SPORT TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102544&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",TOP CALCIO 24 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102543&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SUPERTENNIS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102542&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SUPERTENNIS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102541&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102540&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102539&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102538&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102537&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",BIKE CHANNEL FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102536&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",HORSE TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102535&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",RAI SPORT+ 4K
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102534&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",RAI SPORT PLUS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102533&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA PRIMAVERA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102532&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102531&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102530&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",JUVENTUS TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102529&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",INTER TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102528&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",INTER TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102527&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",MILAN TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102526&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",MILAN TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102525&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",LAZIOSTYLE CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102524&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA SOLO CALCIO
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102523&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SI CALCIO
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102522&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO SERIE A FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102521&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO SERIE A HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102520&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 251 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102519&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 251 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102518&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 252 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102517&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 252 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102516&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 253 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102515&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 253 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102514&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 254 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102513&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 254 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102512&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 255 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102511&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 255 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102510&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 256 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102509&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 256 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102508&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 257 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102507&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 257 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102506&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 258 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102505&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 259 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102504&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 259 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102503&extension=ts
+
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",✦●✦●   SP⚽RT   ✦●✦●
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=214707&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN ULTRA
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=212656&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884247&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN 1 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884249&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884250&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN 2 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884251&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884253&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN 3 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884254&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884256&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN 4 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884257&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT ULTRA+
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=212655&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884258&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT 1 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884260&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884261&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT 2 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884262&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884264&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT 3 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884265&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884267&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT 4 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884268&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 5
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884269&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT 5 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884271&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 6
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884272&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT 6 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884273&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | EUROSPORT 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884275&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | EUROSPORT 1 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884276&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | EUROSPORT 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884278&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | EUROSPORT 2 ᴠɪᴘ
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884279&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ESPN 1 ⚽
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3072&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ESPN 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3073&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ESPN 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3074&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ESPN 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3075&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ZIGGO SPORT
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18185&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ZIGGO SPORT 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3066&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ZIGGO SPORT 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3067&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ZIGGO SPORT 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3068&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ZIGGO SPORT 5
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18681&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | ZIGGO SPORT 6
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3070&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | EURO SPORT 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3014&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",HD | EURO SPORT 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3015&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | FEYENOORD ONE
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=715584&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | UFC NETWORK
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=124160&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | PPV 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=182683&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | PPV 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=182684&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | WWE
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=150868&extension=ts
+#EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | BOXNATION
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=150869&extension=ts
+
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS NEWS FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366442&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS NEWS HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366441&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS ARENA FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366439&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS ARENA HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366438&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS PREMIER LEAGUE FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366436&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS PREMIER LEAGUE HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366435&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS MAIN EVENT FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366433&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS MAIN EVENT HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366432&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS FOOTBALL FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366430&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS FOOTBALL HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366429&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS MIX FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366427&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS MIX HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366426&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS NFL FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366424&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS NFL HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366423&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS F1 HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366420&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS RACING FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366418&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS RACING HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366417&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS GOLF FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366415&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS CRICKET FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366412&extension=ts
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276918.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event HD
+http://iptvgo.cc:80/live/De123/De123/276917.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event UHD
+http://iptvgo.cc:80/live/De123/De123/620667.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event SD
+http://iptvgo.cc:80/live/De123/De123/276916.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276825.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276906.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League HD
+http://iptvgo.cc:80/live/De123/De123/276905.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276821.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League SD
+http://iptvgo.cc:80/live/De123/De123/276904.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/746777.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 UHD
+http://iptvgo.cc:80/live/De123/De123/746772.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 HD
+http://iptvgo.cc:80/live/De123/De123/746774.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 SD
+http://iptvgo.cc:80/live/De123/De123/746773.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/746776.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 FHD 25fps
+http://iptvgo.cc:80/live/De123/De123/746775.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276924.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football HD
+http://iptvgo.cc:80/live/De123/De123/276923.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football SD
+http://iptvgo.cc:80/live/De123/De123/276922.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276827.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276930.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket HD
+http://iptvgo.cc:80/live/De123/De123/276929.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket SD
+http://iptvgo.cc:80/live/De123/De123/276928.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276829.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports + FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276933.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports + HD
+http://iptvgo.cc:80/live/De123/De123/276932.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports + SD
+http://iptvgo.cc:80/live/De123/De123/276931.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276921.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf HD
+http://iptvgo.cc:80/live/De123/De123/276920.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf SD
+http://iptvgo.cc:80/live/De123/De123/276919.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276826.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276912.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News HD
+http://iptvgo.cc:80/live/De123/De123/276911.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News SD
+http://iptvgo.cc:80/live/De123/De123/276910.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276823.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276915.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix HD
+http://iptvgo.cc:80/live/De123/De123/276914.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix SD
+http://iptvgo.cc:80/live/De123/De123/276913.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276824.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Action FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276909.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Action HD
+http://iptvgo.cc:80/live/De123/De123/276908.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Action SD
+http://iptvgo.cc:80/live/De123/De123/276907.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports NFL/ACTION FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276822.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276903.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing HD
+http://iptvgo.cc:80/live/De123/De123/276902.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing SD
+http://iptvgo.cc:80/live/De123/De123/276901.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276820.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/318045.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis UHD
+http://iptvgo.cc:80/live/De123/De123/856218.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis HD
+http://iptvgo.cc:80/live/De123/De123/318044.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis SD
+http://iptvgo.cc:80/live/De123/De123/318043.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports 1 UHD
+http://iptvgo.cc:80/live/De123/De123/620665.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 FHD
+http://iptvgo.cc:80/live/De123/De123/276900.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sports 1 HD
+http://iptvgo.cc:80/live/De123/De123/856217.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 SD
+http://iptvgo.cc:80/live/De123/De123/276899.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 FHD HEVC
+http://iptvgo.cc:80/live/De123/De123/276806.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 FHD 50FPS
+http://iptvgo.cc:80/live/De123/De123/276802.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 FHD 50FPS
+http://iptvgo.cc:80/live/De123/De123/276801.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 HD
+http://iptvgo.cc:80/live/De123/De123/276898.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 SD
+http://iptvgo.cc:80/live/De123/De123/276897.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 FHD HEVC
+http://iptvgo.cc:80/live/De123/De123/276805.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 FHD 50FPS
+http://iptvgo.cc:80/live/De123/De123/276800.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 FHD
+http://iptvgo.cc:80/live/De123/De123/276896.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 HD
+http://iptvgo.cc:80/live/De123/De123/276895.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 SD
+http://iptvgo.cc:80/live/De123/De123/276894.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 FHD HEVC
+http://iptvgo.cc:80/live/De123/De123/276804.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 FHD
+http://iptvgo.cc:80/live/De123/De123/276893.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 HD
+http://iptvgo.cc:80/live/De123/De123/276892.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 SD
+http://iptvgo.cc:80/live/De123/De123/276891.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 FHD 50FPS
+http://iptvgo.cc:80/live/De123/De123/276799.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 FHD HEVC
+http://iptvgo.cc:80/live/De123/De123/276803.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 5
+http://iptvgo.cc:80/live/De123/De123/276890.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: MUTV FHD
+http://iptvgo.cc:80/live/De123/De123/276873.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: MUTV HD
+http://iptvgo.cc:80/live/De123/De123/276872.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: MUTV SD
+http://iptvgo.cc:80/live/De123/De123/276871.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: LFC TV FHD
+http://iptvgo.cc:80/live/De123/De123/276843.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: LFC TV HD
+http://iptvgo.cc:80/live/De123/De123/276842.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: LFC TV SD
+http://iptvgo.cc:80/live/De123/De123/856216.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UKFHD Premier Sports 1 UK VERSION
+http://iptvgo.cc:80/live/De123/De123/800014.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 1 HD
+http://iptvgo.cc:80/live/De123/De123/856215.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 1 SD
+http://iptvgo.cc:80/live/De123/De123/856214.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",FHD | Premier Sports 1 50FPS FHD
+http://iptvgo.cc:80/live/De123/De123/800012.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UKFHD Premier Sports  2 UK VERSION
+http://iptvgo.cc:80/live/De123/De123/800013.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 2 HD
+http://iptvgo.cc:80/live/De123/De123/856213.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 2 SD
+http://iptvgo.cc:80/live/De123/De123/856212.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UKFHD | Premier Sports 2 50FPS FHD
+http://iptvgo.cc:80/live/De123/De123/800011.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK HD | Premier Sports Rugby HD
+http://iptvgo.cc:80/live/De123/De123/800010.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK SD | Premier Sports Rugby SD
+http://iptvgo.cc:80/live/De123/De123/800009.m3u8
+
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",## NOW TV SPORT ᴴᴰ/ᴿᴬᵂ ##
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527642&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527641&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527640&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MAIN EVENT ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527639&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MAIN EVENT ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527638&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527637&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS PREMIER LEAGUE ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527636&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527635&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527634&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS F1 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527633&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS F1 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527632&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS RACING ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527631&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS RACING ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527630&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS TENNIS ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527629&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS TENNIS ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527628&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS ACTION ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527627&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS ACTION ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527626&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS CRICKET ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527625&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS CRICKET ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527624&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527623&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527622&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MIX ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527621&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MIX ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527620&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS+ ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527619&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS+ ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527618&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 1 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527617&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 1 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527616&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 2 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527615&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 2 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527614&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 3 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527613&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 3 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527612&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527611&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527610&extension=ts
+
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",##### ABU DHABI SPORTS #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=756852&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257489&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257490&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257491&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT EXTRA 1 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=608165&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT EXTRA 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=608164&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT ASIA 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=676456&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT ASIA 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=676457&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584508&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584507&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584506&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584505&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 4 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584504&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORTS 2 HEVC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584502&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORTS 3 HEVC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584501&extension=ts
+
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",###### STARZPLAY SPORT ######
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761731&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=977634&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=977635&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=994802&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765041&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761732&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765042&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761733&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765043&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761734&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761735&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 5 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761736&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=767232&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=766017&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 2 FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=767231&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=766018&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765044&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765045&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765046&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765047&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765050&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1 FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765049&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765048&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765052&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765051&extension=ts
+
+#EXTINF:-1 group-title="ᴛʀ • SPOR",★☆★ SPOR ★☆★
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=159170&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=126528&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94891&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94892&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=152246&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94893&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=151903&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",A SPOR HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=126525&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",A SPOR HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94880&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",A SPOR HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=328902&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",HT SPOR HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=621580&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",HT SPOR HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=621579&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SIFIR TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=704505&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 1 HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94871&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94872&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 2 HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=111086&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=543717&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94873&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94890&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=534025&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94874&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 5
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=267419&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 6
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101822&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 7
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101821&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 8
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101820&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 9
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101819&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 10
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101818&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",EUROSPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94889&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",EUROSPORT 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=570381&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101831&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101830&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101829&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101828&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101827&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101826&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101825&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101824&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101823&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",EKOL SPORT HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=689323&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",FB TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94894&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",FB TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=596874&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPORTS TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94888&extension=ts
+
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241086&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241087&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 FHD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241089&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241090&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241091&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241092&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 FHD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241093&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241094&extension=ts
+
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 1 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761953&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 2 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761954&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 3 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761955&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 4 4K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1499533&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 5 4K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1499534&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS GOLF 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1499535&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760961&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149499&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760962&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149500&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149507&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149506&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORT DIGITAL FUSSBALL FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760963&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORT DIGITAL FUSSBALL HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149501&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL +1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760965&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGIAL +1 HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149505&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL EDGE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760968&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL EDGE HD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149508&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ ESPORTS 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760969&extension=ts
+
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES FHD HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897426&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897427&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897428&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897429&extension=ts
+
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 1 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558965&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=559133&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 2 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558966&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=559134&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1115&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1114&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 3 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1113&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 4 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1112&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 5 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1111&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 6 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1110&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 7 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 8 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 9 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558963&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 10 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558964&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA FIGHT 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558967&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA E SPORT 4K
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558969&extension=ts
+
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1109&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1108&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1107&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 3 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1106&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 4 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1105&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 5 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1104&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 6 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1103&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB GOLF HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1102&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB FIGHT HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=559136&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORTSKA
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558968&extension=ts
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
