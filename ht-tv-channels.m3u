@@ -1,121 +1,7 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97072" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",CNA 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
-https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97098" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
-https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97104" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97104" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
-https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97129" tvg-logo="https://i.ibb.co.com/zZL6Y7V/mchannelu.png",Channel U 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97129" tvg-logo="https://i.ibb.co.com/zZL6Y7V/mchannelu.png",Channel U 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
-https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97084"  tvg-logo="https://i.ibb.co.com/KLfmfq7/msuria.png",Channel Suria 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97096" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Channel Vasantham 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97073" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97078" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/232439/assetType/media/assetFileId/2808449/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97078" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98202" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="204746" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="497989" tvg-logo="https://i.ibb.co.com/KzrvYbMv/mlive7.png" ,M LIVE 7 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
-https://tglmp04.akamaized.net/out/v1/5793335474d74566a8a0adfa260f22a9/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98202" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c6039b44e5412290968affbe4575b0:08d36fa7dafe5dc55114845d0b73b9e4
-https://tglmp04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="204746" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
-https://tglmp02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98200" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png",M LIVE SPL 01 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98201" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png",M LIVE SPL 02 🇸🇬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-logo="https://i.ibb.co.com/M59Xq8f/mcrop.png",TG Junior 🇸🇬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
-
-#EXTINF:-1   group-title="Singapore 🇸🇬" tvg-id="822075" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455460'&EntityType='Item'&EntityId='822075'&Width=150&Height=59", CWG CH01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
-https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
-
-#EXTINF:-1  group-title="Singapore 🇸🇬" tvg-id="822074" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455462'&EntityType='Item'&EntityId='822074'&Width=150&Height=59", CWG CH02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
-https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
-
-#EXTINF:-1  group-title="Singapore 🇸🇬" tvg-id="822077" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455483'&EntityType='Item'&EntityId='822077'&Width=150&Height=59", CWG CH03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
-https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
-
-#EXTINF:-1  group-title="Singapore 🇸🇬" tvg-id="822076" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455458'&EntityType='Item'&EntityId='822076'&Width=150&Height=59", CWG CH04
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
-https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1459,16 +1345,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fnKkgw/f1raceinfo.png" group-title="Thể thao quốc tế", 4-6 Sept 🇮🇹 GRAND PRIX 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="Thể thao quốc tế" , F1 GP 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-name="F1 TV"  tvg-logo="https://livesport.io.vn/logo/sport/f1tv.png" group-title="Thể thao quốc tế", F1 TV 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
@@ -1478,164 +1354,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n2io7mcgsm/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-
-#EXTINF:-1  tvg-id="ABC Cartoons" tvg-logo="https://cdn.upanhlaylink.com/i/SrctDAQd.png" group-title="Hoạt hình",ABC Cartoons 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1  tvg-id="98200" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png" group-title="Thể thao quốc tế",M LIVE SPL 01 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
-#EXTINF:-1 tvg-id="ABC Kids" tvg-logo="https://cdn.upanhlaylink.com/i/Q8K4VHjb.png" group-title="Hoạt hình",ABC Kids 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+#EXTINF:-1 tvg-id="98201" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png" group-title="Thể thao quốc tế",M LIVE SPL 02 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
-#EXTINF:-1 tvg-id="ABC Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/98quIUwF.png" group-title="Hoạt hình",ABC Kids All Aussie 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
-#EXTINF:-1 tvg-id="ABC Big Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/6hRUOWNi.png" group-title="Hoạt hình",ABC Big Kids All Aussie 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
-#EXTINF:-1 tvg-id="ABC Kids Play School" tvg-logo="https://cdn.upanhlaylink.com/i/U7WgeLQJ.png" group-title="Hoạt hình",ABC Kids Play School 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
-#EXTINF:-1 tvg-id="ABC Kids Play Music" tvg-logo="https://cdn.upanhlaylink.com/i/TiypYObX.png" group-title="Hoạt hình",ABC Kids Play Music 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
-#EXTINF:-1 tvg-id="ABC Big Kids" tvg-logo="https://cdn.upanhlaylink.com/i/lTBrycfL.jpg" group-title="Hoạt hình",ABC Big Kids 🇦🇺
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Hoạt hình",PBS Kids 🇺🇸
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Alaska 🇺🇸
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Eastern/Central 🇺🇸
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Hawaii 🇺🇸
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Mountain 🇺🇸
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Pacific 🇺🇸
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-id="SuperToons.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/SuperToons.png" group-title="Hoạt hình",Super Toons 🇧🇬 
-https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
-#EXTINF:-1 tvg-id="Disney.Channel.pl" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261110171e78ef458b7f7d72d719df4452f10a.jpg" group-title="Hoạt hình",Disney Channel 🇵🇱
-http://185.227.34.179:8080/disney-channel-hd/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="Hoạt hình",MeTV Toons 🇺🇸
-https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
-#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" group-title="Hoạt hình",Hop! 🇮🇱
-http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Hoạt hình",Kartoon Channel! 🇸🇬
-https://tglmp01.akamaized.net/out/v1/b8676da58b8d4a7a9a961358906e43bb/manifest.mpd
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://php.946985.filegear-sg.me/logo/ZooMoo.png" group-title="Hoạt hình",ZooMoo 🇸🇬
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Hoạt hình",ToonGoggles 🇺🇸
-https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-logo="https://freem3u.xyz/static/images/global/bbc-cbeebies.png" group-title="Hoạt hình",BBC Cbeebies 🇬🇧 🇻🇳
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png" group-title="Hoạt hình",Cartoon Network 🇺🇸 🇻🇳
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg" group-title="Hoạt hình",Cartoonito 🇬🇧 🇻🇳
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://freem3u.xyz/static/images/global/davinci.png" group-title="Hoạt hình",Da Vinci 🇻🇳
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=214
-#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png" group-title="Hoạt hình",Dreamworks 🇺🇸 🇻🇳
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
-#EXTINF:-1 tvg-id="tom-and-jerry" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tom.png" group-title="Hoạt hình",Tom And Jerry 🇩🇴
-https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="filmrise-anime" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/FilmRise-Anime.png" group-title="Hoạt hình",FilmRise Anime
-https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="Hoạt hình",TiJi 🇷🇺
-http://stream.mcquack.net/111/index.m3u8
-#EXTINF:-1 tvg-id="TheJungleBook.in@SD" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Hoạt hình",The Jungle Book 🇮🇳
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Hoạt hình",Ryan and Friends 🇺🇸
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Hoạt hình",Mr Bean Animated 🇬🇧
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Hoạt hình",HappyKids 🇺🇸
-https://dil9xdvretp0f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Hoạt hình",ducktv 🇸🇰
-https://dash3.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 tvg-id="Chikitoonz.pe@SD" tvg-logo="https://cdn.upanhlaylink.com/i/SGnDPvVu.jpg" group-title="Hoạt hình",Chikitoonz 🇵🇪
-http://45.70.201.81:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="Hoạt hình",BeJoy.kids 🇮🇹
-https://stream.paroledivita.org/bejoy.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Hoạt hình",Baby Shark TV 🇰🇷
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Hoạt hình",BabyFirst 🇺🇸 
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png" group-title="Hoạt hình",POP
-https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="Hoạt hình", Powerkids Kartoon Channel
-https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png" group-title="Hoạt hình", Sonic The Hedgehog
-https://d2f1o3sb3u36tf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-99j9k8uxi8rc2/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB370000369
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700002J0_20250819T032543SQUARE.png" group-title="Hoạt hình",Strawberry Shortcake
-https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB3700002J0
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400007FA_20250819T032541SQUARE.png" group-title="Hoạt hình", Teletubbies 🇬🇧
-https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2400007FA
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20250107T030751SQUARE.png" group-title="Hoạt hình", Smurf TV 🇺🇸
-https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/uG37lBB3.png" group-title="Hoạt hình", TG Junior 🇸🇬
-https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Hoạt hình", The LEGO Channel 🇺🇸
-https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8
-#EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-logo="https://i.imgur.com/RFhxfOx.png" group-title="Hoạt hình",ducktv PLUS 🇸🇰
-https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="Hoạt hình",Boomerang 🇺🇸
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Hoạt hình",Moonbug Kids 🇬🇧
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Hoạt hình",Nick Jr. 🇮🇹
-http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:-1 tvg-id="NikiJunior.ua@SD" tvg-logo="https://i.imgur.com/DrHsNin.png" group-title="Hoạt hình",Niki Junior 🇦🇺
-http://stream.mcquack.net/262/index.m3u8
-#EXTINF:-1 tvg-id="NikiKids.ua@SD" tvg-logo="https://i.imgur.com/HH4HZ2J.png" group-title="Hoạt hình",Niki Kids 🇦🇺
-http://stream.mcquack.net/271/index.m3u8
-#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="Hoạt hình",NickOnline 🇧🇷
-https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Super.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Hoạt hình",Super! 🇮🇹
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="WOWKidz.in@Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="Hoạt hình",WOW Kidz 🇮🇳
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="Tiny Pop" tvg-logo="https://cdn.upanhlaylink.com/i/iz51iMA1.jpg" group-title="Hoạt hình",Tiny Pop 🇬🇧
-https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-rakutenuk/cb7d3e4f7b726f8c9999376cd9f547f3d1006681563ad7316cad5e9420c91853d7b9f7c0e74feb690dbd7ba33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15ce24562999fb0c52d468e137555aa82e6b553982f25bad7752c5810a8a6f5fd2ef88376635455e9a5943e5b24aa0ade75a44df64a9ac14489c2f58e68314c8c915ee84dc469745d722f247999aa482db16888cab43f803f10b1a4c3078988d709dce62bfdee82f53d8227a431a04b5a696b3186ad6450e08fafbcef267f942cbc470d13064ec549e1fd136df3af071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1ea83af72788ac913794af66ed730393d9cfcdf1b96b167fcc672d3e23c456f99c211cbc9e5d2b6e7df10e64fbac6f08b025242621d079462b59369cf21af1ec2aa42780e1d1ed8f03bc582ca613467598f835beb1f16ada9e8e9be5f61b80a715bec73e656047ec731780e81479b8f3736f54c7884312ec44a21967dffb722e1a2d5f13932b1aca1289b3ab8ed5288b668d16c384a3da1e63a60464373c4eb68190f75c24be3c6cbe6727b648695c8f09a125276381341338af2f74f889acf3b1829d4412a12187a7d8405dd7ccb05474e3adf44afc6667581151e29e3b1365e5f539bc9ba84f5bfa023b376c1cafb3637611909cb32013551d0b9834df8365f41795c940a634caf0e5f5198f3a381b0a14c9fc636c050631070fae007480d2035094ecdc23b840db1c745f4cd9d0f95a2d943118771fa07479b9d8a39febf8493185bc6fd064f3deab957c4773ef813d13d81d175e7bd5a0219303221a8e973da719cedb3e471e346c24e076dd57cbe8aeab0d3594fe290584155633146260526767dd2bdd4601344e9b231943b8c8f45bb4d50697b2db283044db9f87818a3216770a0d2bfe1dfda0f11d36be665c86706995a042af3c334e6d9c89997866b473fcca5ae5e84b59191c9a4a34c191d652392d550472d9d4c9e8d03f2921c6cffb689f0d46a9b709046d1f5b521e972b2cab71bba9593eaed39005b580d6ea39d8a15dfaf3542bf6bc9722e179299e1fa718967de6dc2887ed18b3e3dbe394f53f0f8eb03e92899c41b0fc9a4677fd25513e0c1de073de9058429035cd0ecb7363cece22ec76cbc94d5386daf1e19c5667f408d32c3a69e484ec09d322170cc2a49a55a87dbeb447a27ada651032108383f58e06c4f09e1075b9d4ba1c5e5b66301af20ab2c1e96708ee074838329c7d1f5d2fefc1d448ed63f37d02ec6289801e7f8a6da1a8672508b63b23b6583fef9dfe9cdee96eefc3f7817bf65b828df54bbef80b057272b58fb2d1a6b0add3ee22a0072b5e574eb866e45a7d9dc35e2277164093511ea3898b730696002a8c75cbcfe4369486b11c9e227963295642aa57e569f3b4e3b2e267b6083b1ec3ad920db5690c57821e2a4968307c68d1effae81cf9f6803e373076f69b894aea0f16032ddb5abb0044da0ca449431543e0aa0fb836618e3e42301d987ac559a9d528e39172b4ef3a98f13ee5ea313cb7e7efb1af0de6c4cecac3d151aa41eb7ec526087079970759616fd0d7eda126a534a39b87ac769146c5b8917e7f7ae5228019600d40f1246dadde98a983d5e1c01531119617d12db4832a26b4321f55761f99099c29f859e1d1131e35db3db838b4a498386a499875db2d787fce6b7011d1aad370a1ff20e409172cb1815d2b252bd78869297865f07ba8275a03f85e655767210e98b316b192c68938740c15624de0dffda8af0c46ac3cdf237306e7e770a42d36f866463460de97dbec4193cf4ff9e6b0ad08ff2a3e4cfb38553e2a0f2509a9a446ad5fab530f0ebb436f55d0655850b571607b9b0505b39cc20a9ebd7e94303a22e954d582dece7fd3bb1b7147e539661b460ab772f53856e0168710b8bc55d8adcc55a7a2515490cedd4638a5e08a5742301c093438adf8f06c10090c0afff406a1c7134f87436233582496c5105fcb9f2c31c3be406f02b65a6d9b99e1a54698a9b58959d3e748194b800c871ec75ef72ff2c461c7dc7777d719d3e240a2d7b2018a94921e59aa6ecb4348c2dfc7b4cc800a57d37ba92021b82df7d8e7d7d539fd21441af67a13fa6998850e6786ee58eebcc0a/27/1920x1080_5903040/index.m3u8
-#EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="Hoạt hình",TVOKids 🇨🇦
-https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #EXTINF:-1 tvg-chno="79" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Quốc Tế",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
@@ -1909,6 +1635,164 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.mpd
 #EXTINF:-1   tvg-id="Deal or No Deal" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089317'&EntityType='Item'&EntityId='570813'&Width=127&Height=59" group-title="Quốc Tế", Deal or No Deal 🇸🇬
 https://tglmp01.akamaized.net/out/v1/25c1054ebfb94befbad706ae57b3e5fd/manifest.mpd
+
+#EXTINF:-1  tvg-id="ABC Cartoons" tvg-logo="https://cdn.upanhlaylink.com/i/SrctDAQd.png" group-title="Hoạt hình",ABC Cartoons 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
+#EXTINF:-1 tvg-id="ABC Kids" tvg-logo="https://cdn.upanhlaylink.com/i/Q8K4VHjb.png" group-title="Hoạt hình",ABC Kids 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
+#EXTINF:-1 tvg-id="ABC Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/98quIUwF.png" group-title="Hoạt hình",ABC Kids All Aussie 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
+#EXTINF:-1 tvg-id="ABC Big Kids All Aussie" tvg-logo="https://cdn.upanhlaylink.com/i/6hRUOWNi.png" group-title="Hoạt hình",ABC Big Kids All Aussie 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
+#EXTINF:-1 tvg-id="ABC Kids Play School" tvg-logo="https://cdn.upanhlaylink.com/i/U7WgeLQJ.png" group-title="Hoạt hình",ABC Kids Play School 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
+#EXTINF:-1 tvg-id="ABC Kids Play Music" tvg-logo="https://cdn.upanhlaylink.com/i/TiypYObX.png" group-title="Hoạt hình",ABC Kids Play Music 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
+#EXTINF:-1 tvg-id="ABC Big Kids" tvg-logo="https://cdn.upanhlaylink.com/i/lTBrycfL.jpg" group-title="Hoạt hình",ABC Big Kids 🇦🇺
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Hoạt hình",PBS Kids 🇺🇸
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Alaska 🇺🇸
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Eastern/Central 🇺🇸
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Hawaii 🇺🇸
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Mountain 🇺🇸
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Hoạt hình",PBS Kids Pacific 🇺🇸
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="SuperToons.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/SuperToons.png" group-title="Hoạt hình",Super Toons 🇧🇬 
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
+#EXTINF:-1 tvg-id="Disney.Channel.pl" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261110171e78ef458b7f7d72d719df4452f10a.jpg" group-title="Hoạt hình",Disney Channel 🇵🇱
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="Hoạt hình",MeTV Toons 🇺🇸
+https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
+#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" group-title="Hoạt hình",Hop! 🇮🇱
+http://stream.mcquack.net/44/index.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Hoạt hình",Kartoon Channel! 🇸🇬
+https://tglmp01.akamaized.net/out/v1/b8676da58b8d4a7a9a961358906e43bb/manifest.mpd
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://php.946985.filegear-sg.me/logo/ZooMoo.png" group-title="Hoạt hình",ZooMoo 🇸🇬
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Hoạt hình",ToonGoggles 🇺🇸
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-logo="https://freem3u.xyz/static/images/global/bbc-cbeebies.png" group-title="Hoạt hình",BBC Cbeebies 🇬🇧 🇻🇳
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png" group-title="Hoạt hình",Cartoon Network 🇺🇸 🇻🇳
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg" group-title="Hoạt hình",Cartoonito 🇬🇧 🇻🇳
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://freem3u.xyz/static/images/global/davinci.png" group-title="Hoạt hình",Da Vinci 🇻🇳
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=214
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png" group-title="Hoạt hình",Dreamworks 🇺🇸 🇻🇳
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 tvg-id="tom-and-jerry" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tom.png" group-title="Hoạt hình",Tom And Jerry 🇩🇴
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="filmrise-anime" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/FilmRise-Anime.png" group-title="Hoạt hình",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="Hoạt hình",TiJi 🇷🇺
+http://stream.mcquack.net/111/index.m3u8
+#EXTINF:-1 tvg-id="TheJungleBook.in@SD" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Hoạt hình",The Jungle Book 🇮🇳
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Hoạt hình",Ryan and Friends 🇺🇸
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Hoạt hình",Mr Bean Animated 🇬🇧
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Hoạt hình",HappyKids 🇺🇸
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Hoạt hình",ducktv 🇸🇰
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD" tvg-logo="https://cdn.upanhlaylink.com/i/SGnDPvVu.jpg" group-title="Hoạt hình",Chikitoonz 🇵🇪
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="Hoạt hình",BeJoy.kids 🇮🇹
+https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Hoạt hình",Baby Shark TV 🇰🇷
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Hoạt hình",BabyFirst 🇺🇸 
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png" group-title="Hoạt hình",POP
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="Hoạt hình", Powerkids Kartoon Channel
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png" group-title="Hoạt hình", Sonic The Hedgehog
+https://d2f1o3sb3u36tf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-99j9k8uxi8rc2/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB370000369
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700002J0_20250819T032543SQUARE.png" group-title="Hoạt hình",Strawberry Shortcake
+https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB3700002J0
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400007FA_20250819T032541SQUARE.png" group-title="Hoạt hình", Teletubbies 🇬🇧
+https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2400007FA
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20250107T030751SQUARE.png" group-title="Hoạt hình", Smurf TV 🇺🇸
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/uG37lBB3.png" group-title="Hoạt hình", TG Junior 🇸🇬
+https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Hoạt hình", The LEGO Channel 🇺🇸
+https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8
+#EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-logo="https://i.imgur.com/RFhxfOx.png" group-title="Hoạt hình",ducktv PLUS 🇸🇰
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="Hoạt hình",Boomerang 🇺🇸
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Hoạt hình",Moonbug Kids 🇬🇧
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Hoạt hình",Nick Jr. 🇮🇹
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="NikiJunior.ua@SD" tvg-logo="https://i.imgur.com/DrHsNin.png" group-title="Hoạt hình",Niki Junior 🇦🇺
+http://stream.mcquack.net/262/index.m3u8
+#EXTINF:-1 tvg-id="NikiKids.ua@SD" tvg-logo="https://i.imgur.com/HH4HZ2J.png" group-title="Hoạt hình",Niki Kids 🇦🇺
+http://stream.mcquack.net/271/index.m3u8
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="Hoạt hình",NickOnline 🇧🇷
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Super.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Hoạt hình",Super! 🇮🇹
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWKidz.in@Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="Hoạt hình",WOW Kidz 🇮🇳
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="Tiny Pop" tvg-logo="https://cdn.upanhlaylink.com/i/iz51iMA1.jpg" group-title="Hoạt hình",Tiny Pop 🇬🇧
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-rakutenuk/cb7d3e4f7b726f8c9999376cd9f547f3d1006681563ad7316cad5e9420c91853d7b9f7c0e74feb690dbd7ba33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15ce24562999fb0c52d468e137555aa82e6b553982f25bad7752c5810a8a6f5fd2ef88376635455e9a5943e5b24aa0ade75a44df64a9ac14489c2f58e68314c8c915ee84dc469745d722f247999aa482db16888cab43f803f10b1a4c3078988d709dce62bfdee82f53d8227a431a04b5a696b3186ad6450e08fafbcef267f942cbc470d13064ec549e1fd136df3af071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1ea83af72788ac913794af66ed730393d9cfcdf1b96b167fcc672d3e23c456f99c211cbc9e5d2b6e7df10e64fbac6f08b025242621d079462b59369cf21af1ec2aa42780e1d1ed8f03bc582ca613467598f835beb1f16ada9e8e9be5f61b80a715bec73e656047ec731780e81479b8f3736f54c7884312ec44a21967dffb722e1a2d5f13932b1aca1289b3ab8ed5288b668d16c384a3da1e63a60464373c4eb68190f75c24be3c6cbe6727b648695c8f09a125276381341338af2f74f889acf3b1829d4412a12187a7d8405dd7ccb05474e3adf44afc6667581151e29e3b1365e5f539bc9ba84f5bfa023b376c1cafb3637611909cb32013551d0b9834df8365f41795c940a634caf0e5f5198f3a381b0a14c9fc636c050631070fae007480d2035094ecdc23b840db1c745f4cd9d0f95a2d943118771fa07479b9d8a39febf8493185bc6fd064f3deab957c4773ef813d13d81d175e7bd5a0219303221a8e973da719cedb3e471e346c24e076dd57cbe8aeab0d3594fe290584155633146260526767dd2bdd4601344e9b231943b8c8f45bb4d50697b2db283044db9f87818a3216770a0d2bfe1dfda0f11d36be665c86706995a042af3c334e6d9c89997866b473fcca5ae5e84b59191c9a4a34c191d652392d550472d9d4c9e8d03f2921c6cffb689f0d46a9b709046d1f5b521e972b2cab71bba9593eaed39005b580d6ea39d8a15dfaf3542bf6bc9722e179299e1fa718967de6dc2887ed18b3e3dbe394f53f0f8eb03e92899c41b0fc9a4677fd25513e0c1de073de9058429035cd0ecb7363cece22ec76cbc94d5386daf1e19c5667f408d32c3a69e484ec09d322170cc2a49a55a87dbeb447a27ada651032108383f58e06c4f09e1075b9d4ba1c5e5b66301af20ab2c1e96708ee074838329c7d1f5d2fefc1d448ed63f37d02ec6289801e7f8a6da1a8672508b63b23b6583fef9dfe9cdee96eefc3f7817bf65b828df54bbef80b057272b58fb2d1a6b0add3ee22a0072b5e574eb866e45a7d9dc35e2277164093511ea3898b730696002a8c75cbcfe4369486b11c9e227963295642aa57e569f3b4e3b2e267b6083b1ec3ad920db5690c57821e2a4968307c68d1effae81cf9f6803e373076f69b894aea0f16032ddb5abb0044da0ca449431543e0aa0fb836618e3e42301d987ac559a9d528e39172b4ef3a98f13ee5ea313cb7e7efb1af0de6c4cecac3d151aa41eb7ec526087079970759616fd0d7eda126a534a39b87ac769146c5b8917e7f7ae5228019600d40f1246dadde98a983d5e1c01531119617d12db4832a26b4321f55761f99099c29f859e1d1131e35db3db838b4a498386a499875db2d787fce6b7011d1aad370a1ff20e409172cb1815d2b252bd78869297865f07ba8275a03f85e655767210e98b316b192c68938740c15624de0dffda8af0c46ac3cdf237306e7e770a42d36f866463460de97dbec4193cf4ff9e6b0ad08ff2a3e4cfb38553e2a0f2509a9a446ad5fab530f0ebb436f55d0655850b571607b9b0505b39cc20a9ebd7e94303a22e954d582dece7fd3bb1b7147e539661b460ab772f53856e0168710b8bc55d8adcc55a7a2515490cedd4638a5e08a5742301c093438adf8f06c10090c0afff406a1c7134f87436233582496c5105fcb9f2c31c3be406f02b65a6d9b99e1a54698a9b58959d3e748194b800c871ec75ef72ff2c461c7dc7777d719d3e240a2d7b2018a94921e59aa6ecb4348c2dfc7b4cc800a57d37ba92021b82df7d8e7d7d539fd21441af67a13fa6998850e6786ee58eebcc0a/27/1920x1080_5903040/index.m3u8
+#EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="Hoạt hình",TVOKids 🇨🇦
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png" group-title="Phim truyện", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
