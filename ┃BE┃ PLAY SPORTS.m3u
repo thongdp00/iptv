@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 1 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761953&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 2 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761954&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 3 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761955&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 4 4K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1499533&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 5 4K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1499534&extension=ts
+#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS GOLF 8K
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1499535&extension=ts

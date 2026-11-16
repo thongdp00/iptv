@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="CZ • SPORT",GOLF CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105610&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",EUROSPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105609&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",NOVA SPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105608&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",ARENA SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105607&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",ČT SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105606&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",ARENA SPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105605&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",SPORTY TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105604&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",NOVA SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105603&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",AUTO MOTOR SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105602&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",EUROSPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105601&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",SPORT1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105600&extension=ts
+#EXTINF:-1 group-title="CZ • SPORT",SPORT2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105599&extension=ts

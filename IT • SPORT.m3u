@@ -1,0 +1,127 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT 24 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102565&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT 24 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102564&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT UNO 4K
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102563&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT UNO FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102562&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT UNO HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102561&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MAX FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102560&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MAX HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102559&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT ARENA FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102558&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT ARENA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102557&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT TENNIS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102556&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT TENNIS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102555&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT F1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102554&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT F1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102553&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MOTOGP FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102552&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MOTOGP HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102551&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT GOLF FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102550&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT GOLF HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102549&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT BASKET FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102548&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT BASKET HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102547&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT MIX HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102546&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY SPORT LEGEND HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102545&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY ACI SPORT TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102544&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",TOP CALCIO 24 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102543&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SUPERTENNIS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102542&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SUPERTENNIS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102541&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102540&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102539&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102538&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",EUROSPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102537&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",BIKE CHANNEL FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102536&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",HORSE TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102535&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",RAI SPORT+ 4K
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102534&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",RAI SPORT PLUS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102533&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA PRIMAVERA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102532&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102531&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102530&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",JUVENTUS TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102529&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",INTER TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102528&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",INTER TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102527&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",MILAN TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102526&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",MILAN TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102525&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",LAZIOSTYLE CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102524&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SPORTITALIA SOLO CALCIO
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102523&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SI CALCIO
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102522&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO SERIE A FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102521&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO SERIE A HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102520&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 251 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102519&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 251 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102518&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 252 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102517&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 252 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102516&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 253 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102515&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 253 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102514&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 254 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102513&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 254 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102512&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 255 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102511&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 255 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102510&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 256 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102509&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 256 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102508&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 257 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102507&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 257 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102506&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 258 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102505&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 259 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102504&extension=ts
+#EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 259 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102503&extension=ts

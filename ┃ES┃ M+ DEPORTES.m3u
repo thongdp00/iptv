@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES FHD HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897426&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897427&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897428&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897429&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 2 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897430&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 2 (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897431&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 3 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897432&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 4 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897433&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 5 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897434&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 6 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897435&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 7 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897436&extension=ts
+#EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES 8 FHD (SOLO EVENTOS)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897437&extension=ts

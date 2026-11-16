@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241086&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241087&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 FHD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241089&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (NL)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241090&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241091&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241092&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 FHD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241093&extension=ts
+#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (FR)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241094&extension=ts

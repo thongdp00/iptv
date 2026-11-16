@@ -1,0 +1,123 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ES • DEPORTES",★☆★ DEPORTES ★☆★
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314600&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",REAL MADRID TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314602&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",REAL MADRID TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314632&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",GOL TV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314625&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",GOL TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314626&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",LALIGA HYPERMOTION 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314603&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",LALIGA HYPERMOTION 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314605&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",LALIGA HYPERMOTION 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314604&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN F1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314606&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN F1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314607&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314608&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314609&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314610&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314611&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314612&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314613&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 4 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314614&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN 4 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314615&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR FORMULA 1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314616&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR FORMULA 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314617&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR GOLF HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314618&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR GOLF FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314619&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314620&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314621&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314622&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314623&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314624&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314627&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314628&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314629&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | EUROSPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314630&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | TELEDEPORTE HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314631&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | LA LIGA TV BAR 3 [LIVE-EVENT]
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314633&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314635&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTE 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314636&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTE 2 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314637&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314638&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314639&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 1 HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314640&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314641&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314642&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314643&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR MULTIDEPORTE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314644&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | TELEDEPORTE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314645&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR  FUTBOL HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314646&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314647&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314648&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314649&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 2 FHD  (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314650&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 2 HD  (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314651&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 3 FHD  (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314652&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 4 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314653&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 5 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314654&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 7 HD  (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314655&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 6 HD  (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314656&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 8 HD  (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314657&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 3 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314658&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 4 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314659&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 5 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314660&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 6 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314661&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 7 HD (Solo Eventos)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314662&extension=ts

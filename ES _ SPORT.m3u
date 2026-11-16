@@ -1,0 +1,81 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ES | SPORT",4K | F1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=997598&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion HD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893480&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893479&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 2 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893478&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 3 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893477&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 4 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893476&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 5 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893475&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 6 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893474&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion 7 FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=893473&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",✦●✦●      SP⚽RT      ✦●✦●
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=180858&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 1 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120793&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 2 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120794&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 3 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120795&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ L.CAMPEONES 4 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120796&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115266&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115442&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115443&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ LALIGA 3 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115444&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ DEPORTES 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ DEPORTES 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120801&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ DEPORTES 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120802&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ MULTIDEPORTE
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120808&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",ES | M+ LaLiga hypermotion
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=776740&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | EURO SPORT 1 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18585&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | EURO SPORT 2 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18586&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | BARCA TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115430&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | REAL MADRID TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18588&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ GOLF
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | TELEDEPORTE
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18600&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 1 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120789&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 2 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120790&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 3 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120791&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 4 [EVENT]
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120792&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | M+ VAMOS 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115441&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120788&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | SEVILLA FC TV
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=186809&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | BEIN SPORTS XTRA EN ESPANOL
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=190204&extension=ts
+#EXTINF:-1 group-title="ES | SPORT",4K | EDGE SPORT
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=205853&extension=ts

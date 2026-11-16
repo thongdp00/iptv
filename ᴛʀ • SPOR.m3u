@@ -1,0 +1,85 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ᴛʀ • SPOR",★☆★ SPOR ★☆★
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=159170&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=126528&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94891&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94892&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=152246&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94893&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=151903&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",A SPOR HEVC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=126525&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",A SPOR HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94880&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",A SPOR HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=328902&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",HT SPOR HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=621580&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",HT SPOR HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=621579&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SIFIR TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=704505&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 1 HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94871&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94872&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 2 HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=111086&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=543717&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94873&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94890&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=534025&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94874&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 5
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=267419&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 6
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101822&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 7
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101821&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 8
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101820&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 9
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101819&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 10
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101818&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",EUROSPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94889&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",EUROSPORT 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=570381&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101831&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101830&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101829&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101828&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101827&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101826&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101825&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101824&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101823&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",EKOL SPORT HD+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=689323&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",FB TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94894&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",FB TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=596874&extension=ts
+#EXTINF:-1 group-title="ᴛʀ • SPOR",SPORTS TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94888&extension=ts

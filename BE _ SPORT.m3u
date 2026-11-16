@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="BE | SPORT",✦●✦●      SP⚽RT      ✦●✦●
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=180813&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303723&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303724&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | VOO SPORT WORLD 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130469&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | VOO SPORT WORLD 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130468&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",BE | VOO SPORT WORLD 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=341241&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130319&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813758&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 5
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813757&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 6
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813756&extension=ts
+#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 7
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813755&extension=ts

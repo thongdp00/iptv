@@ -1,0 +1,67 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",## NOW TV SPORT ᴴᴰ/ᴿᴬᵂ ##
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527642&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527641&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527640&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MAIN EVENT ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527639&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MAIN EVENT ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527638&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527637&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS PREMIER LEAGUE ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527636&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527635&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527634&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS F1 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527633&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS F1 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527632&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS RACING ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527631&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS RACING ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527630&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS TENNIS ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527629&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS TENNIS ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527628&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS ACTION ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527627&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS ACTION ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527626&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS CRICKET ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527625&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS CRICKET ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527624&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527623&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527622&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MIX ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527621&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS MIX ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527620&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS+ ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527619&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS+ ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527618&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 1 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527617&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 1 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527616&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 2 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527615&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 2 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527614&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 3 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527613&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORT 3 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527612&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527611&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527610&extension=ts
