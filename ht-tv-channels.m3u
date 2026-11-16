@@ -1,6 +1,122 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97072" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",CNA 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97098" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
+https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97104" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97104" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97129" tvg-logo="https://i.ibb.co.com/zZL6Y7V/mchannelu.png",Channel U 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97129" tvg-logo="https://i.ibb.co.com/zZL6Y7V/mchannelu.png",Channel U 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97084"  tvg-logo="https://i.ibb.co.com/KLfmfq7/msuria.png",Channel Suria 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97096" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Channel Vasantham 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97073" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97078" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/232439/assetType/media/assetFileId/2808449/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="97078" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98202" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="204746" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="497989" tvg-logo="https://i.ibb.co.com/KzrvYbMv/mlive7.png" ,M LIVE 7 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
+https://tglmp04.akamaized.net/out/v1/5793335474d74566a8a0adfa260f22a9/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98202" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c6039b44e5412290968affbe4575b0:08d36fa7dafe5dc55114845d0b73b9e4
+https://tglmp04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="204746" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
+https://tglmp02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98200" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png",M LIVE SPL 01 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="98201" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png",M LIVE SPL 02 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-logo="https://i.ibb.co.com/M59Xq8f/mcrop.png",TG Junior 🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
+
+#EXTINF:-1   group-title="Singapore 🇸🇬" tvg-id="822075" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455460'&EntityType='Item'&EntityId='822075'&Width=150&Height=59", CWG CH01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
+https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1  group-title="Singapore 🇸🇬" tvg-id="822074" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455462'&EntityType='Item'&EntityId='822074'&Width=150&Height=59", CWG CH02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
+https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1  group-title="Singapore 🇸🇬" tvg-id="822077" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455483'&EntityType='Item'&EntityId='822077'&Width=150&Height=59", CWG CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
+https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
+
+#EXTINF:-1  group-title="Singapore 🇸🇬" tvg-id="822076" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455458'&EntityType='Item'&EntityId='822076'&Width=150&Height=59", CWG CH04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
+https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
