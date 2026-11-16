@@ -41,7 +41,7 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=696&extens
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=18647&extension=ts
 #EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ SPORTS TV
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=694&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="BE | SPORT",✦●✦●      SP⚽RT      ✦●✦●
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=180813&extension=ts
 #EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 1
@@ -68,7 +68,7 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813757&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813756&extension=ts
 #EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 7
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813755&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="CZ • SPORT",GOLF CHANNEL
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105610&extension=ts
 #EXTINF:-1 group-title="CZ • SPORT",EUROSPORT
@@ -93,7 +93,7 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105601&ext
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105600&extension=ts
 #EXTINF:-1 group-title="CZ • SPORT",SPORT2
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105599&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="ES | SPORT",4K | F1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=997598&extension=ts
 #EXTINF:-1 group-title="ES | SPORT",Laliga Hypermotion HD
@@ -152,16 +152,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115430&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18588&extension=ts
 #EXTINF:-1 group-title="ES | SPORT",4K | M+ GOLF
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
-#EXTINF:-1 group-title="ES | SPORT",4K | TELEDEPORTE
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18600&extension=ts
-#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 1 [EVENT]
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120789&extension=ts
-#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 2 [EVENT]
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120790&extension=ts
-#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 3 [EVENT]
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120791&extension=ts
-#EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV BAR 4 [EVENT]
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=120792&extension=ts
 #EXTINF:-1 group-title="ES | SPORT",4K | M+ VAMOS 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
 #EXTINF:-1 group-title="ES | SPORT",4K | LALIGA TV
@@ -174,7 +164,7 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=186809&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=190204&extension=ts
 #EXTINF:-1 group-title="ES | SPORT",4K | EDGE SPORT
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=205853&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="ES • DEPORTES",★☆★ DEPORTES ★☆★
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314600&extension=ts
 #EXTINF:-1 group-title="ES • DEPORTES",REAL MADRID TV FHD
@@ -239,14 +229,8 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314629&exte
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314630&extension=ts
 #EXTINF:-1 group-title="ES • DEPORTES",ES | TELEDEPORTE HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314631&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | LA LIGA TV BAR 3 [LIVE-EVENT]
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314633&extension=ts
 #EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314635&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTE 1 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314636&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTE 2 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314637&extension=ts
 #EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES HEVC
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314638&extension=ts
 #EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES
@@ -267,37 +251,7 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314645&exte
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314646&extension=ts
 #EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS HEVC
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314647&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS FHD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314648&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR VAMOS HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314649&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 2 FHD  (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314650&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 2 HD  (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314651&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 3 FHD  (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314652&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 4 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314653&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 5 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314654&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 7 HD  (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314655&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 6 HD  (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314656&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR LA LIGA 8 HD  (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314657&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 3 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314658&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 4 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314659&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 5 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314660&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 6 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314661&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | MOVISTAR DEPORTES 7 HD (Solo Eventos)
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314662&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="IT • SPORT",SKY SPORT 24 FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102565&extension=ts
 #EXTINF:-1 group-title="IT • SPORT",SKY SPORT 24 HD
@@ -425,7 +379,6 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102504&ext
 #EXTINF:-1 group-title="IT • SPORT",SKY CALCIO 259 HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102503&extension=ts
 
-EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 #EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",✦●✦●   SP⚽RT   ✦●✦●
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=214707&extension=ts
 #EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN ULTRA
@@ -517,7 +470,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=150868&extension=
 #EXTINF:-1 group-title="NL | ESPN & ZIGGO SPORT",4K | BOXNATION
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=150869&extension=ts
 
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 #EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS NEWS FHD
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366442&extension=ts
 #EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS NEWS HD
@@ -730,7 +682,7 @@ http://iptvgo.cc:80/live/De123/De123/800011.m3u8
 http://iptvgo.cc:80/live/De123/De123/800010.m3u8
 #EXTINF:-1 group-title="UK | SPORTS",UK SD | Premier Sports Rugby SD
 http://iptvgo.cc:80/live/De123/De123/800009.m3u8
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",## NOW TV SPORT ᴴᴰ/ᴿᴬᵂ ##
 http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527642&extension=ts
 #EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴿᴬᵂ
@@ -797,7 +749,7 @@ http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527612&extensio
 http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527611&extension=ts
 #EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: TNT SPORTS 4 ᴴᴰ
 http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527610&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",##### ABU DHABI SPORTS #####
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=756852&extension=ts
 #EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1 UHD
@@ -828,7 +780,7 @@ http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584504&exten
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584502&extension=ts
 #EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORTS 3 HEVC
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584501&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",###### STARZPLAY SPORT ######
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761731&extension=ts
 #EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 1 HD
@@ -879,7 +831,7 @@ http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765048&exten
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765052&extension=ts
 #EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 UHD
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765051&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="ᴛʀ • SPOR",★☆★ SPOR ★☆★
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=159170&extension=ts
 #EXTINF:-1 group-title="ᴛʀ • SPOR",TRT SPOR HEVC
@@ -964,7 +916,7 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94894&exten
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=596874&extension=ts
 #EXTINF:-1 group-title="ᴛʀ • SPOR",SPORTS TV HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94888&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (NL)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241086&extension=ts
 #EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (NL)
@@ -981,7 +933,7 @@ http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241092&
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241093&extension=ts
 #EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (FR)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241094&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 1 8K
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761953&extension=ts
 #EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 2 8K
@@ -1020,7 +972,7 @@ http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760968&ext
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149508&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ ESPORTS 1 FHD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760969&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES FHD HEVC
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897426&extension=ts
 #EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES FHD
@@ -1029,7 +981,7 @@ http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897427&e
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897428&extension=ts
 #EXTINF:-1 group-title="┃ES┃ M+ DEPORTES",┃ES┃ M+ DEPORTES
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=897429&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 1 4K
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558965&extension=ts
 #EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 1 HD
@@ -1062,7 +1014,7 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558964&ext
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558967&extension=ts
 #EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA E SPORT 4K
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558969&extension=ts
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
 #EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1109&extension=ts
 #EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 1 HD
