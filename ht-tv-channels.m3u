@@ -882,7 +882,7 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="Thể thao quốc tế" , BEIN SPORTS XTRA ñ 🇺🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 1" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 1 🇹🇷
+#EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 1" tvg-id="Beinsports.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 1 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 http://57.129.0.61:1990/cloud/stream/117/index.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 2" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 2 🇹🇷
@@ -1139,9 +1139,9 @@ https://cache1.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://cache1.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" group-title="Thể thao quốc tế",Eurosport 3 🇵🇱
+#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-logo="https://cdn.upanhlaylink.com/i/Gf0a1APp.jpg" group-title="Thể thao quốc tế",Eurosport 3 🇵🇱
 http://sultanios.alwaysdata.net/vavo.php?ID=512159637
-#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" group-title="Thể thao quốc tế",Eurosport 4 🇵🇱
+#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-logo="https://cdn.upanhlaylink.com/i/K0QU8DXL.jpg" group-title="Thể thao quốc tế",Eurosport 4 🇵🇱
 http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-go3-sport-2886.png" group-title="Thể thao quốc tế",GO3 SPORTS 1 🇱🇻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
