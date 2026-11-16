@@ -1,6 +1,16 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+#EXTINF:-1  tvg-id="Sat.1.de" tvg-logo="https://i.ibb.co.com/k9cBqnw/sat1.png" group-title="SPORTS🏅", Sat.1 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
+
+
+#EXTINF:-1  tvg-id="Sat.1.at" tvg-logo="https://i.ibb.co.com/k9cBqnw/sat1.png" group-title="SPORTS🏅", Sat.1 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/s9NDZSK/nbatv.png" group-title="SPORTS🏅", NBA TV 🇺🇸 🇲🇽 HEVC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
