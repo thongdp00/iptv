@@ -1139,10 +1139,6 @@ https://cache1.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://cache1.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-logo="https://cdn.upanhlaylink.com/i/Gf0a1APp.jpg" group-title="Thể thao quốc tế",Eurosport 3 🇵🇱
-http://sultanios.alwaysdata.net/vavo.php?ID=512159637
-#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-logo="https://cdn.upanhlaylink.com/i/K0QU8DXL.jpg" group-title="Thể thao quốc tế",Eurosport 4 🇵🇱
-http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-go3-sport-2886.png" group-title="Thể thao quốc tế",GO3 SPORTS 1 🇱🇻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
