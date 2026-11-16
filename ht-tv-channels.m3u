@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-        url-tvg="https://epg.io.vn/epgc.xml"
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
         url-tvg="https://epgshare01.online/epgshare01/epg_ripper_Abein spLL_SOURCES1.xml.gz,
 https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,
 https://github.com/iptv-org/epg/raw/9b331e6cfab19ad2f683b212aa079aac07fe72fe/sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml,https://warningfm.github.io/x1/epg/guide.xml.gz"
