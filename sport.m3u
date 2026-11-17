@@ -1065,3 +1065,69 @@ http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/283566.m3u8
 http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/283567.m3u8
 #EXTINF:-1 group-title="STARZPLAY AD SPORT PREMIUM",AD| ADSP 2 PREMIUM HD
 http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/283568.m3u8
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941417&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941418&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941419&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941420&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941421&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941422&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941423&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941424&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941425&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 4 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941426&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 5 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941427&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 6 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941428&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 7 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941429&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 8 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941430&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 9 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941431&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 10 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941432&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 1 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988867&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 1 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988874&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988881&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 2 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988868&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 2 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988875&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988882&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 3 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988869&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 3 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988876&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 3 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988883&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 4 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988870&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 4 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988877&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 4 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988884&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 5 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988871&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 5 FHD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988878&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 5 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988885&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS MAX 1 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988872&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS MAX 2 RAW
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988873&extension=ts
