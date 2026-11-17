@@ -683,7 +683,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 3 HD" tvg-logo="https://cdn.upanhlaylink.com/i/aYVHM5HW.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 3 🇳🇱 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3067&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 4HD" tvg-logo="https://cdn.upanhlaylink.com/i/rSZQUypV.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 4 🇳🇱 
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3068&extension=ts
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884267&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 5 HD" tvg-logo="https://cdn.upanhlaylink.com/i/bPCiipCj.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 5 🇳🇱 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18681&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
