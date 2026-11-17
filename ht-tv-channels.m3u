@@ -602,20 +602,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
-
-
-
-#EXTINF:-1 group-title="Thể thao quốc tế",SKY CALCIO SERIE A F
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102521&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",Liverpool FC TV
-http://iptvgo.cc:80/live/De123/De123/276843.m3u8
-#EXTINF:-1 group-title="Thể thao quốc tế",S SPORT 1 
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94871&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",S SPORT 2 
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=111086&extension=ts
-
-
-
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Thể thao quốc tế",SPOTV  
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
@@ -694,11 +680,11 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 3 🇳🇱 
+#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 3 HD" tvg-logo="https://cdn.upanhlaylink.com/i/aYVHM5HW.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 3 🇳🇱 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3067&extension=ts
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 4HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 4 🇳🇱 
+#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 4HD" tvg-logo="https://cdn.upanhlaylink.com/i/rSZQUypV.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 4 🇳🇱 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3068&extension=ts
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 5 🇳🇱 
+#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 5 HD" tvg-logo="https://cdn.upanhlaylink.com/i/bPCiipCj.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 5 🇳🇱 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18681&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
@@ -711,6 +697,10 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1
 https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+ Spain 🇪🇸
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/pImv4VSf.jpg" group-title="Thể thao quốc tế",SKY CALCIO SERIE A 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102521&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/aPZ8rTie.jpg"group-title="Thể thao quốc tế",Liverpool FC TV
+http://iptvgo.cc:80/live/De123/De123/276843.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Thể thao quốc tế",Milan TV 🇮🇹
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Thể thao quốc tế",INTER 24/7 🇮🇹
