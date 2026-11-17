@@ -860,6 +860,10 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988877&exte
 #EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 5" tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 5 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988878&extension=ts
+#EXTINF:- tvg-name="Bein Sports MAX 1 " tvg-id="Beinsports.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports MAX 1 🇹🇷
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988872&extension=ts
+#EXTINF: tvg-name="Bein Sports MAX 2 " tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports MAX  2 🇹🇷
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988873&extension=ts
 #EXTINF:-1 tvg-id="Arena4.hu@SD" tvg-logo="https://i.imgur.com/uAaQDr6.png" group-title="Thể thao quốc tế",Arena4 🇭🇺
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png"  group-title="Thể thao quốc tế",Arena Sport 1 🇸🇰
@@ -888,14 +892,11 @@ https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls14/arena_tenis.mpd?n=browsernull-cdn.sam.net
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap1.png" group-title="Thể thao quốc tế",ARENA PREMIUM 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=apre1
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=559143&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap2.png" group-title="Thể thao quốc tế",ARENA PREMIUM 2 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=apre2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=559144&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap3.png" group-title="Thể thao quốc tế",ARENA PREMIUM 3 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=apre3
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=559145&extension=ts
 #EXTINF:-1 tvg-id="Arena Sport 4 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Thể thao quốc tế", ARENA SPORT 4 PREMIUM 🇧🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
