@@ -1,4 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
+#EXTINF:-1 group-title="DE | SPORT",|DE| DAZN RISE
+http://iptvgo.cc:80/live/De123/De123/662275.m3u8
+#EXTINF:-1 group-title="DE | SPORT",|DE|  DAZN FAST+
+http://iptvgo.cc:80/live/De123/De123/662259.m3u8
 #EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ HT SPOR 8K
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1245942&extension=ts
 #EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR 8K
