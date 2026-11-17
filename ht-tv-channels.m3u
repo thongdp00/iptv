@@ -1,6 +1,55 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 1 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728082.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 2 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728081.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 2 ᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728080.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 3 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728079.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 4 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728078.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 5 ᵁᴴᴰ
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT| ELEVEN SPORTS DAZN 1 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728118.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 2 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728117.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 3 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728116.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 4 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728115.m3u8
+#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 5 ᵁᴴᴰ
+http://iptvgo.cc:80/live/De123/De123/728114.m3u8
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527623&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527622&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527635&extension=ts
+#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴴᴰ
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527634&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS FOOTBALL FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366430&extension=ts
+#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS GOLF FHD
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366415&extension=ts
+#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN F1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314606&extension=ts
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276924.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football HD
+http://iptvgo.cc:80/live/De123/De123/276923.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football SD
+http://iptvgo.cc:80/live/De123/De123/276922.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD 50fps
+http://iptvgo.cc:80/live/De123/De123/276921.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf HD
+http://iptvgo.cc:80/live/De123/De123/276920.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf SD
+http://iptvgo.cc:80/live/De123/De123/276919.m3u8
+#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
+http://iptvgo.cc:80/live/De123/De123/276826.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -603,26 +652,18 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
-#EXTINF:-1 group-title="Thể thao quốc tế", A SPOR 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615828&extension=ts
-#EXTINF:-1 ggroup-title="Thể thao quốc tế",FENERBACHE TV 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=695&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",PLAY SPORTS 1
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",PLAY SPORTS 2
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
+
+
+
 #EXTINF:-1 group-title="Thể thao quốc tế",M+ L.CAMPEONES
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=ts
 #EXTINF:-1 group-title="Thể thao quốc tế",M+ LALIGA
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115266&extension=ts
 #EXTINF:-1 group-title="Thể thao quốc tế",M+ DEPORTES 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",BARCA TV
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115430&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",REAL MADRID TV
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18588&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",JUVENTUS TV
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102529&extension=ts
+
+
+
 #EXTINF:-1 group-title="Thể thao quốc tế",SKY CALCIO SERIE A F
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102521&extension=ts
 #EXTINF:-1 group-title="Thể thao quốc tế", ZIGGO SPORT 3
@@ -631,63 +672,16 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3067&extension=ts
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3068&extension=ts
 #EXTINF:-1 group-title="Thể thao quốc tế",ZIGGO SPORT 5
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18681&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", Sky Sports Tennis 
-http://iptvgo.cc:80/live/De123/De123/318045.m3u8
-#EXTINF:-1 group-title="Thể thao quốc tế",MUTV
-http://iptvgo.cc:80/live/De123/De123/276873.m3u8
-#EXTINF:-1 group-title="Thể thao quốc tế",LFC TV 
+
+
+#EXTINF:-1 group-title="Thể thao quốc tế",Liverpool FC TV
 http://iptvgo.cc:80/live/De123/De123/276843.m3u8
 #EXTINF:-1 group-title="Thể thao quốc tế",S SPORT 1 
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94871&extension=ts
 #EXTINF:-1 group-title="Thể thao quốc tế",S SPORT 2 
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=111086&extension=ts
 
-#EXTINF:-1 group-title="Thể thao quốc tế",DAZN 1 NL
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241086&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",DAZN 2 NL
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241089&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", DAZN 1 FR
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241091&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", DAZN 2FR
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241093&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", MAX SPORT 1 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558965&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", MAX SPORT 2 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558966&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 1 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1115&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế",ARENA SPORT 2 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1114&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 3 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1113&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 4 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1112&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 5 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1111&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 6 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1110&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 7 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 8 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 9 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558963&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA SPORT 10 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558964&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", ARENA FIGHT 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558967&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", SPORT KLUB 1 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1108&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", SPORT KLUB 2 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1107&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", SPORT KLUB 3 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1106&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", SPORT KLUB 4 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1105&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", SPORT KLUB 5 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1104&extension=ts
-#EXTINF:-1 group-title="Thể thao quốc tế", SPORT KLUB 6 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1103&extension=ts
+
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Thể thao quốc tế",SPOTV  
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -740,8 +734,10 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=13140
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+#EXTINF:-1 tvg-id="ch-beplaysports1fhd" tvg-name="PLAY SPORTS 1 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 1 🇧🇪 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
 #EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2 🇧🇪 (NHA)
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
 
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="┃UK┃ MUTV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="Thể thao quốc tế",MUTV 🇬🇧
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
@@ -824,7 +820,7 @@ http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 https://livesport.io.vn/ott/m4.php?channel=skygolf&format=redirect
 #EXTINF:-1 tvg-chno="134" tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664451
+http://iptvgo.cc:80/live/De123/De123/318045.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png" group-title="Thể thao quốc tế",SKY SPORTS 1 🇳🇿
 https://livesport.io.vn/ott/vstb.php?id=sky1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-2-459.png" group-title="Thể thao quốc tế",SKY SPORTS 2 🇳🇿
@@ -983,29 +979,21 @@ https://webtvstream.bhtelecom.ba/hls15/as_premium4.mpd?n=browsernull-cdn.sam.net
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls15/as_premium5.mpd?n=browsernull-cdn.sam.net
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a1.png" group-title="Thể thao quốc tế",ARENA SPORT 1 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are1
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1115&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a2.png" group-title="Thể thao quốc tế",ARENA SPORT 2
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are2
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1114&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a3.png" group-title="Thể thao quốc tế",ARENA SPORT 3
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are3
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1113&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a4.png" group-title="Thể thao quốc tế",ARENA SPORT 4
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are4
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1112&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a5.png" group-title="Thể thao quốc tế",ARENA SPORT 5
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are5
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1111&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a6.png" group-title="Thể thao quốc tế",ARENA SPORT 6
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are6
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1110&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a7.png" group-title="Thể thao quốc tế",ARENA SPORT 7
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are7
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a8.png" group-title="Thể thao quốc tế",ARENA SPORT 8
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livesport.io.vn/ott/apo.php?id=are8
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=ele1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2 🇵🇹
@@ -1159,13 +1147,13 @@ https://livesport.io.vn/ott/viptv.php?id=spo4
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo5
 #EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="https://livesport.io.vn/logo/sport/sk1.png" group-title="Thể thao quốc tế", SPORT KLUB 1
-https://livesport.io.vn/ott/apo.php?id=sk1
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1108&extension=ts
 #EXTINF:-1 tvg-name="SPORT KLUB 2"  tvg-logo="https://livesport.io.vn/logo/sport/sk2.png" group-title="Thể thao quốc tế", SPORT KLUB 2
-https://livesport.io.vn/ott/apo.php?id=sk2
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1107&extension=ts
 #EXTINF:-1 tvg-name="SPORT KLUB 3"  tvg-logo="https://livesport.io.vn/logo/sport/sk3.png" group-title="Thể thao quốc tế", SPORT KLUB 3 
-https://livesport.io.vn/ott/apo.php?id=sk3
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1106&extension=ts
 #EXTINF:-1 tvg-name="SPORT KLUB 4"  tvg-logo="https://livesport.io.vn/logo/sport/sk4.png" group-title="Thể thao quốc tế", SPORT KLUB 4
-https://livesport.io.vn/ott/apo.php?id=sk4
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1105&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-1-563.png" group-title="Thể thao quốc tế",Nova Sport 1 🇸🇰
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1425,9 +1413,15 @@ https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Thể thao quốc tế",Fast&FunBox 🇳🇱
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Thể thao quốc tế",A Spor 🇹🇷
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615828&extension=ts
 #EXTINF:-1 tvg-id="Sportitalia.HD.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Thể thao quốc tế",Sportitalia 🇮🇹
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Thể thao quốc tế",Max Sport 1 
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558965&extension=ts
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Thể thao quốc tế",Max Sport 2 
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558966&extension=ts
+#EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Thể thao quốc tế",FB TV
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=695&extension=ts
 
 #EXTINF:-1 tvg-chno="79" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Quốc Tế",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
