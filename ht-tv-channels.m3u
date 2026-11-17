@@ -694,10 +694,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd
-#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế", FIFA+ 🇸🇬
-https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+ Spain 🇪🇸
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 cuid="1511" tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]" tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",DAZN tv
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Thể thao quốc tế",Sky Sports 1 🇲🇽 (LALIGA)
@@ -891,11 +887,11 @@ https://ac-009.live.p7s1video.net/e335a8ac/t_009/tennis-channel-hd/cenc-default.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls14/arena_tenis.mpd?n=browsernull-cdn.sam.net
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap1.png" group-title="Thể thao quốc tế",ARENA PREMIUM 1 
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap1.png" group-title="Thể thao quốc tế",ARENA PREMIUM 1 🇧🇦
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=559143&extension=ts
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap2.png" group-title="Thể thao quốc tế",ARENA PREMIUM 2 
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap2.png" group-title="Thể thao quốc tế",ARENA PREMIUM 2 🇧🇦
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=559144&extension=ts
-#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap3.png" group-title="Thể thao quốc tế",ARENA PREMIUM 3 
+#EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/ap3.png" group-title="Thể thao quốc tế",ARENA PREMIUM 3 🇧🇦
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=559145&extension=ts
 #EXTINF:-1 tvg-id="Arena Sport 4 Premium.ba" tvg-logo="https://i.ibb.co.com/VpY4kD2s/arena4prm.png" group-title="Thể thao quốc tế", ARENA SPORT 4 PREMIUM 🇧🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
