@@ -1,80 +1,6 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS ᵁᴴᴰ 1
-http://iptvgo.cc:80/live/De123/De123/723899.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN Sports 1 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723898.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN Sports 1 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723897.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS 1 4K
-http://iptvgo.cc:80/live/De123/De123/723896.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORT 1 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723895.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS ᵁᴴᴰ 2
-http://iptvgo.cc:80/live/De123/De123/723894.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN Sports 2 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723893.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN Sports 2 ᴴᴰ FR
-http://iptvgo.cc:80/live/De123/De123/723892.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS 2 4K
-http://iptvgo.cc:80/live/De123/De123/723891.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORT 2ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723890.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS 3 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723889.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN Sports 3 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723888.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN Sports 3 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723887.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS 3 4K
-http://iptvgo.cc:80/live/De123/De123/723886.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORT 3 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723885.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 4 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723884.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 4 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723883.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 4 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723882.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 5 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723881.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR|  beIN SPORT MAX 5 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723880.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 5 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723879.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 6
-http://iptvgo.cc:80/live/De123/De123/723878.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 6 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723877.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR|  beIN SPORT MAX 6 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723876.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 6 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723875.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 7 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723874.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN SPORT MAX 7 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723873.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 7 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723872.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR|  BeIN Sport Max 8 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723871.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR|  beIN SPORT MAX 8 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723870.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 8 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723869.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 9 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723868.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| beIN SPORT MAX 9 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723867.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 9 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723866.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BeIN Sport Max 10 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723865.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR|  beIN SPORT MAX 10 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/723864.m3u8
-#EXTINF:-1 group-title="FR | SPORT",|FR| BEIN SPORTS MAX 10 ˢᴰ
-http://iptvgo.cc:80/live/De123/De123/723863.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -898,7 +824,7 @@ https://livesport.io.vn/ott/vstb.php?id=be8fr
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m9.png" group-title="Thể thao quốc tế",Bein Sports MAX 9 🇫🇷
 https://livesport.io.vn/ott/vstb.php?id=be9fr
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m10.png" group-title="Thể thao quốc tế",Bein Sports MAX 10 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=sky8nz&fresh=1
+http://iptvgo.cc:80/live/De123/De123/723865.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg"  tvg-logo="https://i.ibb.co.com/d75VShH/daznxbein1.png" group-title="Thể thao quốc tế", beIN Sports 1 🇦🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
