@@ -1,6 +1,82 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",##### EPL PREMIER LEAGUE #####
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=467421&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL 1 4K/UHD
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1579368&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL 2 4K/UHD
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1579367&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL AFC BOURNEMOUTH
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988366&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL ARSENAL
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988368&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL ASTON VILLA
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988367&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL BRENTFORD
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988365&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL BRIGHTON
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988364&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL BURNLEY
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988359&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL CHELSEA
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988363&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL CRYSTAL PALACE
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988362&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL EVERTON
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988361&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL FULHAM
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988360&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL LEEDS
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1893285&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL LEICESTER
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1715253&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL LIVERPOOL
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988358&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL LUTON
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988349&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL MANCHESTER CITY
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988357&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL MANCHESTER UTD
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988356&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL NEWCASTLE UTD
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988355&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL NOTTINGHAM FOREST
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988354&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL SHEFFIEID UTD
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988353&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL SOUTHAMPTON
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1505600&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL SUNDERLAND
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1903316&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL TOTTENHAM
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988352&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL WEST HAM
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988351&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",UK| EPL WOLVERHAMPTON WANDERERS
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=988350&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",##### EPL PREMIER LEAGUE PPV #####
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616587&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 1
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616586&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 2
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616585&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 3
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616584&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 4
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616583&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 5
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616582&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 6
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616581&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 7
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616580&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 8
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616579&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 9
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616578&extension=ts
+#EXTINF:-1 group-title="UK| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 10
+http://line.darktv-pro.cc:80/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1616577&extension=ts
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
