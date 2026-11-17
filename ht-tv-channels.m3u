@@ -1356,10 +1356,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=t
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mcampeones.png" group-title="Thể thao quốc tế",M+ DEPORTES 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
 
-#EXTINF:-1 tvg-chno="79" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Quốc Tế",Game Show Network
-https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="Quốc Tế",Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png" group-title="Quốc Tế",America's Got Talent
 https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png" group-title="Quốc Tế",American Idol
