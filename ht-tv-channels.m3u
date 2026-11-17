@@ -1,57 +1,6 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 1 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728082.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 2 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728081.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 2 ᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728080.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 3 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728079.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 4 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728078.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  SPORT TV 5 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728077.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT| ELEVEN SPORTS DAZN 1 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728118.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 2 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728117.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 3 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728116.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 4 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728115.m3u8
-#EXTINF:-1 group-title="PORTUGAL ULTRA ᵁᴴᴰ",|PT|  ELEVEN SPORTS DAZN 5 ᵁᴴᴰ
-http://iptvgo.cc:80/live/De123/De123/728114.m3u8
-#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴿᴬᵂ
-http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527623&extension=ts
-#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS GOLF ᴴᴰ
-http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527622&extension=ts
-#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ
-http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527635&extension=ts
-#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS FOOTBALL ᴴᴰ
-http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527634&extension=ts
-#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS FOOTBALL FHD
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366430&extension=ts
-#EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS GOLF FHD
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366415&extension=ts
-#EXTINF:-1 group-title="ES • DEPORTES",ES | DAZN F1 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314606&extension=ts
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276924.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football HD
-http://iptvgo.cc:80/live/De123/De123/276923.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football SD
-http://iptvgo.cc:80/live/De123/De123/276922.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276921.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf HD
-http://iptvgo.cc:80/live/De123/De123/276920.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf SD
-http://iptvgo.cc:80/live/De123/De123/276919.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276826.m3u8
-
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -811,17 +760,17 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11494
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149430&extension=ts&play_token=fXPa0MS6uo
 #EXTINF:-1 tvg-chno="118" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Football 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://livesport.io.vn/ott/m4.php?channel=skyfoot&format=redirect
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527635&extension=ts
 #EXTINF:-1 tvg-chno="122" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Premier League 🇬🇧
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports F1 🇬🇧
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Golf 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://livesport.io.vn/ott/m4.php?channel=skygolf&format=redirect
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527623&extension=ts
 #EXTINF:-1 tvg-chno="134" tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://iptvgo.cc:80/live/De123/De123/318045.m3u8
+http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527629&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png" group-title="Thể thao quốc tế",SKY SPORTS 1 🇳🇿
 https://livesport.io.vn/ott/vstb.php?id=sky1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-2-459.png" group-title="Thể thao quốc tế",SKY SPORTS 2 🇳🇿
@@ -996,15 +945,15 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&ext
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a8.png" group-title="Thể thao quốc tế",ARENA SPORT 8
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele1
+http://iptvgo.cc:80/live/De123/De123/728118.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele2
+http://iptvgo.cc:80/live/De123/De123/728117.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele3
+http://iptvgo.cc:80/live/De123/De123/728116.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele4
+http://iptvgo.cc:80/live/De123/De123/728115.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele5
+http://iptvgo.cc:80/live/De123/De123/728114.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png" group-title="Thể thao quốc tế", SHAHID SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
@@ -1138,15 +1087,15 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo1
+http://iptvgo.cc:80/live/De123/De123/728082.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo2
+http://iptvgo.cc:80/live/De123/De123/728081.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo3
+http://iptvgo.cc:80/live/De123/De123/728079.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORTTV 4"  tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="Thể thao quốc tế", SPORTTV 4 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo4
+http://iptvgo.cc:80/live/De123/De123/728078.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo5
+http://iptvgo.cc:80/live/De123/De123/728077.m3u8
 #EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="https://livesport.io.vn/logo/sport/sk1.png" group-title="Thể thao quốc tế", SPORT KLUB 1
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1108&extension=ts
 #EXTINF:-1 tvg-name="SPORT KLUB 2"  tvg-logo="https://livesport.io.vn/logo/sport/sk2.png" group-title="Thể thao quốc tế", SPORT KLUB 2
