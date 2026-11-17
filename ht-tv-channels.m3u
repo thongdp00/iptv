@@ -1060,13 +1060,13 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728082.m3u8
+https://livesport.io.vn/ott/viptv.php?id=spo1
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728081.m3u8
+https://livesport.io.vn/ott/viptv.php?id=spo2
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728079.m3u8
+https://livesport.io.vn/ott/viptv.php?id=spo3
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORTTV 4"  tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="Thể thao quốc tế", SPORTTV 4 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728078.m3u8
+https://livesport.io.vn/ott/viptv.php?id=spo4
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 🇵🇹
 https://livesport.io.vn/ott/viptv.php?id=spo5
 #EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="https://livesport.io.vn/logo/sport/sk1.png" group-title="Thể thao quốc tế", SPORT KLUB 1 🇭🇷 
