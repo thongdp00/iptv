@@ -1,38 +1,6 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/15027.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/8272.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/78468.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 1 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/49721.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria 2 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/254695.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 2 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/49722.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria 3 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/254696.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 3 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/49723.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria 4 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/254697.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 4 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/49724.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria 5 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/254698.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria 6 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/254699.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| Sky Sport Austria 7 ᵁᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/254700.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 5 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1211311.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 6 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1211312.ts
-#EXTINF:-1 group-title="|AT| ✪ SKY SPORT AUSTRIA",|AT| SKY SPORT AUSTRIA 7 ᴴᴰ
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1211313.ts
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -686,8 +654,10 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=13140
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-#EXTINF:-1 tvg-id="ch-beplaysportsfhd" tvg-name="PLAY SPORTS FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 🇧🇪 
+#EXTINF:-1 tvg-id="ch-beplaysportsfhd" tvg-name="PLAY SPORTS FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 1 🇧🇪 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
+#EXTINF:-1 tvg-id="ch-beplaysportsfhd" tvg-name="PLAY SPORTS FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2 🇧🇪 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
 #EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
 #EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
@@ -752,7 +722,7 @@ http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/419513.m3u8
 #EXTINF:-1 tvg-id="STARZPLAY SPORTS 2" tvg-name="STARZPLAY SPORTS 2" tvg-logo="https://cdn.upanhlaylink.com/i/yrPTRZdG.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 2 🇦🇪 (Seria A)
 http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/419509.m3u8
 #EXTINF:-1 tvg-id="STARZPLAY SPORTS 3" tvg-name="STARZPLAY SPORTS 3" tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 3 🇦🇪
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813758&extension=ts
+http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/419505.m3u8
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="┃DE┃ SKY SPORT BUNDESLIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="Thể thao quốc tế", SKY SPORT BUNDESLIGA 🇩🇪
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149303&extension=ts&play_token=OLGEoAl7pm
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="┃DE┃ SKY SPORT F1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT F1.png" group-title="Thể thao quốc tế", SKY SPORT F1 🇩🇪
@@ -838,25 +808,25 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssd
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr1.png" group-title="Thể thao quốc tế",Bein Sports 1 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be1fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941417&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr2.png" group-title="Thể thao quốc tế",Bein Sports 2 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be2fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941420&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/befr3.png" group-title="Thể thao quốc tế",Bein Sports 3 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be3fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941423&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m4.png" group-title="Thể thao quốc tế",Bein Sports MAX 4 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be4fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941426&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m5.png" group-title="Thể thao quốc tế",Bein Sports MAX 5 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be5fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941427&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m6.png" group-title="Thể thao quốc tế",Bein Sports MAX 6 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be6fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941428&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m7.png" group-title="Thể thao quốc tế",Bein Sports MAX 7 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be7fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941429&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m8.png" group-title="Thể thao quốc tế",Bein Sports MAX 8 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be8fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941430&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m9.png" group-title="Thể thao quốc tế",Bein Sports MAX 9 🇫🇷
-https://livesport.io.vn/ott/vstb.php?id=be9fr
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941431&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/m10.png" group-title="Thể thao quốc tế",Bein Sports MAX 10 🇫🇷
-http://iptvgo.cc:80/live/De123/De123/723865.m3u8
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941432&extension=ts
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg"  tvg-logo="https://i.ibb.co.com/d75VShH/daznxbein1.png" group-title="Thể thao quốc tế", beIN Sports 1 🇦🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -878,19 +848,19 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 1" tvg-id="Beinsports.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 1 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-http://57.129.0.61:1990/cloud/stream/117/index.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988874&extension=ts
 #EXTINF:-1 tvg-chno="" cuid="1819" tvg-name="Bein Sports 2" tvg-id="Beinsports.2.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 2 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988875&extension=ts
 #EXTINF:-1 tvg-chno="" cuid="1820" tvg-name="Bein Sports 3" tvg-id="Beinsports.3.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 3 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988876&extension=ts
 #EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 4" tvg-id="Beinsports.4.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 4 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988877&extension=ts
 #EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 5" tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Thể thao quốc tế",Bein Sports 5 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988878&extension=ts
 #EXTINF:-1 tvg-id="Arena4.hu@SD" tvg-logo="https://i.imgur.com/uAaQDr6.png" group-title="Thể thao quốc tế",Arena4 🇭🇺
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png"  group-title="Thể thao quốc tế",Arena Sport 1 🇸🇰
