@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ FAIRCHILD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495596&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ FAIRCHILD 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495597&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVB1
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495599&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVB2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495600&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVB CHINESE
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495604&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVB DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495603&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVBE
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495602&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVB HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495598&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ TVB PEARL
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1495601&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382843&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382842&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382841&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382840&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 5
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382839&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382838&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS 7
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382837&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW SPORTS EPL 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382836&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382834&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382833&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382832&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 5
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382831&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382830&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 7
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382829&extension=ts
+#EXTINF:-1 group-title="┃ASIA┃ HONG KONG",┃HK┃ NOW PREMIER SPORTS 8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382828&extension=ts
