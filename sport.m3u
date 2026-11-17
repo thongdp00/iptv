@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
+#EXTINF:-1 group-title="DE | SPORT",|DE|  Sky Bundesliga 50FPS
+http://iptvgo.cc:80/live/De123/De123/662479.m3u8
 #EXTINF:-1 group-title="DE | SPORT",|DE| DAZN RISE
 http://iptvgo.cc:80/live/De123/De123/662275.m3u8
 #EXTINF:-1 group-title="DE | SPORT",|DE|  DAZN FAST+
