@@ -1345,8 +1345,6 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558965&ext
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558966&extension=ts
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Thể thao quốc tế",FB TV
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=695&extension=ts
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Thể thao quốc tế",DAZN F1
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=314606&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mlaliga.png" group-title="Thể thao quốc tế",M+ LALIGA
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115266&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mcampeones.png" group-title="Thể thao quốc tế",M+ L.CAMPEONES
