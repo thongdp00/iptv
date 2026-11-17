@@ -918,15 +918,15 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&ext
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a8.png" group-title="Thể thao quốc tế",ARENA SPORT 8 🇭🇷 
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728118.m3u8
+https://livesport.io.vn/ott/viptv.php?id=ele1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728117.m3u8
+https://livesport.io.vn/ott/viptv.php?id=ele2
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728116.m3u8
+https://livesport.io.vn/ott/viptv.php?id=ele3
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728115.m3u8
+https://livesport.io.vn/ott/viptv.php?id=ele4
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5 🇵🇹
-http://iptvgo.cc:80/live/De123/De123/728114.m3u8
+https://livesport.io.vn/ott/viptv.php?id=ele5
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png" group-title="Thể thao quốc tế", SHAHID SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
