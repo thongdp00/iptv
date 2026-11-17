@@ -694,8 +694,12 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd
-#EXTINF:-1 cuid="1511" tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]" tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",DAZN tv
+#EXTINF:-1  tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]"  tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",DAZN tv
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+#EXTINF:-1  tvg-name="DAZN RISE" tvg-logo="https://cdn.upanhlaylink.com/i/bR1pgisQ.png"group-title="Thể thao quốc tế",DAZN RISE 🇩🇪
+http://iptvgo.cc:80/live/De123/De123/662275.m3u8
+#EXTINF:-1  tvg-name="DAZN FAST+"  tvg-logo="https://cdn.upanhlaylink.com/i/yXYFJEVv.jpg"group-title="Thể thao quốc tế",DAZN FAST+ 🇩🇪
+http://iptvgo.cc:80/live/De123/De123/662259.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Thể thao quốc tế",Sky Sports 1 🇲🇽 (LALIGA)
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/pImv4VSf.jpg" group-title="Thể thao quốc tế",SKY  Sport Calcio 🇮🇹
