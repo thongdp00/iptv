@@ -1,175 +1,175 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 1 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988867&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 1 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 FHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988874&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988881&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 2 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 2 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988868&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 2 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 2 FHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988875&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 2 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988882&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 3 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 3 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988869&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 3 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 3 FHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988876&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 3 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 3 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988883&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 4 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 4 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988870&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 4 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 4 FHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988877&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 4 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 4 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988884&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 5 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 5 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988871&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 5 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 5 FHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988878&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS 5 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 5 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988885&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS MAX 1 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS MAX 1 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988872&extension=ts
-#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS RAW",┃TR┃ BEIN SPORTS MAX 2 RAW
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS MAX 2 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988873&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 1 HD+
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT 1 HD+
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94871&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 1 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT 1 HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94872&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 2 HD+
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT 2 HD+
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=111086&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT 2 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT 2 HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=543717&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 1
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 1
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94873&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 2
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 2
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94890&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 3
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 3
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=534025&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 4
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 4
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94874&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 5
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 5
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=267419&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 6
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 6
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101822&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 7
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 7
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101821&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 8
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 8
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101820&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 9
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 9
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101819&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",S SPORT PLUS 10
+#EXTINF:-1 group-title="┃TR┃ SPORT",S SPORT PLUS 10
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101818&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",EUROSPORT 1 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",EUROSPORT 1 FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94889&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",EUROSPORT 2 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",EUROSPORT 2 FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=570381&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR
+#EXTINF:-1 group-title="┃TR┃ SPORT",TiViBU SPOR
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101831&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 1
+#EXTINF:-1 group-title="┃TR┃ SPORT",TiViBU SPOR 1
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101830&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 2
+#EXTINF:-1 group-title="┃TR┃ SPORT",TiViBU SPOR 2
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101829&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 3
+#EXTINF:-1 group-title="┃TR┃ SPORT",TiViBU SPOR 3
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101828&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",TiViBU SPOR 4
+#EXTINF:-1 group-title="┃TR┃ SPORT",TiViBU SPOR 4
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101827&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 1 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",SPOR SMART 1 FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101826&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 1 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",SPOR SMART 1 HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101825&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 2 FHD
+#EXTINF:-1 group-title="┃TR┃ SPORT",SPOR SMART 2 FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101824&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",SPOR SMART 2 HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",SPOR SMART 2 HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101823&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",EKOL SPORT HD+
+#EXTINF:-1 group-title="┃TR┃ SPORT",EKOL SPORT HD+
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=689323&extension=ts
-#EXTINF:-1 group-title="ᴛʀ • SPOR",FB TV HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",FB TV HD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=94894&extension=ts
-#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ HT SPOR HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ HT SPOR HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1245941&extension=ts
-#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ TRT SPOR HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615826&extension=ts
-#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ TRT SPOR YILDIZ HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ TRT SPOR YILDIZ HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615827&extension=ts
-#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ A SPOR HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ A SPOR HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615828&extension=ts
-#EXTINF:-1 group-title="┃TR┃ SPOR",┃TR┃ FENERBACHE TV HD
+#EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ FENERBACHE TV HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=695&extension=ts
 
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 1
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965623&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 2
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 2
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965622&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 3
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 3
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965621&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 4
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 4
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965620&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 5
+#EXTINF:-1 ggroup-title="┃BE┃ SPORT",BE | PLAY SPORTS 5
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965619&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 6
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 6
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965618&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 7
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 7
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965617&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 8
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 8
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965616&extension=ts
-#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS GOLF
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS GOLF
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965615&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 1
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | EUROSPORT 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303723&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | EUROSPORT 2
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | EUROSPORT 2
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303724&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 1
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 2
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 2
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 3
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 3
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130319&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 4
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 4
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813758&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 5
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 5
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813757&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 1
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 2
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 2
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=303720&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 3
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 3
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130319&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 4
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 4
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813758&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 5
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 5
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813757&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 6
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 6
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813756&extension=ts
-#EXTINF:-1 group-title="BE | SPORT",4K | PLAY SPORTS 7
+#EXTINF:-1 group-title="┃BE┃ SPORT",4K | PLAY SPORTS 7
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=813755&extension=ts
-#EXTINF:-1 group-title="WS | WORLD SPORTS",BE | PLAY SPORTS 1
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493026&extension=ts
-#EXTINF:-1 group-title="WS | WORLD SPORTS",BE | PLAY SPORTS 2
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 2
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493027&extension=ts
-#EXTINF:-1 group-title="WS | WORLD SPORTS",BE | PLAY SPORTS 3
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | PLAY SPORTS 3
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493028&extension=ts
-#EXTINF:-1 group-title="WS | WORLD SPORTS",BE | ELEVEN SPORT 1
+#EXTINF:-1 group-title="┃BE┃ SPORT",BE | ELEVEN SPORT 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493029&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (NL)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 1 FHD (NL)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241086&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (NL)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 1 HD (NL)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241087&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 FHD (NL)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 2 FHD (NL)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241089&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (NL)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 2 HD (NL)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241090&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 FHD (FR)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 1 FHD (FR)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241091&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 1 HD (FR)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 1 HD (FR)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241092&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 FHD (FR)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 2 FHD (FR)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241093&extension=ts
-#EXTINF:-1 group-title="┃BE┃ DAZN SPORT",┃BE┃ DAZN 2 HD (FR)
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ DAZN 2 HD (FR)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1241094&extension=ts
-#EXTINF:-1 group-title="┃BE┃ PLAY SPORTS",┃BE┃ PLAY SPORTS 1 8K
+#EXTINF:-1 group-title="┃BE┃ SPORT",┃BE┃ PLAY SPORTS 1 8K
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761953&extension=ts
 
 #EXTINF:-1 group-title="ES | SPORT",4K | F1
