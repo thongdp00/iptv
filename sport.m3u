@@ -1423,27 +1423,4 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105602&ext
 #EXTINF:-1 group-title="CZ • SPORT",EUROSPORT 2
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1105601&extension=ts
 
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 1 ᴴᴰ
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23468&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 2 ᴴᴰ
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23469&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 3 ᴴᴰ
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23470&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 4 ᴴᴰ 
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23471&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 5 ᴴᴰ
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23472&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 6 ᴴᴰ 
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23473&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 7 ᴴᴰ 
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23474&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport 8 Premier League ᴴᴰ 
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23475&extension=ts
-#EXTINF:-1 (Sky Sports NZ | EPL),Sky Sport 9 ᴴᴰ 
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23476&extension=ts
-#EXTINF:-1 group-title="(Sky Sports NZ | EPL)",Sky Sport Select ᴴᴰ
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=23467&extension=ts
-#EXTINF:-1group-title="(Sky Sports NZ | EPL)",Sky Sport Pop Up 1 ᴴᴰ
-http://flixtv.uk/play/live.php?mac=00:1A:79:08:B2:84&stream=160883&extension=ts
-
 
