@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,(TR) TRT SPOR HD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=1705&extension=ts
+#EXTINF:-1,(TR) TRT SPOR 2 HD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=1706&extension=ts
+#EXTINF:-1,(TR) TRT SPOR 3 HD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=206931&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=183796&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 1 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=185527&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 2 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=183797&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 3 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=183798&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 4 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=187665&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 5 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=187666&extension=ts
+#EXTINF:-1,(TR) Tabi Spor 6 4K (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=187667&extension=ts
+#EXTINF:-1,(TR) A SPOR HD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=1707&extension=ts
+#EXTINF:-1,(TR) A SPOR FHD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=1708&extension=ts
+#EXTINF:-1,(TR) SSPORT FHD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=1698&extension=ts
+#EXTINF:-1,(TR) SSPORT 2 FHD (TR - SPOR)
+http://ix.kingtv.pw/play/live.php?mac=00:1A:79:14:E7:0B&stream=1699&extension=ts

@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="★✦★ Bein Sports ★✦★" tvg-logo="https://excpicon.cfd/parsx/parsxcountrypicons/Tuerkei.png" group-title="TR » BEIN SPORTS",★✦★ Bein Sports ★✦★
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431841.m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="Bein Sports Haber FHD" tvg-logo="https://i.iBB.co/47d5m1p/HABERFHD.png" group-title="TR » BEIN SPORTS",Bein Sports Haber FHD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431810.m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="Bein Sports Haber HD" tvg-logo="https://i.iBB.co/6RBG12M/HABERHD.png" group-title="TR » BEIN SPORTS",Bein Sports Haber HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431809.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="Bein Sports 1 HEVC" tvg-logo="https://i.iBB.co/v4JqN5c/1HEVC.png" group-title="TR » BEIN SPORTS",Bein Sports 1 HEVC
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431839.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="Bein Sports 1 RAW" tvg-logo="https://i.iBB.co/zZ9F5cF/DAWDWAD.png" group-title="TR » BEIN SPORTS",Bein Sports 1 RAW
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431836.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="Bein Sports 1 FHD" tvg-logo="https://i.iBB.co/D9C5qph/342343.png" group-title="TR » BEIN SPORTS",Bein Sports 1 FHD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431840.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="https://i.iBB.co/3mHTJD8/1HD.png" group-title="TR » BEIN SPORTS",Bein Sports 1 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431838.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="Bein Sports 1 MOBIL" tvg-logo="https://i.iBB.co/zZ9F5cF/DAWDWAD.png" group-title="TR » BEIN SPORTS",Bein Sports 1 MOBIL
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431837.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="Bein Sports 2 HD" tvg-logo="https://i.iBB.co/vQpFLFt/2HD.png" group-title="TR » BEIN SPORTS",Bein Sports 2 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431832.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="Bein Sports 2 HEVC" tvg-logo="https://i.iBB.co/6Pnsdmd/2FHD.png" group-title="TR » BEIN SPORTS",Bein Sports 2 HEVC
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431833.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="Bein Sports 2 RAW" tvg-logo="https://i.iBB.co/fdKc5KX/2PREM-UM.png" group-title="TR » BEIN SPORTS",Bein Sports 2 RAW
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431834.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="Bein Sports 3 HD" tvg-logo="https://i.iBB.co/c3cM8Y3/3HD.png" group-title="TR » BEIN SPORTS",Bein Sports 3 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431829.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="Bein Sports 3 HEVC" tvg-logo="https://i.iBB.co/TYKnK8p/3FHD.png" group-title="TR » BEIN SPORTS",Bein Sports 3 HEVC
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431830.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="Bein Sports 3 RAW" tvg-logo="https://i.iBB.co/HY7QBkv/3PREM-UM.png" group-title="TR » BEIN SPORTS",Bein Sports 3 RAW
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431831.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="Bein Sports 4 HD" tvg-logo="https://i.iBB.co/VJ3Vs7g/4HD.png" group-title="TR » BEIN SPORTS",Bein Sports 4 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431826.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="Bein Sports 4 HEVC" tvg-logo="https://i.iBB.co/LprtmgD/4FHD.png" group-title="TR » BEIN SPORTS",Bein Sports 4 HEVC
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431827.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="Bein Sports 4 RAW" tvg-logo="https://i.iBB.co/FB84yhy/4PREM-UM.png" group-title="TR » BEIN SPORTS",Bein Sports 4 RAW
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431828.m3u8
+#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="Bein Sports 5 HD" tvg-logo="https://i.iBB.co/Px2Cz1x/5HD.png" group-title="TR » BEIN SPORTS",Bein Sports 5 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431823.m3u8
+#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="Bein Sports 5 HEVC" tvg-logo="https://i.iBB.co/gyHCjNn/5FHD.png" group-title="TR » BEIN SPORTS",Bein Sports 5 HEVC
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431824.m3u8
+#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="Bein Sports 5 RAW" tvg-logo="https://i.iBB.co/J265Qh0/5PREM-UM.png" group-title="TR » BEIN SPORTS",Bein Sports 5 RAW
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431825.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="Bein Sports Max 1 FHD" tvg-logo="https://i.iBB.co/8xs7LFK/MAX1FHD.png" group-title="TR » BEIN SPORTS",Bein Sports Max 1 FHD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431820.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="Bein Sports Max 1 HD" tvg-logo="https://i.iBB.co/8xs7LFK/MAX1FHD.png" group-title="TR » BEIN SPORTS",Bein Sports Max 1 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431819.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="Bein Sports Max 2 FHD" tvg-logo="https://i.iBB.co/SPpqVZw/MAX2HD.png" group-title="TR » BEIN SPORTS",Bein Sports Max 2 FHD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431818.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="Bein Sports Max 2 HD" tvg-logo="https://i.iBB.co/SPpqVZw/MAX2HD.png" group-title="TR » BEIN SPORTS",Bein Sports Max 2 HD
+http://pumas.life:8080/live/OliverB84k2p/wyP3YfjpN5rU/431817.m3u8
