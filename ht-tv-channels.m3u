@@ -747,7 +747,7 @@ http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527623&extensio
 #EXTINF:-1  tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527629&extension=ts
-#EXTINF:-1  tvg-name="┃IT┃ SKY SPORT UNO" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="Thể thao quốc tế", SKY SPORT UNO 🇮🇹
+#EXTINF:-1  tvg-name="┃IT┃ SKY SPORT UNO" tvg-logo="https://cdn.upanhlaylink.com/i/EJLa4gNt.jpg" group-title="Thể thao quốc tế", SKY SPORT UNO 🇮🇹
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167167&extension=ts
 #EXTINF:-1  tvg-name="┃IT┃ SKY SPORT F1 " tvg-logo="https://cdn.upanhlaylink.com/i/I8jnTd6M.png" group-title="Thể thao quốc tế", SKY SPORT F1 🇮🇹
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167173&extension=ts
@@ -760,7 +760,7 @@ http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167175&
 #EXTINF:-1  tvg-name="┃IT┃ SKY SPORT NBA" tvg-logo="https://cdn.upanhlaylink.com/i/PsABzpr0.jpg" group-title="Thể thao quốc tế", SKY SPORT NBA 🇮🇹
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167176&extension=ts
 #EXTINF:-1  tvg-name="┃IT┃ SKY SPORT MAX" tvg-logo="https://cdn.upanhlaylink.com/i/FB1dcCOA.png" group-title="Thể thao quốc tế", SKY SPORT MAX 🇮🇹
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167172&extension=ts
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102560&extension=ts
 #EXTINF:-1 tvg-name="┃IT┃ SKY  Sport Calcio" tvg-logo="https://cdn.upanhlaylink.com/i/4xB3epBx.png" group-title="Thể thao quốc tế",SKY  Sport Calcio 🇮🇹
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102521&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png" group-title="Thể thao quốc tế",SKY SPORTS 1 🇳🇿
