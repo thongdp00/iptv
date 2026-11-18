@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FOOT FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941405&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FOOT HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941406&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FOOT
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941407&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL + SPORT FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941408&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL + SPORT HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941409&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL + SPORT
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941410&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ 360 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941411&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ 360 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941412&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ 360
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941413&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941414&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941415&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941416&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAl+ CHAMPIONS LEAGUE FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941625&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAl+ CHAMPIONS LEAGUE HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941624&extension=ts
