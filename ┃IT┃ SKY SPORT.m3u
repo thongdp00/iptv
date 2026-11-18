@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT UNO HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167167&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT UNO FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177687&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT 24 HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167168&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT 24 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177690&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT CALCIO HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167169&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT CALCIO FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177694&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT GOLF HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167170&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT GOLF FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=240463&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT ARENA HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167171&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT ARENA FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177696&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MAX HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167172&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MAX FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177697&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT F1 HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167173&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT F1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177699&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MOTOGP HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167177&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MOTOGP FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177700&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT TENNIS HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167175&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT TENNIS FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167174&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT NBA HEVC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1167176&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT NBA FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=177701&extension=ts
