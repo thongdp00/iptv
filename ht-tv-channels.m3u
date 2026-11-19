@@ -682,12 +682,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 3 HD" tvg-logo="https://cdn.upanhlaylink.com/i/aYVHM5HW.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 3 🇳🇱 
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=3067&extension=ts
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 4HD" tvg-logo="https://cdn.upanhlaylink.com/i/rSZQUypV.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 4 🇳🇱 
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884267&extension=ts
-#EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 5 HD" tvg-logo="https://cdn.upanhlaylink.com/i/bPCiipCj.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 5 🇳🇱 
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18681&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+
