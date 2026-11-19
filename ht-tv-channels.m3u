@@ -1526,7 +1526,7 @@ https://livemsk.vtvprime.vn/live_dzones/bloomberg.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+https://livemsk.vtvprime.vn/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KK8qXqf/cgtn.png" group-title="Quốc Tế", CGTN ENGLISH 🇨🇳
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/maxresdefault.jpg" group-title="Quốc Tế", CGTN Documentary
@@ -1580,7 +1580,7 @@ https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+https://livemsk.vtvprime.vn/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="outdoor"  tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png" group-title="Quốc Tế", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://freem3u.xyz/api/live/play.m3u8?vid=216
