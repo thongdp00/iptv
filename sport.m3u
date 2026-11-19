@@ -1593,3 +1593,25 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=809367&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=809366&extension=ts
 #EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ TRACKSIDE 2 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=809365&extension=ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  SPORT TV 1 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156952.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  SPORT TV 2 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156953.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  SPORT TV 2 ᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156954.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  SPORT TV 3 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156955.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  SPORT TV 4 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156956.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  SPORT TV 5 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156957.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT| ELEVEN SPORTS 1 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156915.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  ELEVEN SPORTS 2 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156916.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  ELEVEN SPORTS 3 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156917.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  ELEVEN SPORTS 4 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156918.ts
+#EXTINF:-1 group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ",|PT|  ELEVEN SPORTS 5 ᵁᴴᴰ
+http://eg.tmktv.top:80/live/p8hjlv84o6/fu5jugzi8g/156919.ts
