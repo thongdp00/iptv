@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MS GOLF 1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1571540&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MS GOLF 2 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1571541&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760961&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 1 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149499&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 2 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760962&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ EUROSPORT 2 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149500&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149507&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149506&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORT DIGITAL FUSSBALL FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760963&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORT DIGITAL FUSSBALL HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149501&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL +1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760965&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGIAL +1 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149505&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL EDGE FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760968&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORTDIGITAL EDGE HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149508&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SERVUS TV MOTORSPORT FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761092&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SERVUS TV MOTORSPORT HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149502&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MS SPORT FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761090&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MS SPORT HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149503&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORT 1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760964&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ SPORT 1 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149504&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MOTORVISION TV FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760966&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ AUTO MOTOR SPORT CHANNEL FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760967&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ AUTO MOTOR UND SPORT HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149509&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MORE THAN SPORTS FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761079&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MORE THAN SPORTS HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149510&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ RED BULL TV FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761080&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ RED BULL TV HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149511&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ ESPORTS 1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=760969&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ CLIP MY HORSE.TV FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761037&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ HORSE & COUNTRY TV FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=761096&extension=ts

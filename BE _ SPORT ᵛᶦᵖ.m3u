@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 1
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965623&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 2
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965622&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 3
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965621&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 4
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965620&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 5
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965619&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 6
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965618&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 7
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965617&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS 8
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965616&extension=ts
+#EXTINF:-1 group-title="BE | SPORT ᵛᶦᵖ",BE | PLAY SPORTS GOLF
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965615&extension=ts

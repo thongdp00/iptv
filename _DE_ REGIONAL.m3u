@@ -1,0 +1,49 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|DE| REGIONAL",##### DE REGIONALSENDER #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699472&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699471&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - RBB HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699470&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - BR HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699469&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - HR HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699468&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - MDR THÜRINGEN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699467&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - NDR NIEDERSACHSEN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699465&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - NDR MECKLENBURG-VORPOMMERN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699464&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - NDR HAMBURG HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699463&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR SIEGEN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699461&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR MÜNSTER HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699460&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR ESSEN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699459&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR DÜSSELDORF HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699458&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR DUISBURG HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699457&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR DORTMUND HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699456&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR BONN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699455&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR BIELEFELD HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699454&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - WDR AACHEN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699453&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - RNF HAMBURG FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699451&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - TV MAINFRANKEN FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699450&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - HSE HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699448&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - RHEINMAINTV HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699449&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - SR HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699447&extension=ts
+#EXTINF:-1 group-title="|DE| REGIONAL",DE - SWR BW HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=699446&extension=ts
