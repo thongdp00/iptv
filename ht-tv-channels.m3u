@@ -921,15 +921,15 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&ext
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a8.png" group-title="Thể thao quốc tế",ARENA SPORT 8 🇭🇷 
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106035&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106033&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106031&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106029&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=ele5
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106027&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png" group-title="Thể thao quốc tế", SHAHID SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
@@ -1063,15 +1063,15 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORTTV 1"  tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="Thể thao quốc tế", SPORTTV 1 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106023&extension=ts
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORTTV 2"  tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="Thể thao quốc tế", SPORTTV 2 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106021&extension=ts
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORTTV 3"  tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="Thể thao quốc tế", SPORTTV 3 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106019&extension=ts
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORTTV 4"  tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="Thể thao quốc tế", SPORTTV 4 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106017&extension=ts
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORTTV 5"  tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="Thể thao quốc tế", SPORTTV 5 🇵🇹
-https://livesport.io.vn/ott/viptv.php?id=spo5
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106015&extension=ts
 #EXTINF:-1 tvg-name="SPORT KLUB 1" tvg-logo="https://livesport.io.vn/logo/sport/sk1.png" group-title="Thể thao quốc tế", SPORT KLUB 1 🇭🇷 
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1108&extension=ts
 #EXTINF:-1 tvg-name="SPORT KLUB 2"  tvg-logo="https://livesport.io.vn/logo/sport/sk2.png" group-title="Thể thao quốc tế", SPORT KLUB 2 🇭🇷 
