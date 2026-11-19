@@ -1,5 +1,31 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
+#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382834&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382833&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382836&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382837&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382838&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382832&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382839&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382840&extension=ts
+#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382831&extension=ts
+
+
 #EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988867&extension=ts
 #EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 FHD
