@@ -921,15 +921,15 @@ http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558961&ext
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/a8.png" group-title="Thể thao quốc tế",ARENA SPORT 8 🇭🇷 
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558962&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1 🇵🇹
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106035&extension=ts
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106009&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2 🇵🇹
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106033&extension=ts
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106007&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3 🇵🇹
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106031&extension=ts
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106005&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4 🇵🇹
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106029&extension=ts
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106003&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5 🇵🇹
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106027&extension=ts
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106001&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png" group-title="Thể thao quốc tế", SHAHID SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
