@@ -1333,7 +1333,7 @@ https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Thể thao quốc tế",A Spor 🇹🇷
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=615828&extension=ts
 #EXTINF:-1 tvg-id="Sportitalia.HD.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Thể thao quốc tế",Sportitalia 🇮🇹
-https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1102530&extension=ts
 #EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Thể thao quốc tế",Max Sport 1 🇭🇷 
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=558965&extension=ts
 #EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Thể thao quốc tế",Max Sport 2 🇭🇷 
@@ -1348,6 +1348,8 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=t
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="Thể thao quốc tế",M+ GOLF 🇪🇸 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
+#EXTINF:-1  tvg-id="M+ VAMOS " https://cdn.upanhlaylink.com/i/o7XMi4zw.png group-title="Thể thao quốc tế", M+ VAMOS 
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png" group-title="Quốc Tế",America's Got Talent
 https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
