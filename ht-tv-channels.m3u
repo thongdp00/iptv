@@ -1348,7 +1348,7 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=t
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="Thể thao quốc tế",M+ GOLF 🇪🇸 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
-#EXTINF:-1  tvg-id="M+ VAMOS " https://cdn.upanhlaylink.com/i/o7XMi4zw.png group-title="Thể thao quốc tế", M+ VAMOS 
+#EXTINF:-1  tvg-id="M+ VAMOS tvg-logo="https://cdn.upanhlaylink.com/i/o7XMi4zw.png" group-title="Thể thao quốc tế", M+ VAMOS 🇪🇸
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png" group-title="Quốc Tế",America's Got Talent
