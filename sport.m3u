@@ -1,29 +1,104 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
+#EXTINF:-1 group-title="🌍 HK Now Sport",(HK) Now Sports (EPL) UHD/4K
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556472.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 7
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556471.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 6
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556470.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 5
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556469.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 4
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556468.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 3
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556467.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 2
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556466.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Sports 1
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556465.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 8
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556464.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 7
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556463.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 1
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556462.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 2
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556461.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 3
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556460.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 4
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556459.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 5
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556458.ts
+#EXTINF:-1 group-title="🌍 HK Now Sport",HK Now Premier Sports 6
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/556457.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Auto Motor Sport
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555180.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: DIGI Sport 1
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555179.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: DIGI Sport 1 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555178.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: DIGI Sport 2
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555177.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: DIGI Sport 2 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555176.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Digi Sport 3
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555175.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Digi Sport 3 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555174.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: DIGI Sport 4
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555173.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Digi Sport 4 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555172.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Eurosport 1
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555171.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Eurosport 1 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555170.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Eurosport 2
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555169.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Eurosport 2 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555168.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Extreme Sports Channel
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555167.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: FightBox
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555166.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Prima Sport 1 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555165.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Prime Sport 2 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555164.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Prime Sport 3 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555163.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Prime Sport 1 FHD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555162.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Sport Extra
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555161.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Telekom Sport 1
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555160.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Telekom Sport 2
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555159.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Telekom Sport 3
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555158.ts
+#EXTINF:-1 group-title="🇷🇴 ROMANIA - SPORT",RO: Telekom Sport 4
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555157.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Arena Sport 1 Premium HD (SR)
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680527.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Arena Sport 2 Premium HD (SR)
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680526.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Arena Sport 3 Premium HD (SR)
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680525.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Arena Sport 3 Premium HD ( BiH )
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680545.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Arena Sport 2 Premium HD ( BiH )
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680544.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Arena Sport 1 Premium HD ( BiH )
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680543.ts
+#EXTINF:-1 group-title="🌍 EX YU - SPORT",EX YU: Premier League HD
+http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/680542.ts
+
 #EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
 #EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382834&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382833&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382836&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382837&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382838&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382832&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382839&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382840&extension=ts
-#EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382831&extension=ts
 
 #EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 FHD
 http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=941417&extension=ts
