@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="IN • INDIA",Travel XP HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675630&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",&flix HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675629&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",&pictures HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675628&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",&prive HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675627&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: 9x Jalwa
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675626&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",9X Jalwa HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675625&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: 9X Jhakaas HD 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675624&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",9XM HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675623&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",ABP NEWS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675622&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Akaal Channel HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675621&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Akaal HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675620&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Angel HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675619&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Asianet NEWS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675618&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Asianet NEWS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675617&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: B4U Kadak HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675616&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: B4U Kadak HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675615&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",B4U Movies HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675614&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",B4U Music HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675613&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",B4U Music HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675612&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",B4U PLUS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675611&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: B4U Plus HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675610&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",BBC Earth HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675609&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Bflix Movies HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675608&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Bollywood Classic HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675607&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Bollywood HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675606&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Bollywood NOW HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675605&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Boogle Bollywood HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675604&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Britasia HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675603&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Captain HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675602&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Captain NEWS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675601&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Cartoon Network HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675600&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Channel Y 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675599&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",CINE Voice HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675598&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",CNBC 18 HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675597&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Colors Cineplex HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675596&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Colors HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675595&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Colors HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675594&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Colors Infinity HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675593&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",DD Bangla HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675592&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",DD India HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675591&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: DD NATIONAL HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675590&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Dd National HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675589&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",DD NEWS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675588&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",DESI Channel HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675587&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",DESI PLUS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675586&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Dhamaal HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675585&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Dillagi HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675584&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",In: Discovery Channel Hindi HD 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675583&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Discovery Science HINDI
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675582&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Disney HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675581&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: ENTER 10 MOVIES
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675580&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Explor HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675579&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Fashion HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675578&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Food Food HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675577&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Gemini Movies HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675576&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",History HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675575&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",HUM HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675574&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",India NEWS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675573&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",India Today NEWS HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675572&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Janta TV 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675571&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: JAYA MAX HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675570&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",JAYA Movies HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675569&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: KTV USA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675568&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: LIVING FOODZ HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675567&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",MAA GOLD HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675566&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",IN: Manoranjan TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675565&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",Mastiii HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675564&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",MBC Bollywood HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675563&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",MTV Beats HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675562&extension=ts
+#EXTINF:-1 group-title="IN • INDIA",MTV India HD (IN)
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=675561&extension=ts
