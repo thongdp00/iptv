@@ -1,6 +1,616 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941417&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941418&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941419&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941420&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941421&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941422&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941423&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941424&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941425&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941426&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941427&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 6 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941428&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 7 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941429&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 8 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941430&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 9 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941431&extension=ts
+#EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 10 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941432&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941414&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941415&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941416&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAl+ CHAMPIONS LEAGUE FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941625&extension=ts
+#EXTINF:-1 group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAl+ CHAMPIONS LEAGUE HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941624&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1109&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1108&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1107&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1106&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1105&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1104&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB 6 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1103&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB GOLF HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1102&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORT KLUB FIGHT HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559136&extension=ts
+#EXTINF:-1 group-title="┃HR┃ SPORT KLUB",┃HR┃ SPORTSKA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558968&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 1 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558965&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559133&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 2 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558966&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ MAX SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559134&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1115&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1114&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1113&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1112&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1111&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 6 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1110&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 7 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558961&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 8 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558962&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 9 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558963&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA SPORT 10 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558964&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA FIGHT 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558967&extension=ts
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT",┃HR┃ ARENA E SPORT 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=558969&extension=ts
+#EXTINF:-1 group-title="┃IT┃ FILM E SERIE",┃IT┃ SKY UNO HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167164&extension=ts
+#EXTINF:-1 group-title="┃IT┃ FILM E SERIE",┃IT┃ SKY UNO FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177632&extension=ts
+#EXTINF:-1 group-title="┃IT┃ FILM E SERIE",┃IT┃ SKY ATLANTIC HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167165&extension=ts
+#EXTINF:-1 group-title="┃IT┃ FILM E SERIE",┃IT┃ SKY ATLANTIC FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177655&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT UNO HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167167&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT UNO FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177687&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT 24 HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167168&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT 24 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177690&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT CALCIO HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167169&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT CALCIO FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177694&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT GOLF HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167170&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT GOLF FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=240463&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT ARENA HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167171&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT ARENA FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177696&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MAX HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167172&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MAX FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177697&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT F1 HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167173&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT F1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177699&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MOTOGP HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167177&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT MOTOGP FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177700&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT TENNIS HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167175&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT TENNIS FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167174&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT NBA HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1167176&extension=ts
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT",┃IT┃ SKY SPORT NBA FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=177701&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT PREMIERE LEAGUE HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1017405&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 1 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758636&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244151&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 2 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758637&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244152&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 3 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758638&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244153&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 4 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758640&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244154&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 5 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758641&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244155&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 6 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758644&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 6 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244156&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 7 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758648&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 7 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=244157&extension=ts
+#EXTINF:-1 group-title="┃CY┃ SPORT",┃CY┃ CYTAVISION SPORT 8 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1017408&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SHINE TV HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809345&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT SELECT HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809380&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809379&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809378&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809377&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809376&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809375&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 6 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809374&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 7 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809373&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT PREMIER LEAGUE HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809372&extension=ts
+#EXTINF:-1 group-title="┃NZ┃ NEW ZEELAND",┃NZ┃ SKY SPORT 9 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809371&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729182&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729183&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729184&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729185&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729186&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729187&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729188&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EUROSPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729189&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ SPORT KLUB FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729192&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ SPORT KLUB HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729193&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ FIGHTKLUB FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729198&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ FIGHTKLUB HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729199&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ FIGHTBOX FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729196&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ FIGHTBOX HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729197&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ GOLF ZONE FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729200&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ GOLF ZONE HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729201&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EXTREME SPORTS FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729194&extension=ts
+#EXTINF:-1 group-title="┃PL┃ POLSAT SPORT",┃PL┃ EXTREME SPORTS HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729195&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729134&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729135&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729136&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729137&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729138&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729139&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729140&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729141&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729142&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ SPORT 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729143&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729146&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729147&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729148&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729149&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729150&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729151&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729152&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729153&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729154&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729155&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 6 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729156&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 6 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729157&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 7 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729158&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 7 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729159&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 8 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729160&extension=ts
+#EXTINF:-1 group-title="┃PL┃ CANAL+ SPORT",┃PL┃ CANAL+ EXTRA 9 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729161&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729221&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729222&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729223&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729224&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729225&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729226&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729227&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729228&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729229&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729230&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729231&extension=ts
+#EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS",┃PL┃ ELEVEN SPORTS 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729232&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV+ FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959333&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV+ FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959334&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV+ HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959335&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV+
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959336&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 1 4K UHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959337&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 1 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959338&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959339&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959340&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959341&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 2 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959342&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959343&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959344&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959345&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 3 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959346&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959347&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959348&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959349&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 4 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959350&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959351&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959352&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959353&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 5 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959354&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959355&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959356&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959357&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 6 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959358&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 6 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959359&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 6 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959360&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 6
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959361&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 7 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959362&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 7 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959363&extension=ts
+#EXTINF:-1 group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 7
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959364&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 1 4K UHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959373&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 1 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959374&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959375&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959376&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959377&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 2 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959378&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959379&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959380&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959381&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 3 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959382&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959383&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959384&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959385&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 4 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959386&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959387&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959388&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959389&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 5 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959390&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959391&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959392&extension=ts
+#EXTINF:-1 group-title="┃PT┃ DAZN",┃PT┃ DAZN 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959393&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559019&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559016&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559020&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559017&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559018&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 1 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1101&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1100&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 2 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1099&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1098&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 3 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1097&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1096&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 4 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1095&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1094&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1093&extension=ts
+#EXTINF:-1 group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559024&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB ESPORT HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559135&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1092&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559028&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 1 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1091&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559029&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 2 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1090&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559030&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 3 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1089&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559031&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 4 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1088&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559032&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1087&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB 6
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1086&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB FIGHT 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559026&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB GOLF 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559025&extension=ts
+#EXTINF:-1 group-title="┃RS┃ SPORT KLUB",┃RS┃ SPORT KLUB ESPORTS
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=559027&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 1 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444075&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444072&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444073&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444074&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 1 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444076&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 2 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444080&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444077&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444078&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444079&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 2 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444081&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 3 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444085&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444082&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444083&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444084&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 3 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444086&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 4 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444090&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444087&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444088&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444089&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI SPORT 4 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444091&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ DIGI 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444092&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRO ARENA FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444093&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRO ARENA HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444094&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRO ARENA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444095&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRO ARENA FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444096&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444099&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444098&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444097&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 1 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444100&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444102&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444101&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 2 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444103&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444105&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444104&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 3 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444106&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444108&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444107&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 4 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444109&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444111&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444110&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ PRIMA SPORT 5 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444112&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444113&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444114&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 1 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444115&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444116&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444117&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 2 FIBRA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444118&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ EUROSPORT 4K
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444119&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ TVR SPORT HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444120&extension=ts
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT",┃RO┃ SPORT EXTRA FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444121&extension=ts
+
+
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH! FOOTBALL 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031938&extension=ts
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH! FOOTBALL 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031939&extension=ts
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH! FOOTBALL 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031940&extension=ts
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH TV HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031937&extension=ts
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH PREMYER HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031935&extension=ts
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH! ARENA
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031936&extension=ts
+#EXTINF:-1 group-title="┃RU┃ RUSSIA",┃RU┃ MATCH! GAME HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1031941&extension=ts
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=112044&extension=ts
 #EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665802&extension=ts
@@ -47,7 +657,12 @@ http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665783&exte
 #EXTINF:-1 group-title="BG • SPORT",EUROSPORT 2
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665782&extension=ts
 
-
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ ŠPORT TV 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=956&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ ŠPORT TV 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=955&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ ŠPORT TV 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=954&extension=ts
 
 #EXTINF:-1 tvg-id="ch-uknowhknowsports1" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 🇭🇰
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&extension=ts
@@ -87,6 +702,82 @@ http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=941431&extensi
 #EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 10 FHD
 http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=941432&extension=ts
 
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 1 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988867&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988874&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988881&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 2 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988868&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988875&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988882&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 3 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988869&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988876&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988883&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 4 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988870&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988877&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988884&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 5 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988871&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988878&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988885&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS MAX 1 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988872&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS MAX 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988879&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS MAX 2 RAW
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988873&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS MAX 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988880&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD",┃TR┃ BEIN SPORTS 1 HEVC (MAÇ ZAMANI)
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988886&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS HABER FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988864&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS HABER FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988865&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS HABER HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988866&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 1 FHD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988849&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 1 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988850&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 1 HD HEVC
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988851&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988852&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988853&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 2 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988854&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988855&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 3 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988856&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988857&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 4 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988858&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 4 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988859&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 5 FHD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988860&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS 5 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988861&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS MAX 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988862&extension=ts
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS HEVC",┃TR┃ BEIN SPORTS MAX 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=988863&extension=ts
 #EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 RAW
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988867&extension=ts
 #EXTINF:-1 group-title="┃TR┃ SPORT",┃TR┃ BEIN SPORTS 1 FHD
