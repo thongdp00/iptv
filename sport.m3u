@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
-#EXTINF:-1 group-title="🇭🇺 HUNGARY - SPORT",HU: M4 SPORT
-http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555794.ts
-#EXTINF:-1 group-title="🇭🇺 HUNGARY - SPORT",HU: MATCH 4
-http://miglioriptvadminadmin.miglior.xn--t60b56a:80/live/927Fiore99/Deep8276SeCa/555793.ts
+
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=112044&extension=ts
 #EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT FHD
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665802&extension=ts
