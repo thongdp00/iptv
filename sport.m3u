@@ -704,14 +704,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=492986&extension=
 #EXTINF:-1 group-title="WS | WORLD SPORTS",NL | ESPN 4
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=492987&extension=ts
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="┃UK┃ PREMIER SPORTS",┃UK┃ PREMIER SPORTS 1 RAW 50FPS FHD (IRELAND)
 http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1312727&extension=ts
 #EXTINF:-1 group-title="┃UK┃ PREMIER SPORTS",┃UK┃ PREMIER SPORTS 2 RAW 50FPS FHD (IRELAND)
@@ -888,178 +880,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366417&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366415&extension=ts
 #EXTINF:-1 group-title="UK | SKY SPORTS ",UK: SKY SPORTS CRICKET FHD
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=366412&extension=ts
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276918.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event HD
-http://iptvgo.cc:80/live/De123/De123/276917.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event UHD
-http://iptvgo.cc:80/live/De123/De123/620667.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event SD
-http://iptvgo.cc:80/live/De123/De123/276916.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Main Event FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276825.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276906.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League HD
-http://iptvgo.cc:80/live/De123/De123/276905.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276821.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Premier League SD
-http://iptvgo.cc:80/live/De123/De123/276904.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/746777.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 UHD
-http://iptvgo.cc:80/live/De123/De123/746772.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 HD
-http://iptvgo.cc:80/live/De123/De123/746774.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 SD
-http://iptvgo.cc:80/live/De123/De123/746773.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/746776.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports F1 FHD 25fps
-http://iptvgo.cc:80/live/De123/De123/746775.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276924.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football HD
-http://iptvgo.cc:80/live/De123/De123/276923.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football SD
-http://iptvgo.cc:80/live/De123/De123/276922.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Football FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276827.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276930.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket HD
-http://iptvgo.cc:80/live/De123/De123/276929.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket SD
-http://iptvgo.cc:80/live/De123/De123/276928.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Cricket FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276829.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports + FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276933.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports + HD
-http://iptvgo.cc:80/live/De123/De123/276932.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports + SD
-http://iptvgo.cc:80/live/De123/De123/276931.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276921.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf HD
-http://iptvgo.cc:80/live/De123/De123/276920.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf SD
-http://iptvgo.cc:80/live/De123/De123/276919.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276826.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276912.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News HD
-http://iptvgo.cc:80/live/De123/De123/276911.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News SD
-http://iptvgo.cc:80/live/De123/De123/276910.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports News FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276823.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276915.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix HD
-http://iptvgo.cc:80/live/De123/De123/276914.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix SD
-http://iptvgo.cc:80/live/De123/De123/276913.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Mix FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276824.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Action FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276909.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Action HD
-http://iptvgo.cc:80/live/De123/De123/276908.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Action SD
-http://iptvgo.cc:80/live/De123/De123/276907.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports NFL/ACTION FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276822.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/276903.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing HD
-http://iptvgo.cc:80/live/De123/De123/276902.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing SD
-http://iptvgo.cc:80/live/De123/De123/276901.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Racing FHD HEVC 25fps
-http://iptvgo.cc:80/live/De123/De123/276820.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis FHD 50fps
-http://iptvgo.cc:80/live/De123/De123/318045.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis UHD
-http://iptvgo.cc:80/live/De123/De123/856218.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis HD
-http://iptvgo.cc:80/live/De123/De123/318044.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Sky Sports Tennis SD
-http://iptvgo.cc:80/live/De123/De123/318043.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 FHD
-http://iptvgo.cc:80/live/De123/De123/276900.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sports 1 HD
-http://iptvgo.cc:80/live/De123/De123/856217.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 SD
-http://iptvgo.cc:80/live/De123/De123/276899.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 FHD HEVC
-http://iptvgo.cc:80/live/De123/De123/276806.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 1 FHD 50FPS
-http://iptvgo.cc:80/live/De123/De123/276802.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 FHD 50FPS
-http://iptvgo.cc:80/live/De123/De123/276801.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 HD
-http://iptvgo.cc:80/live/De123/De123/276898.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 SD
-http://iptvgo.cc:80/live/De123/De123/276897.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 2 FHD HEVC
-http://iptvgo.cc:80/live/De123/De123/276805.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 FHD 50FPS
-http://iptvgo.cc:80/live/De123/De123/276800.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 FHD
-http://iptvgo.cc:80/live/De123/De123/276896.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 HD
-http://iptvgo.cc:80/live/De123/De123/276895.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 SD
-http://iptvgo.cc:80/live/De123/De123/276894.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 3 FHD HEVC
-http://iptvgo.cc:80/live/De123/De123/276804.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 FHD
-http://iptvgo.cc:80/live/De123/De123/276893.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 HD
-http://iptvgo.cc:80/live/De123/De123/276892.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 SD
-http://iptvgo.cc:80/live/De123/De123/276891.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 FHD 50FPS
-http://iptvgo.cc:80/live/De123/De123/276799.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 4 FHD HEVC
-http://iptvgo.cc:80/live/De123/De123/276803.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: TNT Sport 5
-http://iptvgo.cc:80/live/De123/De123/276890.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: MUTV FHD
-http://iptvgo.cc:80/live/De123/De123/276873.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: MUTV HD
-http://iptvgo.cc:80/live/De123/De123/276872.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: MUTV SD
-http://iptvgo.cc:80/live/De123/De123/276871.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: LFC TV FHD
-http://iptvgo.cc:80/live/De123/De123/276843.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: LFC TV HD
-http://iptvgo.cc:80/live/De123/De123/276842.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: LFC TV SD
-http://iptvgo.cc:80/live/De123/De123/856216.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UKFHD Premier Sports 1 UK VERSION
-http://iptvgo.cc:80/live/De123/De123/800014.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 1 HD
-http://iptvgo.cc:80/live/De123/De123/856215.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 1 SD
-http://iptvgo.cc:80/live/De123/De123/856214.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",FHD | Premier Sports 1 50FPS FHD
-http://iptvgo.cc:80/live/De123/De123/800012.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UKFHD Premier Sports  2 UK VERSION
-http://iptvgo.cc:80/live/De123/De123/800013.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 2 HD
-http://iptvgo.cc:80/live/De123/De123/856213.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK: Premier Sports 2 SD
-http://iptvgo.cc:80/live/De123/De123/856212.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UKFHD | Premier Sports 2 50FPS FHD
-http://iptvgo.cc:80/live/De123/De123/800011.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK HD | Premier Sports Rugby HD
-http://iptvgo.cc:80/live/De123/De123/800010.m3u8
-#EXTINF:-1 group-title="UK | SPORTS",UK SD | Premier Sports Rugby SD
-http://iptvgo.cc:80/live/De123/De123/800009.m3u8
 #EXTINF:-1 group-title="WS | WORLD SPORTS",UK | TNT SPORT 1
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493008&extension=ts
 #EXTINF:-1 group-title="WS | WORLD SPORTS",UK | TNT SPORT 2
@@ -1088,8 +908,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493001&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493000&extension=ts
 #EXTINF:-1 group-title="WS | WORLD SPORTS",UK| Sky Sports Golf
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=492999&extension=ts
-#EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",## NOW TV SPORT ᴴᴰ/ᴿᴬᵂ ##
-http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527642&extension=ts
 #EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴿᴬᵂ
 http://pro.abct.shop/play/live.php?mac=00:1A:79:0C:42:AE&stream=1527641&extension=ts
 #EXTINF:-1 group-title="UK| NOW TV SPORT ᴴᴰ/ᴿᴬᵂ",NOW: SKY SPORTS NEWS HQ ᴴᴰ
@@ -1160,26 +978,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493022&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493024&extension=ts
 #EXTINF:-1 group-title="WS | WORLD SPORTS",UK | SUPERSPORT LALIGA
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=493016&extension=ts
-
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN COMBAT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/dazn-combat.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN COMBAT FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/587763.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FAST FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Fast.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN FAST FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/534027.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN RISE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZNRISE.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN RISE FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/534028.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UNBEATEN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Unbeaten.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN UNBEATEN FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/625238.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTO AMERICA FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/motoamerica.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN MOTO AMERICA FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/625237.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACL CORNHOLE TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/acl.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN ACL CORNHOLE TV FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/625236.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BOXING TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Boxing.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN BOXING TV FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/625235.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LACROSSE TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Lacrosse.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN LACROSSE TV FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/625234.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BILLIARD TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/BILLIARD.png" tvg-country="Germany" group-title="DE | DAZN EVENT" tvg-flag="🇩🇪",DAZN BILLIARD TV FHD
-http://electusvp.xyz:8080/live/afKMBMx8/wjjc6WS/625233.ts
-
 
 #EXTINF:-1 group-title="┃DE┃ SPORT",┃DE┃ MS GOLF 1 FHD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1571540&extension=ts
