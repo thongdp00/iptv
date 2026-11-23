@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ TV SLO 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=971&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ TV SLO 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=970&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ TV SLO 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=969&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ NOVA 24 TV HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=968&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ KANAL A HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=967&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ POP TV HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=966&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ POP BRIO HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=965&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ POP KINO HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=964&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ POP OTO HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=963&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ PLANET TV HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=962&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ PLANET TV 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=961&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ PLANET PLUS
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=960&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ SPORT KLUB 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=959&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ ŠPORT TV 1 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=956&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ ŠPORT TV 2 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=955&extension=ts
+#EXTINF:-1 group-title="┃SI┃ SLOVENIA",┃SI┃ ŠPORT TV 3 HD
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=954&extension=ts

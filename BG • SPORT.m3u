@@ -1,0 +1,47 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="BG • SPORT",★☆★ SPORT ★☆★
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=112044&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665802&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665801&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665800&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665799&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665798&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",DIEMA SPORT 3 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665797&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665796&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665795&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665794&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665793&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665792&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 3 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665791&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 4 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665790&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",MAX SPORT 4 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665789&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",NOVA SPORT FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665788&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",NOVA SPORT HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665787&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",RING FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665781&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",RING HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665779&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",EUROSPORT 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665785&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",EUROSPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665784&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",EUROSPORT 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665783&extension=ts
+#EXTINF:-1 group-title="BG • SPORT",EUROSPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665782&extension=ts
