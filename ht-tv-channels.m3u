@@ -843,10 +843,6 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988872&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=988873&extension=ts
 #EXTINF:-1 tvg-id="Arena4.hu@SD" tvg-logo="https://i.imgur.com/uAaQDr6.png" group-title="Thể thao quốc tế",Arena4 🇭🇺
 http://88.212.7.14/live/arena4/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png"  group-title="Thể thao quốc tế",Arena Sport 1 🇸🇰
-http://88.212.15.50/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2.sk@SD" tvg-logo="https://i.imgur.com/Yq3Jf19.png"  group-title="Thể thao quốc tế",Arena Sport 2 🇸🇰
-http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.upanhlaylink.com/i/j3Mp5nsH.jpg" group-title="Thể thao quốc tế", Action Sports 1 🇳🇵
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb7f4489e5f421eb0de90035cffb2bc:96b09b69c638dac184f42910e0095933
@@ -1080,7 +1076,7 @@ https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-#EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-title="Thể thao quốc tế",Cazetv 3 🇧🇷
+#EXTINF:-1 tvg-name="Cazétv" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="Thể thao quốc tế",Cazetv 3 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
 https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
@@ -1397,9 +1393,9 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=t
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="Thể thao quốc tế",M+ GOLF 🇪🇸 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
-#EXTINF:-1  tvg-id="M+ VAMOS tvg-logo="https://cdn.upanhlaylink.com/i/o7XMi4zw.png" group-title="Thể thao quốc tế", M+ VAMOS 🇪🇸
+#EXTINF:-1  tvg-id="M+ VAMOS" tvg-logo="https://cdn.upanhlaylink.com/i/o7XMi4zw.png" group-title="Thể thao quốc tế", M+ VAMOS 🇪🇸
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
-#EXTINF:-1 tvg-chno="" cuid="1515" tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="Thể thao quốc tế",Fubo Sports Network 🇺🇸
+#EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="Thể thao quốc tế",Fubo Sports Network 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
