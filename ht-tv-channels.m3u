@@ -1111,14 +1111,6 @@ https://cache1.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://cache1.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-#EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Thể thao quốc tế",Eurosport 1 🇧🇬
-http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729182&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Thể thao quốc tế",Eurosport 2 🇧🇬
-http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729184&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://cdn.upanhlaylink.com/i/MAfwYJYd.jpg" group-title="Thể thao quốc tế",Eurosport 3 🇧🇬
-http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729186&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://cdn.upanhlaylink.com/i/ZiMBQL0S.jpg" group-title="Thể thao quốc tế",Eurosport 4 🇧🇬
-http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729188&extension=ts
 #EXTINF:-1 tvg-id="CYTAVISION SPORT PREMIERE LEAGUE" tvg-logo="https://cdn.upanhlaylink.com/i/VuyAm6b8.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT PREMIERE LEAGUE 🇬🇷
 http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1017405&extension=ts
 #EXTINF:-1 tvg-id="CYTAVISION SPORT 1" tvg-logo="https://cdn.upanhlaylink.com/i/dREEWyD7.webp" group-title="Thể thao quốc tế",CYTAVISION SPORT 1 🇬🇷
