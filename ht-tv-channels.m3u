@@ -1111,6 +1111,86 @@ https://cache1.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://cache1.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
+#EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Thể thao quốc tế",Eurosport 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729182&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Thể thao quốc tế",Eurosport 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729184&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://cdn.upanhlaylink.com/i/MAfwYJYd.jpg" group-title="Thể thao quốc tế",Eurosport 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729186&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://cdn.upanhlaylink.com/i/ZiMBQL0S.jpg" group-title="Thể thao quốc tế",Eurosport 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729188&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT PREMIERE LEAGUE" tvg-logo="https://cdn.upanhlaylink.com/i/VuyAm6b8.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT PREMIERE LEAGUE 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1017405&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 1" tvg-logo="https://cdn.upanhlaylink.com/i/dREEWyD7.webp" group-title="Thể thao quốc tế",CYTAVISION SPORT 1 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758636&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 2" tvg-logo="https://cdn.upanhlaylink.com/i/CeGKu5tQ.webp" group-title="Thể thao quốc tế",CYTAVISION SPORT 2 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758637&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 3" tvg-logo="https://cdn.upanhlaylink.com/i/nyuNa3zo.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758638&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 4" tvg-logo="https://cdn.upanhlaylink.com/i/gZ0ANXu9.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758640&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 5" tvg-logo="https://cdn.upanhlaylink.com/i/FHiwIOkR.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758641&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 6" tvg-logo="https://cdn.upanhlaylink.com/i/fkATKg7H.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT 6 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758644&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 7" tvg-logo="https://cdn.upanhlaylink.com/i/JA7F9m5t.jpg" group-title="Thể thao quốc tế",CYTAVISION SPORT 7
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=758648&extension=ts
+#EXTINF:-1 tvg-id="CYTAVISION SPORT 8" tvg-logo="https://cdn.upanhlaylink.com/i/o79Q6wlp.webp" group-title="Thể thao quốc tế",CYTAVISION SPORT 8
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1017408&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT SELECT" tvg-logo="https://cdn.upanhlaylink.com/i/YLwTQglY.jpg" group-title="Thể thao quốc tế", SKY SPORT SELECT 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809380&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 1 " tvg-logo="https://cdn.upanhlaylink.com/i/sLld3htq.png" group-title="Thể thao quốc tế",SKY SPORT 1 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809379&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 2 " tvg-logo="https://cdn.upanhlaylink.com/i/dK6BX1EI.png" group-title="Thể thao quốc tế",SKY SPORT 2 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809378&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 3 " tvg-logo="https://cdn.upanhlaylink.com/i/K4yjxp9g.png" group-title="Thể thao quốc tế",SKY SPORT 3 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809377&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 4 " tvg-logo="https://cdn.upanhlaylink.com/i/2bqk1GWf.jpg" group-title="Thể thao quốc tế",SKY SPORT 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809376&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 5 " tvg-logo="https://cdn.upanhlaylink.com/i/HiTKA8ob.png" group-title="Thể thao quốc tế",SKY SPORT 5 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809375&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 6 " tvg-logo="https://cdn.upanhlaylink.com/i/sreiTmKz.png" group-title="Thể thao quốc tế",SKY SPORT 6 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809374&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 7 " tvg-logo="https://cdn.upanhlaylink.com/i/9ZiQnGpu.jpg" group-title="Thể thao quốc tế",SKY SPORT 7 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809373&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT PREMIER LEAGUE" tvg-logo="https://cdn.upanhlaylink.com/i/WZitg5hv.png" group-title="Thể thao quốc tế",SKY SPORT PREMIER LEAGUE 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809372&extension=ts
+#EXTINF:-1 tvg-id="SKY SPORT 9 " tvg-logo="https://cdn.upanhlaylink.com/i/UbeA0xJw.jpg" group-title="Thể thao quốc tế",SKY SPORT 9 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=809371&extension=ts
+#EXTINF:-1 tvg-id="DIGI SPORT 1" tvg-logo="https://cdn.upanhlaylink.com/i/vsKmgmKR.png" group-title="Thể thao quốc tế",DIGI SPORT 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444075&extension=ts
+#EXTINF:-1 tvg-id="DIGI SPORT 2" tvg-logo="https://cdn.upanhlaylink.com/i/jKTckMu2.jpg" group-title="Thể thao quốc tế",DIGI SPORT 2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444080&extension=ts
+#EXTINF:-1 tvg-id="DIGI SPORT 3" tvg-logo="https://cdn.upanhlaylink.com/i/PQzlvGgA.jpg" group-title="Thể thao quốc tế",DIGI SPORT 3
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444085&extension=ts
+#EXTINF:-1 tvg-id="DIGI SPORT 4" tvg-logo="https://cdn.upanhlaylink.com/i/hvjQTH77.png" group-title="Thể thao quốc tế",DIGI SPORT 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444090&extension=ts
+#EXTINF:-1 tvg-id="PRIMA SPORT 1" tvg-logo="https://cdn.upanhlaylink.com/i/yBgo56BY.png" group-title="Thể thao quốc tế",PRIMA SPORT 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444099&extension=ts
+#EXTINF:-1 tvg-id="PRIMA SPORT 2" tvg-logo="https://cdn.upanhlaylink.com/i/yBgo56BY.png" group-title="Thể thao quốc tế",PRIMA SPORT 2 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444102&extension=ts
+#EXTINF:-1 tvg-id="PRIMA SPORT 3" tvg-logo="https://cdn.upanhlaylink.com/i/dYYNK1zO.png" group-title="Thể thao quốc tế",PRIMA SPORT 3 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444105&extension=ts
+#EXTINF:-1 tvg-id="PRIMA SPORT 4" tvg-logo="https://cdn.upanhlaylink.com/i/Wco7iadA.png" group-title="Thể thao quốc tế",PRIMA SPORT 4
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444108&extension=ts
+#EXTINF:-1 tvg-id="PRIMA SPORT 5" tvg-logo="https://cdn.upanhlaylink.com/i/SzeOLtVR.png" group-title="Thể thao quốc tế",PRIMA SPORT 5
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444111&extension=ts
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Thể thao quốc tế",Max Sport 1 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665796&extension=ts
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Thể thao quốc tế",Max Sport 2 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665794&extension=ts
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" group-title="Thể thao quốc tế",Max Sport 3 
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665792&extension=ts
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" group-title="Thể thao quốc tế",Max Sport 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=665790&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Thể thao quốc tế",Eleven Sports 1
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729221&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Thể thao quốc tế",Eleven Sports 2 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729224&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Thể thao quốc tế",Eleven Sports 3 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729227&extension=ts
+#EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Thể thao quốc tế",Eleven Sports 4 
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1729230&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-go3-sport-2886.png" group-title="Thể thao quốc tế",GO3 SPORTS 1 🇱🇻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
