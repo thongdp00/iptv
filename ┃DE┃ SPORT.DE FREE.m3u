@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 1
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149720&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 2
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149721&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 3
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149722&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 4
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149723&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 5
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149724&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 6
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149725&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 7
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149726&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 8
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149727&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 9
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149728&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 10
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149729&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 11
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149730&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 12
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149731&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 13
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149732&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 14
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149733&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 15
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149734&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 16
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149735&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 17
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149736&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 18
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149737&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 19
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149738&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 20
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149739&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 21
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149740&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 22
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149741&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 23
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149742&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 24
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149743&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 25
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149744&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 26
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149745&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 27
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149746&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 28
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149747&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 29
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149748&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SPORT.DE FREE",┃DE┃ SPORT.DE FREE EVENT 30
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149749&extension=ts
