@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760846&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 1 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760845&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 2 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760844&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 3 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760843&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 4 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760842&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 5 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760841&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 6 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760840&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 7 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760839&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 8 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760838&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 9 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760837&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA RAW",┃DE┃ SKY SPORT BUNDESLIGA 10 RAW
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760836&extension=ts
