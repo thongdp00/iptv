@@ -200,6 +200,14 @@ https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/aut
 #EXTINF:-1 tvg-id="vtvgo-fast-vui-ve" tvg-name="VTV Vui Vẻ" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261106/2026110609/43f9e686-937a-4367-a8de-aece483e03ad-THUMBNAIL-KENH-VTVgo-Fast-Channel-500x281.png" group-title="VTVGO",VTV Vui Vẻ
 https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Prime_Phim_Vi%E1%BB%87t.png/revision/latest?cb=20261123144751&path-prefix=vi" group-title="VTV",Prime Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
+#EXTINF:-1 tvg-logo="https://vtvprime.vn/logo/logo.png" group-title="VTV",Prime UEFA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://vrhxx6ozhpliv.vcdn.cloud/hls/playout.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title="VTV",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1967,6 +1975,8 @@ https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
 #EXTINF:-1 tvg-id="zing-radio-11" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png" group-title="Nghe nhạc",ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
+#EXTINF:-1 tvg-id="zing-radio-11" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png" group-title="Nghe nhạc",ZingRadio 12 - Nhạc không lời
+https://multi-playlist-zmp3.zmdcdn.me/4WEUr_3aq8I/zhls/playback-realtime/1f36d59ae9df008159ce/index.m3u8
 
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://cdn.upanhlaylink.com/i/1YnTP3AQ.jpg", VOV1
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8
