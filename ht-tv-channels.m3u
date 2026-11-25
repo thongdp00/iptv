@@ -1823,6 +1823,8 @@ https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
 #EXTINF:-1 tvg-id="360songkhoe" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png" group-title="Phim truyện", 360 Sống Khỏe
 https://vmttv.dpdns.org/tv360/?id=360-song-khoe
+#EXTINF:-1 tvg-id="360chautinhtri" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_640_360.png", 360 Châu Tinh Trì
+
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/12/baytienthefataldealz20261920x10801_1791800464791.jpg" group-title="Phim truyện", Bẫy Tiền: Cú Lừa Tiền Tỉ
 https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8
