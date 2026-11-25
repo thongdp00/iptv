@@ -1365,8 +1365,6 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18582&extension=t
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18599&extension=ts
 #EXTINF:-1 tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="Thể thao quốc tế",M+ GOLF 🇪🇸 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=18591&extension=ts
-#EXTINF:-1  tvg-id="M+ VAMOS" tvg-logo="https://cdn.upanhlaylink.com/i/o7XMi4zw.png" group-title="Thể thao quốc tế", M+ VAMOS 🇪🇸
-http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=115429&extension=ts
 #EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-title="Thể thao quốc tế",Fubo Sports Network 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
