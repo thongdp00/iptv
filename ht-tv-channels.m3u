@@ -607,7 +607,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="┃FR┃ CANAL+ FOOT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ FOOT.png" group-title="Thể thao quốc tế", CANAL+ FOOT 🇫🇷 ( NHA)
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941405&extension=ts
 #EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="┃FR┃ CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL+ PREMIER LEAGUE.png" group-title="Thể thao quốc tế", CANAL+ PREMIER LEAGUE 🇫🇷 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941414&extension=ts&play_token=x4Fu12bAjm
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941414&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026102689bbb7129a95b6fa480d6780c39c0074.jpg" group-title="Thể thao quốc tế",Canal+ Sport 🇸🇰 (NHA)
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20261026f372c00c59f807ba22e8fbd2a8412c04.jpg" group-title="Thể thao quốc tế",Canal+ Sport 2 🇸🇰 (Tennis)
@@ -629,17 +629,17 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302028.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Thể thao quốc tế",Star Sports Select 2  🇮🇳 
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
 #EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế",HUB PREMIER 1 🇬🇧 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314077&extension=ts&play_token=LgvQok74q6
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1314077&extension=ts
 #EXTINF:-1 tvg-id="ch-ukhubpremier2fhd" tvg-name="┃UK┃ HUB PREMIER 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="Thể thao quốc tế",HUB PREMIER 2 🇬🇧 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314078&extension=ts&play_token=Zc0jE8Sq8h
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1314078&extension=ts
 #EXTINF:-1 tvg-id="ch-ukhubpremier3fhd" tvg-name="┃UK┃ HUB PREMIER 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="Thể thao quốc tế",HUB PREMIER 3 🇬🇧 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314079&extension=ts&play_token=meYFPnbeqz
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1314079&extension=ts
 #EXTINF:-1 tvg-id="ch-ukhubpremier4fhd" tvg-name="┃UK┃ HUB PREMIER 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="Thể thao quốc tế",HUB PREMIER 4 🇬🇧 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314080&extension=ts&play_token=CkoE9cxZle
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1314080&extension=ts
 #EXTINF:-1 tvg-id="ch-ukhubpremier5fhd" tvg-name="┃UK┃ HUB PREMIER 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png" group-title="Thể thao quốc tế",HUB PREMIER 5 🇬🇧 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314081&extension=ts&play_token=p6oFd3cn4T
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1314081&extension=ts
 #EXTINF:-1 tvg-id="ch-ukhubpremier6fhd" tvg-name="┃UK┃ HUB PREMIER 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png" group-title="Thể thao quốc tế",HUB PREMIER 6 🇬🇧 (NHA)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314082&extension=ts&play_token=2NLuBXA4Xs
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1314082&extension=ts
 #EXTINF:-1 tvg-id="ch-beplaysportsfhd" tvg-name="PLAY SPORTS FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 1 🇧🇪 
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=130317&extension=ts
 #EXTINF:-1 tvg-id="ch-beplaysportsfhd" tvg-name="PLAY SPORTS FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2 🇧🇪 
@@ -649,27 +649,27 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382835&exte
 #EXTINF:-1 tvg-id="ch-uknowhknowsports2" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 🇭🇰
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=382834&extension=ts
 #EXTINF:-1 tvg-id="ch-frligue11fhd" tvg-name="┃FR┃ LIGUE 1+ 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="Thể thao quốc tế",  LIGUE 1+ 1 🇫🇷 (Ligue 1)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1258813&extension=ts&play_token=0QHoYvUl3g
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1258813&extension=ts
 #EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="┃FR┃ CANAL + SPORT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+ SPORTS/CANAL + SPORT.png" group-title="Thể thao quốc tế", CANAL + SPORT 🇫🇷
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941408&extension=ts&play_token=qqcdGMh7SG
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=941408&extension=ts
 #EXTINF:-1 tvg-id="ch-frcanalchampionsleaguefhd" tvg-name="┃FR┃ CANAl+ CHAMPIONS LEAGUE FHD" tvg-logo="https://cdn.upanhlaylink.com/i/P6RPZyZO.webp" group-title="Thể thao quốc tế", CANAl+ CHAMPIONS LEAGUE 🇫🇷 (C1)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941625&extension=ts&play_token=RdtK83ADA2
+http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941625&extension=ts
 #EXTINF:-1  tvg-name="UEFA Champions League 🇺🇸" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues.png" group-title="Thể thao quốc tế",CBS UEFA Champions League 🇺🇸 (C1)
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 tvg-id="espn.nl" tvg-name="┃CANAL+┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN.png" group-title="Thể thao quốc tế", CANAL+ ESPN 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084608&extension=ts&play_token=T0AsgMiLCj
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884247&extension=ts
 #EXTINF:-1 tvg-id="espn2.nl" tvg-name="┃CANAL+┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="Thể thao quốc tế", CANAL+ ESPN 2 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084609&extension=ts&play_token=XOFwHrrq4w
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884250&extension=ts
 #EXTINF:-1 tvg-id="espn3.nl" tvg-name="┃CANAL+┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 3.png" group-title="Thể thao quốc tế", CANAL+ ESPN 3 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084610&extension=ts&play_token=eYcnWCjMSE
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884253&extension=ts
 #EXTINF:-1 tvg-id="espn4.nl" tvg-name="┃CANAL+┃ ESPN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 4.png" group-title="Thể thao quốc tế", CANAL+ ESPN 4 🇳🇱
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084611&extension=ts&play_token=z9g0RCPM0y
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884256&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport1hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 1 🇳🇱 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884260&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 🇳🇱 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884262&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
+http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884273&extension=ts
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Thể thao quốc tế",FIFA+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -702,19 +702,19 @@ http://moultv.online/play/live.php?mac=00:1A:79:25:bb:59&stream=761733&extension
 #EXTINF:-1 tvg-id="STARZPLAY SPORTS 3" tvg-name="STARZPLAY SPORTS 3" tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 3 🇦🇪
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=965620&extension=ts
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="┃DE┃ SKY SPORT BUNDESLIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="Thể thao quốc tế", SKY SPORT BUNDESLIGA 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149303&extension=ts&play_token=OLGEoAl7pm
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149314&extension=ts
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="┃DE┃ SKY SPORT F1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT F1.png" group-title="Thể thao quốc tế", SKY SPORT F1 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149473&extension=ts&play_token=rjzHy1y09G
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149473&extension=ts
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="┃DE┃ SKY SPORT GOLF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT GOLF.png" group-title="Thể thao quốc tế", SKY SPORT GOLF 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149429&extension=ts&play_token=zB4UlUk4Mp
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149429&extension=ts
 #EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="┃DE┃ SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png" group-title="Thể thao quốc tế", SKY SPORT PREMIER LEAGUE 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149432&extension=ts&play_token=aAcLB26Tsm
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149432&extension=ts
 #EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="┃DE┃ SKY SPORT TENNIS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="Thể thao quốc tế", SKY SPORT TENNIS 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149433&extension=ts&play_token=7zlfAJdtLy
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149433&extension=ts
 #EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="┃DE┃ SKY SPORT TOP EVENT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TOP EVENT.png" group-title="Thể thao quốc tế", SKY SPORT TOP EVENT 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149434&extension=ts&play_token=sOj3UyFeHN
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149434&extension=ts
 #EXTINF:-1 tvg-id="skysportmix.de" tvg-name="┃DE┃ SKY SPORT MIX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="Thể thao quốc tế", SKY SPORT MIX 🇩🇪
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149430&extension=ts&play_token=fXPa0MS6uo
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149430&extension=ts
 #EXTINF:-1  tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Thể thao quốc tế",Sky Sports Football 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1311997&extension=ts
@@ -1155,7 +1155,7 @@ http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444085&extens
 http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444090&extension=ts
 #EXTINF:-1 tvg-id="PRIMA SPORT 1" tvg-logo="https://cdn.upanhlaylink.com/i/yBgo56BY.png" group-title="Thể thao quốc tế",PRIMA SPORT 1 🇷🇴
 http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444099&extension=ts
-#EXTINF:-1 tvg-id="PRIMA SPORT 2" tvg-logo="https://cdn.upanhlaylink.com/i/yBgo56BY.png" group-title="Thể thao quốc tế",PRIMA SPORT 2 🇷🇴
+#EXTINF:-1 tvg-id="PRIMA SPORT 2" tvg-logo="https://cdn.upanhlaylink.com/i/r0QQQhkw.png" group-title="Thể thao quốc tế",PRIMA SPORT 2 🇷🇴
 http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444102&extension=ts
 #EXTINF:-1 tvg-id="PRIMA SPORT 3" tvg-logo="https://cdn.upanhlaylink.com/i/dYYNK1zO.png" group-title="Thể thao quốc tế",PRIMA SPORT 3 🇷🇴
 http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=1444105&extension=ts
