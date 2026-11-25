@@ -1,6 +1,73 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
-
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 1 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712414&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712415&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 2 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712416&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712417&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712418&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712419&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712420&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712421&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 1 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712422&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712423&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 2 4K
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712424&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 2 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=712425&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765041&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761732&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765042&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761733&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=765043&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761734&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761735&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 5 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=761736&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092324&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092323&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092322&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092321&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport ASIA 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092320&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport ASIA 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092319&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport ASIA 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092318&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport ASIA 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092317&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport Premium 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092316&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport Premium 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092315&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport Premium 1 HEVC HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092314&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sport Premium 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092313&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sports Premium 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092312&extension=ts
+#EXTINF:-1 group-title="AR • STARZPLAY",AD Sports Premium 2 HEVC HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092311&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT NEWS FHD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149431&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TOP EVENT FHD
