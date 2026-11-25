@@ -181,7 +181,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 
-#EXTINF:-1 tvg-id="vtvgo-fast-tai-lieu" tvg-name="VTVgo  SSai" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/b630a0a6-3ef5-49ce-9cbd-de17a42f019a-VTVgo-Phim-Tai-Lieu-THUMBNAIL-KENH-VTVgo-500x281.png&width=640" group-title="VTVGO",VTVgo  SSai
+#EXTINF:-1 tvg-id="VTVgo  SSai" tvg-name="VTVgo  SSai" tvg-logo="https://cdn.upanhlaylink.com/i/XIWuVibn.jpg" group-title="VTVGO",VTVgo  SSai
 https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-hoat-hinh/master.m3u8
 #EXTINF:-1 tvg-id="vtvgo-fast-tai-lieu" tvg-name="VTV Phim Tài Liệu" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/b630a0a6-3ef5-49ce-9cbd-de17a42f019a-VTVgo-Phim-Tai-Lieu-THUMBNAIL-KENH-VTVgo-500x281.png&width=640" group-title="VTVGO",VTV Phim Tài Liệu
 https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/1080p/index.m3u8
@@ -204,7 +204,7 @@ https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/aut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
-#EXTINF:-1 tvg-logo="https://vtvprime.vn/logo/logo.png" group-title="VTV",Prime UEFA
+#EXTINF:-1 tvg-logo="https://cdn.upanhlaylink.com/i/wQTmR5is.jpg" group-title="VTV",Prime UEFA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vrhxx6ozhpliv.vcdn.cloud/hls/playout.m3u8
@@ -723,36 +723,9 @@ https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
-#EXTINF:-1 tvg-id="StarzPlay crickets 2 " tvg-name="StarzPlay crickets 2 " tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",StarzPlay crickets 2  🇦🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-https://dfus5rb42if6f.cloudfront.net/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/CWCW-PreRoll-Live-DASH/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?aws.sessionId=a5905909-7a94-41e4-adfb-d978f53fbe72
-#EXTINF:-1 tvg-id="Premier sport " tvg-name="Premier sport " tvg-logo="https://cdn.upanhlaylink.com/i/L58o01zF.png" group-title="Thể thao quốc tế",Premier sport UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 #EXTINF:-1 tvg-id="PREMIER_LEAGUE_TV " tvg-name="PREMIER_LEAGUE_TV " tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/primier.png" group-title="Thể thao quốc tế",PREMIER_LEAGUE_TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://cdn.stmify.com/peacock/stream/PREMIER_LEAGUE_TV/master.mpd
-#EXTINF:-1 tvg-id="Champions League Channel " tvg-name="Champions League Channel " tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/primier.png" group-title="Thể thao quốc tế",Champions League Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="Champions League Channel " tvg-name="Champions League Channel " tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/primier.png" group-title="Thể thao quốc tế",Sky Sport Germany
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62ac0f0c382a696058c8598821d6591d:75a5350cc5bc7eb38efeb694ec13e0a0
-https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mayn9zpunj/out/v1/5623834d108749bebb71979abdfe7dd8/cenc.mpd
+http://aox.life:80/live/Meric/Meric2023/149450.m3u8
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="┃DE┃ SKY SPORT BUNDESLIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="Thể thao quốc tế", SKY SPORT BUNDESLIGA 🇩🇪
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760846&extension=ts
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="┃DE┃ SKY SPORT F1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT F1.png" group-title="Thể thao quốc tế", SKY SPORT F1 🇩🇪
