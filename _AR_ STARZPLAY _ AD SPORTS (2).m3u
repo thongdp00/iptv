@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",###### STARZPLAY SPORT ######
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=761731&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 1 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=977634&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 2 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=977635&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 3 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=994802&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 1 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765041&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=761732&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 2 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765042&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 2 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=761733&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 3 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765043&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 3 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=761734&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=761735&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 5 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=761736&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 FHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=767232&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=766017&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 2 FHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=767231&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 2 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=766018&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 1 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765044&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 1 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765045&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 2 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765046&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - AD SPORT ASIA 2 HD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765047&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765050&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1 FHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765049&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT1 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765048&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 FHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765052&extension=ts
+#EXTINF:-1 group-title="|AR| STARZPLAY / AD SPORTS",AR - ABU DHABI SPORT2 UHD
+http://activeiptv.sbs:80/play/live.php?mac=00:1B:79:49:39:E9&stream=765051&extension=ts

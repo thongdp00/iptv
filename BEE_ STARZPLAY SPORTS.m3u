@@ -1,0 +1,21 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT 1
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806613&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT 2
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806612&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT SERIA 1 FHD
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806611&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT SERIA 2 FHD
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806610&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT SERIA 3 FHD
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806609&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT SERIA 1 HD
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806608&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT SERIA 2 HD
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806607&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD SPORT SERIA 3 HD
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806606&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD ASIA 1
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806605&extension=ts
+#EXTINF:-1 group-title="BEE| STARZPLAY SPORTS",AR| AD ASIA 2
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1806604&extension=ts

@@ -1,0 +1,45 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 1 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712414&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 1 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712415&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 2 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712416&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS 2 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712417&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712418&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712419&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712420&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712421&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 1 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712422&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 1 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712423&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 2 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712424&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY AD SPORTS ASIA 2 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712425&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS UFC 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712426&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS UFC HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712427&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS YAS 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712428&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS YAS HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712429&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS CRICLIFE 1 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712430&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS CRICLIFE 1 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712431&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS CRICLIFE 2 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712432&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS CRICLIFE 2 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712433&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS CRICLIFE 3 4K
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712434&extension=ts
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT",┃AR┃ STARZPLAY SPORTS CRICLIFE 3 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=712435&extension=ts

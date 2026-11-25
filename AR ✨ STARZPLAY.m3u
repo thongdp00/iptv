@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",Criclife 2 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918605&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",Criclife 2 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918604&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",Criclife 1 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918603&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",Criclife 1 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918602&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD YAS HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918601&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD YAS FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918600&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sports Premium 2 HEVC HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918599&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sports Premium 2 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918598&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport Premium 2 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918597&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport Premium 1 HEVC HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918596&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport Premium 1 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918595&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport Premium 1 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918594&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport ASIA 2 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918593&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport ASIA 2 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918592&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport ASIA 1 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918591&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport ASIA 1 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918590&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport 2 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918589&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport 2 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918588&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport 1 HD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918587&extension=ts
+#EXTINF:-1 group-title="AR ✨ STARZPLAY",AD Sport 1 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:14:E9:ED&stream=918586&extension=ts
