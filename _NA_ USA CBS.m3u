@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS EAST HD
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=469302&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS WEST HD
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=469303&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 BILLINGS MT (KTVQ)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549538&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 CEDAR RAPIDS IA (KGAN)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549585&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 CHICAGO IL (WBBM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549598&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 GREENSBORO NC (WFMY)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=1141155&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 LOS ANGELES CA (KCBS)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549636&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 NEW YORK NY (WCBS)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549522&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 PITTSBURGH PA (KDKA)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549495&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 RENO NV (KTVN)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549533&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 2 SPOKANE WA (KREM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549444&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 8 (WAGM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=704137&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 BRYAN TX (KBTX)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549461&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 BURLINGTON VT (WCAX)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549452&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 CHAMPAIGN IL (WCIA)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549597&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 CHARLOTTE NC (WBTV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549517&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 COLUMBUS GA (WRBL)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549612&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 GREAT FALLS MT (KRTV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549540&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 HARTFORD CT (WFSB)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549628&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 KALAMAZOO MI (WWMT)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549559&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 MADISON WI (WISC)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549437&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 MASON CITY IA (KIMT)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549587&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 MEMPHIS TN (WREG)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549478&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 NORFOLK VA (WTKR)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549448&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 OMAHA NE (KMTV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549536&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 PHILADELPHIA PA (KYW)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549494&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 SPRINGFIELD MA (WSHM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549564&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 3 WILMINGTON NC (WWAY)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549520&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 BOSTON MA (WBZ)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549563&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 BUFFALO NY (WIVB)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549526&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 BUTTE MT (KXLF)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549539&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 COLUMBUS MS (WCBI)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549550&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 DENVER CO (KCNC)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549631&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 DOTHAN AL (WTVY)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549652&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 EL PASO TX (KDBC)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549463&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 INDIANAPOLIS IN (WTTV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549592&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 MIAMI FL (WFOR)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=992140&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 MINNEAPOLIS MN (WCCO)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549555&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 NEW ORLEANS LA (WWL)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549574&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 RIO GRANDE VALLEY TX (KGBT)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549464&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 4 ST LOUIS MO (KMOV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549547&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 BANGOR ME (WABI)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549568&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 CHARLESTON SC (WCSC)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549484&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 CHEYENNE WY (KGWN)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549433&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 FORT SMITH AR (KFSM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549643&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 GRAND JUNCTION CO (KREX)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549632&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 GREEN BAY WI (WFRV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549435&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 HONOLULU HI (KGMB)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549608&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 KANSAS CITY MO (KCTV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549545&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 MOBILE AL (WKRG)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549654&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 NASHVILLE TN (WTVF)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549479&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 PHOENIX AZ (KPHO)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549646&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 SAGINAW MI (WNEM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549561&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 SAN ANTONIO TX (KENS)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549468&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 5 SAN FRANCISCO CA (KPIX)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549640&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 8 SAN DIEGO (KFMB)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549524&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 LANSING MI (WLNS)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549560&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 ALBANY NY (WRGB)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=1121233&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 BEAUMONT TX (KFDM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549460&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 ORLANDO FL (WKMG)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549621&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 PORTLAND OR (KOIN)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549501&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 RICHMOND VA (WTVR)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549449&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 JACKSON (WAPT)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549622&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 TULSA OK (KOTV)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549504&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 6 WICHITA FALLS TX (KAUZ)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549473&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 7 BEND OR (KBNZ)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549498&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 7 ODESSA TX (KOSA)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549470&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 7 PITTSBURG KS (KOAM)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549581&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 7 QUINCY IL (KHQA)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549600&extension=ts
+#EXTINF:-1 group-title="|NA| USA CBS",USA - CBS 7 ROANOKE VA (WDBJ)
+http://17830-dial.cdn-o2.me:80/play/live.php?mac=00:1A:79:7D:9C:60&stream=549450&extension=ts

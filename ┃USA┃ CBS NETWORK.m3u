@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBSN / CBS NEWS
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986865&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | NEW YORK | WCBS
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986744&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | BILLINGS | KTVQ
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986724&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | BOISE ID | KBOI
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986747&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | CEDAR RAPIDS | KGAN
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986748&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | CHICAGO | WBBM
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986749&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | GREENSBORO NC | WFMY
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986750&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | LOS ANGELES | KCBS
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986751&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | PALM SPRINGS | KPSP
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986702&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | PITTSBURG | KDKA
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986752&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | RENO NV| KTVN
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986753&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | SALT LAKE CITY UT | KUTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986746&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 2 | SPOKANE | KREM
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986745&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | BRYAN | KBTX
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986696&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | BURLINGTON VT | WCAX
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986754&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | CHAMPAIGN | WCIA
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986755&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | CHARLOTTE NC | WBTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986756&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | COLUMBUS | WRBL
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986713&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | GREAT FALLS | KRTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986727&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | HAMPTON ROADS | WTKR
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986759&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | HARTFORD | WFSB
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986757&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | KALAMAZOO MI | WWMT
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986758&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | MADISON | WISC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986686&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | MEMPHIS | WREG
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986861&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | OMAHA| KMTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986760&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | PHILADELPHIA | KYW
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986761&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | ROCHESTER | KIMT
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986703&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | SPRINGFIELD | WSHM
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986711&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 3 | WILMINGTON |WWAY
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986762&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | BOSTON | WBZ
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986862&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | BUFFALO NY | WIVB
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986765&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | BUTTE | KXLF
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986723&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | COLUMBUS MS | WCBI
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986766&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | DENVER CO | KCNC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986767&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | DOTHAN | WTVY
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986764&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | EL PASO TX | KDBC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986768&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | INDIANAPOLIS | WTTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986700&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | MIAMI FL | WFOR
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986763&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | MINNEAPOLIS MN | WCCO
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986769&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | NEW ORLEANS| WWL
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986770&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | ROCK ISLAND | WHBF
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986771&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 4 | ST. LOUIS MO | KMOV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986772&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | ALEXANDRIA | KALB-DT2
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986709&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | ANCHORAGE | KYES |
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986774&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | BANGOR | WABI
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986698&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | CHARLESTON SC | WCSC
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986776&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | FLINT MI | WNEM
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986777&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | FORT SMITH | KFSM
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986701&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | GRAND JUNCTION | KREX
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986731&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 05 | CHEYENNE / SCOTTSBLUFF | KGWN
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986863&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | GREEN BAY WI | WFRV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986778&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | HONOLULU | KGMB
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986694&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | KANSAS CITY | KCTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986779&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | MOBILE AL | WKRG
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986780&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | NASHVILLE | WTVF
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986781&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | PHOENIX | KPHO
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986775&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | SAN ANTONIO | KENS
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986773&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | SAN FRANCISCO CA | KPIX
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986782&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 5 | SYRACUSE NY | WTVH
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986783&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | ALBANY NY | WRGB
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986785&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | LANSING MI | WLNS
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986786&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | ORLANDO FL | WKMG
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986784&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 |PORT ARTHUR| KFDM
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986718&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | PORTLAND | KOIN
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986787&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | RICHMOND | WTVR
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986788&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | TALLAHASSEE | WCTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986705&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | TULSA OK | KOTV
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986789&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 6 | WICHITA FALLS | KAUZ
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986708&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 7 | BEND | KBNZ-LD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986722&extension=ts
+#EXTINF:-1 group-title="┃USA┃ CBS NETWORK",┃USA┃ CBS 7 | DAYTON OH | WHIO
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=986790&extension=ts
