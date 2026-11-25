@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="FR| SPORT HD/4K",#### SPORT HD/4K ####
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=398863&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ 360 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=394813&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ FOOT 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=394814&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ SPORT 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=599983&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ SPORT HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207154&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ FORMULA1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=529213&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ Ligue1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=636429&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107005&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: beIN SPORTS 1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220942&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: beIN SPORTS 2 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220941&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 2 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107006&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 3 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107007&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: beIN SPORTS 3 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220940&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 4 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207216&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 5 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207217&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 6 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207218&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 7 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207219&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 8 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207220&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 9 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207221&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 10 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207222&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 4 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220909&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 5 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220908&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 6 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220907&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 7 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220906&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 8 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220905&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 9 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220904&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 10 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220903&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: EUROSPORT 1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=106946&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: EUROSPORT 1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207225&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: EUROSPORT 2 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207224&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: EUROSPORT 2 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=106947&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536689&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 2 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536690&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 3 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536691&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 4 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536692&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 5 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536693&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 7 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536695&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 8 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=536696&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: EXTREME SPORTS HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220936&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: GOLF channel 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=106948&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Golf Channel HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220896&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Golf Plus HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220937&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: GOLF+ 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=106949&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: GOLF+ HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207257&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: INFOSPORT+ HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207223&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Equidia Live
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=633876&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR:L`EQUIPE HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=832049&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: L`EQUIPE
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=832050&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: L`EQUIPE 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=832048&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Infosport HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220898&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: AB1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=106921&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: AB1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207148&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Canal+ CAN HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1762550&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Canal+ CAN
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=694616&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: FOOT 24/24 + HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207228&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: EQUIDIA LIVE HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207227&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC ACCESS SPORT 1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=165079&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC ACCESS SPORT 1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220925&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: OL TV 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=696383&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: Foot24 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220897&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC AFTER FOOT TV HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1910294&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=106913&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107008&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 2 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107009&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 2 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207258&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 3 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107010&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 3 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207259&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 4 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107011&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 4 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207260&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: RMC SPORT 5 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=165703&extension=ts

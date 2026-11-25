@@ -1,0 +1,35 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT NEWS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149431&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TOP EVENT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149434&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT PREMIER LEAGUE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149432&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT F1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149473&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT MIX FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149430&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TENNIS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149433&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT GOLF FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149429&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149435&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 2 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149436&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 3 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149437&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 4 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149438&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 5 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149439&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 6 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149440&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 7 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149441&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 8 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149442&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 9 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149443&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT 10 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149444&extension=ts
