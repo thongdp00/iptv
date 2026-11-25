@@ -1,6 +1,74 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
 
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT NEWS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149431&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TOP EVENT FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149434&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT PREMIER LEAGUE FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149432&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT F1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149473&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT MIX FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149430&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TENNIS FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149433&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT GOLF FHD
+http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=1149429&extension=ts
+#EXTINF:-1 group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 1 FHD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1258813&extension=ts
+#EXTINF:-1 group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1258814&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ FOOT 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=394814&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ SPORT 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=599983&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ SPORT HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207154&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ FORMULA1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=529213&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: CANAL+ Ligue1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=636429&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 1 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107005&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: beIN SPORTS 1 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220942&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: beIN SPORTS 2 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220941&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 2 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107006&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 3 4K
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=107007&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: beIN SPORTS 3 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220940&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 4 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207216&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 5 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207217&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 6 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207218&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 7 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207219&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 8 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207220&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 9 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207221&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN MAX 10 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=207222&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 4 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220909&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 5 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220908&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 6 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220907&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 7 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220906&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 8 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220905&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 9 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220904&extension=ts
+#EXTINF:-1 group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 10 HD
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=220903&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA HD",┃DE┃ SKY SPORT BUNDESLIGA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:E7:02:DD&stream=760846&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT NEWS HD
