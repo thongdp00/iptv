@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 
 
-
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA HD",┃DE┃ SKY SPORT BUNDESLIGA HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149314&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT NEWS HD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149457&extension=ts
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT TOP EVENT HD
