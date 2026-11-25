@@ -4,20 +4,44 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",##### LIGUE 1+ ◉ ᴿᴬᵂ #####
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519697&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 1+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519696&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 2+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519695&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 3+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519694&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 4+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519693&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 5+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519692&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 6+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519691&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 7+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519690&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 8+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519689&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 9+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519688&extension=ts
+#EXTINF:-1 group-title="FR| LIGUE1+ ◉",FR: LIGUE 10+ ◉ ᴿᴬᵂ
+http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519687&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT NEWS FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149431&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TOP EVENT FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149434&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT PREMIER LEAGUE FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149432&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT F1 FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149473&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT MIX FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149430&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT TENNIS FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149433&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT FHD",┃DE┃ SKY SPORT GOLF FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149429&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT BUNDESLIGA FHD",┃DE┃ SKY SPORT BUNDESLIGA FHD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149303&extension=ts
 
 #EXTINF:-1 group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 FHD
 http://me.mdmfista.com/play/live.php?mac=00:1B:79:51:0E:FD&stream=941417&extension=ts
