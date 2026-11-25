@@ -2,7 +2,20 @@
 
 
 
-
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT NEWS HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149457&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT TOP EVENT HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149460&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT PREMIER LEAGUE HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149458&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT F1 HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149474&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT MIX HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149456&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT TENNIS HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149459&extension=ts
+#EXTINF:-1 group-title="┃DE┃ SKY SPORT HD",┃DE┃ SKY SPORT GOLF HD
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1B:79:45:22:5B&stream=1149454&extension=ts
 
 #EXTINF:-1 group-title="FR| LIGUE1+ ◉",##### LIGUE 1+ ◉ ᴿᴬᵂ #####
 http://cf.uktvpanel.com:80/play/live.php?mac=00:1A:79:00:00:10&stream=1519697&extension=ts
