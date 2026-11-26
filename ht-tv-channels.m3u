@@ -125,7 +125,7 @@ https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
+#EXTINF:-1 group-title="🔹Sự Kiện VTVPrime🔹" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,7 +149,7 @@ https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 12
+#EXTINF:-1 group-title="🔹Sự Kiện VTVPrime🔹" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -702,11 +702,11 @@ http://me.mdmfista.com/play/live.php?mac=00:1A:79:01:AB:7F&stream=1312823&extens
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="🔹Thể thao quốc tế🔹",INTER 24/7 🇮🇹
 https://jmp2.uk/stvp-ES31000013F
-#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV 🇪🇸
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="🔹Thể thao quốc tế🔹",Real Madrid TV 🇪🇸
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 cuid="1486" tvg-name="" tvg-id="67a52c8397782f00081879aa" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png" group-title="🔹Thể thao quốc tế🔹", Barça TV 🇪🇸
 https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-#EXTINF:-1 tvg-id="STARZPLAY SPORTS 1" tvg-name="STARZPLAY SPORTS 1" tvg-logo="https://cdn.upanhlaylink.com/i/k6qu6uVa.png" group-title="Thể thao quốc tế",STARZPLAY SPORTS 1 🇦🇪 (Seria A)
+#EXTINF:-1 tvg-id="STARZPLAY SPORTS 1" tvg-name="STARZPLAY SPORTS 1" tvg-logo="https://cdn.upanhlaylink.com/i/k6qu6uVa.png" group-title="🔹Thể thao quốc tế🔹",STARZPLAY SPORTS 1 🇦🇪 (Seria A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -780,7 +780,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="Thể thao quốc tế",GOAL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="🔹Thể thao quốc tế🔹",GOAL TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1513" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-title="🔹Thể thao quốc tế🔹",Fancode Live₁ 🇬🇧
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1665,7 +1665,7 @@ https://livemsk.vtvprime.vn/live_dzones/ftv.smil/manifest.mpd
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-chno="" cuid="310" tvg-name="Wild Planet 🇺🇸" tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="🔹Quốc Tế🔹",Wild Planet 🇺🇸
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8?wowzasessionid=@iprtlk
-#EXTINF:-1 tvg-id="arirang"  tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg" group-title="Quốc Tế", Arirang
+#EXTINF:-1 tvg-id="arirang"  tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg" group-title="🔹Quốc Tế🔹", Arirang
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp" group-title="🔹Quốc Tế🔹", Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
