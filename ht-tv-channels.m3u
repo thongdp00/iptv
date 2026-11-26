@@ -314,7 +314,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="onstyle" group-title="🔹VTVcab🔹" tvg-logo="https://vietanhtv.id.vn/logo/onstyle.png", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-id="onmusic" group-title=""🔹VTVcab🔹" tvg-logo="https://vietanhtv.id.vn/logo/onmusic.png", On Music
+#EXTINF:-1 tvg-id="onmusic" group-title="🔹VTVcab🔹" tvg-logo="https://vietanhtv.id.vn/logo/onmusic.png", On Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="ontrending" group-title="🔹VTVcab🔹" tvg-logo="https://vietanhtv.id.vn/logo/ontrendingtv.png", ON TRENDING TV
@@ -387,7 +387,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🔹SCTV🔹" tvg-logo="https://vietanhtv.id.vn/logo/sctv4.png", SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title=""🔹SCTV🔹" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🔹SCTV🔹" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🔹SCTV🔹" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png", SCTV7
@@ -509,7 +509,7 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="dongthap" group-title="🔹Địa Phương🔹"  tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap1.png", Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=54
-#EXTINF:-1 tvg-id="dongthap2" group-title=""🔹Địa Phương🔹"  tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap2.png", Đồng Tháp 2
+#EXTINF:-1 tvg-id="dongthap2" group-title="🔹Địa Phương🔹"  tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap2.png", Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 tvg-id="danang1" group-title="🔹Địa Phương🔹"  tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang1.png", Đà Nẵng 1
@@ -679,7 +679,7 @@ http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884260&extension=
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884262&extension=ts
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="🔹Thể thao quốc tế🔹", CANAL+ZIGGO SPORT 6 🇳🇱 (Golf)
 http://ziggo.pro:80/play/live.php?mac=00:1A:79:B2:BF:78&stream=884273&extension=ts
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title=""🔹Thể thao quốc tế🔹",FIFA+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="🔹Thể thao quốc tế🔹",FIFA+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
@@ -1819,7 +1819,7 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts
 #EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="🔹Hoạt hình🔹",TVOKids 🇨🇦
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png" group-title="🔹Phim truyện🔹" 360 Phim Việt
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png" group-title="🔹Phim truyện🔹" , 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png" group-title="🔹Phim truyện🔹", 360 Hoạt hình
