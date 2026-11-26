@@ -1,6 +1,29 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://lichphatsong.io.vn/epg.xml"
 #EXTM3U x-tvg-url="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epg.xml"
 
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="ON Phim Việt" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",ON Phim Việt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livevlisctcdnw.seenow.vn/livesnv2/PHIM_VIET/manifest.mpd
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="PGA TOURCAST 🇺🇲" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",PGA TOURCAST 🇺🇲
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="AMERICAN BILLIARDS 🇺🇲" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",AMERICAN BILLIARDS 🇺🇲
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="DAZN RINGSIDE 🇺🇲" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",DAZN RINGSIDE 🇺🇲
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="PICKLEBALLTV 🇺🇲" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",PICKLEBALLTV 🇺🇲
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="TAP SPORTS 🇵🇭" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",TAP SPORTS 🇵🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="DP WORLD TOUR 🇺🇲" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",DP WORLD TOUR 🇺🇲
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="🔹Sự Kiện TV360🔹" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -687,7 +710,9 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1
 #EXTINF:-1  tvg-name="DAZN tv [vᴘɴ 🇺🇸][ʟɢ]"  tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png"group-title="Thể thao quốc tế",DAZN tv
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1  tvg-name="DAZN RISE" tvg-logo="https://cdn.upanhlaylink.com/i/bR1pgisQ.png"group-title="Thể thao quốc tế",DAZN RISE 🇩🇪
-http://iptvgo.cc:80/live/De123/De123/662275.m3u8
+http://aox.life:80/live/Meric/Meric2023/149442.m3u8
+#EXTINF:-1  tvg-name="DAZN FAST"  tvg-logo="https://cdn.upanhlaylink.com/i/yXYFJEVv.jpg"group-title="Thể thao quốc tế",DAZN FAST 🇩🇪
+http://aox.life:80/live/Meric/Meric2023/149439.m3u8
 #EXTINF:-1  tvg-name="DAZN FAST+"  tvg-logo="https://cdn.upanhlaylink.com/i/yXYFJEVv.jpg"group-title="Thể thao quốc tế",DAZN FAST+ 🇩🇪
 http://iptvgo.cc:80/live/De123/De123/662259.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Thể thao quốc tế",Sky Sports 1 🇲🇽 (LALIGA)
